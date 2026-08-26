@@ -12,7 +12,6 @@
 - [ ] Dashboard / Data Visualization
 - [ ] DAX (Data Analysis Expressions) – Creating Analytical Measures and KPIs
 - [ ] Power BI Service – Publishing dashboards and enabling stakeholder access.
-- [ ] End-to-End (multiple of the above)
 
 ---
 
@@ -55,11 +54,14 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. MedioPharm aims to deliver high-quality, efficient, and compassionate healthcare services while continuously improving clinical outcomes and operational performance for its growing patient population.
+**Context:** 
+MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. MedioPharm aims to deliver high-quality, efficient, and compassionate healthcare services while continuously improving clinical outcomes and operational performance for its growing patient population.
 
-**Problem Statement:** MedioPharm Medical Center is experiencing increasing operational challenges such as rising emergency room traffic, growing patient readmission rates, delayed doctor response times, and inconsistent patient outcomes across departments. 
+**Problem Statement:** 
+MedioPharm Medical Center is experiencing increasing operational challenges such as rising emergency room traffic, growing patient readmission rates, delayed doctor response times, and inconsistent patient outcomes across departments. 
 
-**Approach:** The project was executed in a structured sequence of analytical and technical phases to ensure the successful development of a comprehensive Power BI solution.
+**Approach:** 
+The project was executed in a structured sequence of analytical and technical phases to ensure the successful development of a comprehensive Power BI solution.
 
 **Outcome:** [What did you produce or discover?]
 
