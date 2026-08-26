@@ -7,13 +7,12 @@
 > *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
 
 - [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
+- [ ] Power BI Desktop
+- [ ] Power Query – Data Cleaning and Transformation
 - [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
+- [ ] DAX (Data Analysis Expressions) – Creating Analytical Measures and KPIs
+- [ ] Power BI Service – Publishing dashboards and enabling stakeholder access.
 - [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
 
 ---
 
@@ -56,11 +55,11 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [The business, research, or personal situation that motivated this project.]
+**Context:** MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. MedioPharm aims to deliver high-quality, efficient, and compassionate healthcare services while continuously improving clinical outcomes and operational performance for its growing patient population.
 
-**Problem Statement:** [The specific question or challenge you were addressing.]
+**Problem Statement:** MedioPharm Medical Center is experiencing increasing operational challenges such as rising emergency room traffic, growing patient readmission rates, delayed doctor response times, and inconsistent patient outcomes across departments. 
 
-**Approach:** [In 1–2 sentences - how did you tackle it?]
+**Approach:** The project was executed in a structured sequence of analytical and technical phases to ensure the successful development of a comprehensive Power BI solution.
 
 **Outcome:** [What did you produce or discover?]
 
