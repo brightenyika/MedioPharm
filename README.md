@@ -1,5 +1,5 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+# Operational Efficiency and Patient Outcome Analysis at MedioPharm Medical Center
+> *The project aims to develop a comprehensive Power BI dashboard providing real-time insights into hospital operations and patient care, enabling stakeholders to monitor key indicators such as abnormal vital signs, readmissions, doctor response times, departmental workload, and patient outcomes.*
 
 ---
 
