@@ -1,4 +1,4 @@
-# Operational Efficiency and Patient Outcome Analysis at MedioPharm Medical Center
+# MedioPharm Medical Center - Operational Efficiency & Patient Outcome Analysis 
 > *The project aims to develop a comprehensive Power BI dashboard providing real-time insights into hospital operations and patient care, enabling stakeholders to monitor key indicators such as abnormal vital signs, readmissions, doctor response times, departmental workload, and patient outcomes.*
 
 ---
@@ -54,16 +54,13 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** 
 MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. MedioPharm aims to deliver high-quality, efficient, and compassionate healthcare services while continuously improving clinical outcomes and operational performance for its growing patient population.
 
-**Problem Statement:** 
 MedioPharm Medical Center is experiencing increasing operational challenges such as rising emergency room traffic, growing patient readmission rates, delayed doctor response times, and inconsistent patient outcomes across departments. 
 
-**Approach:** 
-The project was executed in a structured sequence of analytical and technical phases to ensure the successful development of a comprehensive Power BI solution.
+This project followed a structured sequence of analytical and technical phases to develop a comprehensive Power BI solution that provides hospital administrators and medical teams with real-time visibility into key performance indicators.
 
-**Outcome:** [What did you produce or discover?]
+The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology recording the highest admissions. Flu, respiratory conditions, and hypertension were the leading diagnoses, while 2,138 patients recovered. However, 432 ICU cases, 189 readmissions, and 90 deaths highlight areas requiring further attention.
 
 ---
 
