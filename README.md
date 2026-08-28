@@ -112,10 +112,10 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 | Dimension | Details |
 |-----------|---------|
-| **In Scope** | Patient demographics and visit trends, Department performance & Key healthcare performance indicators |
-| **Out of Scope** | Individual patient identification, Clinical diagnosis or treatment recommendations & Predictive clinical decision-making |
-| **Time Period** | Jan 2024 –July 2024 |
-| **Granularity** | [Unit of analysis - row-level, admissions, visit reason, departments, heart rate, Oxygen sat, body temperature |
+| **In Scope** | Patient demographics and visit trends, Department performance, Key healthcare performance indicators |
+| **Out of Scope** | Individual patient identification, Clinical diagnosis or treatment recommendations, Predictive clinical decision-making |
+| **Time Period** | January 2024 –August 2024 |
+| **Granularity** | Unit of analysis - row-level, admissions, visit reason, departments, heart rate, Oxygen sat, body temperature |
 
 ### Tools & Technologies
 
