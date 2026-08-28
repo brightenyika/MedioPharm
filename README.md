@@ -171,10 +171,11 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 1. **Source:** Data was extracted from a data warehouse and provided as a CSV file
 2. **Ingestion:** The CSV file was downloaded and imported into Power BI for analysis
-3. **Cleaning:** Standardized data formats, corrected date/time fields, and separated combined columns where necessary.
-4. **Transformation:** Created calculated fields including visit hour, length of stay, response category, age group, and a calendar table for time-based analysis
-5. **Analysis:** Used DAX and Power BI to create measures, build data models, and analyze patient visits, department performance, wait times, length of stay, and demographics.
-6. **Output:** Developed an interactive Power BI dashboard presenting key performance indicators, trends, and actionable insights for MedioPharm Medical Center.
+3. **Cleaning:** Standardized data formats, corrected date/time fields, column structure, and missing/invalid values.
+4. **Validation:** Check data accuracy, consistency, duplicates, missing values, and data types
+5. **Transformation/:** Created calculated fields including visit hour, length of stay, response category, age group, and a calendar table for time-based analysis
+6. **Analysis:** Used DAX and Power BI to create measures, build data models, and analyze patient visits, department performance, wait times, length of stay, and demographics.
+7. **Output:** Developed an interactive Power BI dashboard presenting key performance indicators, trends, and actionable insights for MedioPharm Medical Center.
 
 ---
 
