@@ -126,13 +126,11 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 | Category | Tool(s) Used |
 |----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
-| Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
+| Data Storage | CSV files |
+| Data Modeling & Analysis | Power BI Desktop |
+| Data cleaning and Transformation | Power Query |
+| Analytical Measures | DAX (Data Analysis Expressions) |
+| Visualization | Power BI, Looker |
 
 ---
 
