@@ -90,7 +90,6 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 - Compare departmental performance and patient recovery outcomes
 - Develop interactive Power BI dashboards to provide real-time insights for hospital management
 
-> 💡 *Every analysis decision in this project traces back to one of these objectives.*
 
 ---
 
@@ -113,10 +112,10 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 | Dimension | Details |
 |-----------|---------|
-| **In Scope** | [What is included - data sources, time periods, segments] |
-| **Out of Scope** | [What you explicitly excluded - and a brief reason why] |
-| **Time Period** | [Date range of the data or the project itself] |
-| **Granularity** | [Unit of analysis - row-level, daily aggregates, per-user, etc.] |
+| **In Scope** | Patient demographics and visit trends, Department performance & Key healthcare performance indicators |
+| **Out of Scope** | Individual patient identification, Clinical diagnosis or treatment recommendations & Predictive clinical decision-making |
+| **Time Period** | Jan 2024 –July 2024 |
+| **Granularity** | [Unit of analysis - row-level, admissions, visit reason, departments, heart rate, Oxygen sat, body temperature |
 
 ### Tools & Technologies
 
