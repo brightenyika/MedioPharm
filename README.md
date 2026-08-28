@@ -19,8 +19,7 @@
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
+4. [Data Workflow](#5-data-workflow)
 6. [Data Model & Schema](#6-data-model--schema)
 7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
 8. [Analysis & Metrics](#8-analysis--metrics)
@@ -128,47 +127,13 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 |----------|-------------|
 | Data Storage | CSV files |
 | Data Modeling & Analysis | Power BI Desktop |
-| Data cleaning and Transformation | Power Query |
+| Data Cleaning and Transformation | Power Query |
 | Analytical Measures | DAX (Data Analysis Expressions) |
-| Visualization | Power BI, Looker |
+| Visualization | Power BI |
 
 ---
 
-## 4. Repository Structure
-
-```
-[project-root]/
-│
-├── data/
-│   ├── raw/                  # Original, unmodified source data - never edited
-│   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party files
-│
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
-│
-├── scripts/                  # Reusable .py, .R, or .sh processing files
-│
-├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          # Ad-hoc or investigative queries
-│   ├── transformations/      # Cleaning and reshaping logic
-│   └── final/                # Production-ready or presentation queries
-│
-├── reports/                  # Final outputs: PDFs, slide decks, Word docs
-│
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
-│
-├── docs/                     # Data dictionaries, schema notes, reference material
-│
-├── project_metadata.yml      # Machine-readable metadata (optional)
-└── README.md                 # You are here
-```
-
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
-
----
-
-## 5. Data Workflow
+## 4. Data Workflow
 
 <!--
   Show how data moved through your project - from source to output.
@@ -204,12 +169,12 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 [Output / Visualisation / Reporting]
 ```
 
-1. **Source:** [Where did the data come from? Format, size, access method.]
-2. **Ingestion:** [How was it brought in?]
-3. **Cleaning:** [What issues did you find and fix?]
-4. **Transformation:** [What new fields, aggregations, or structures did you create?]
-5. **Analysis:** [What methods - statistical, visual, query-based, model-based?]
-6. **Output:** [What form do the results take?]
+1. **Source:** Data was extracted from a data warehouse and provided as a CSV file
+2. **Ingestion:** The CSV file was downloaded and imported into Power BI for analysis
+3. **Cleaning:** Standardized data formats, corrected date/time fields, and separated combined columns where necessary.
+4. **Transformation:** Created calculated fields including visit hour, length of stay, response category, age group, and a calendar table for time-based analysis
+5. **Analysis:** Used DAX and Power BI to create measures, build data models, and analyze patient visits, department performance, wait times, length of stay, and demographics.
+6. **Output:** Developed an interactive Power BI dashboard presenting key performance indicators, trends, and actionable insights for MedioPharm Medical Center.
 
 ---
 
