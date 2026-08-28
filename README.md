@@ -9,8 +9,8 @@
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] Power BI Desktop
 - [ ] Power Query – Data Cleaning and Transformation
-- [ ] Dashboard / Data Visualization
 - [ ] DAX (Data Analysis Expressions) – Creating Analytical Measures and KPIs
+- [ ] Dashboard / Data Visualization
 - [ ] Power BI Service – Publishing dashboards and enabling stakeholder access.
 
 ---
@@ -54,7 +54,7 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. MedioPharm aims to deliver high-quality, efficient, and compassionate healthcare services while continuously improving clinical outcomes and operational performance for its growing patient population.
+MedioPharm Medical Center is a leading private healthcare institution that has evolved from a small general practice facility into a multi-specialty medical center over the past two decades. The hospital provides services across several departments including Cardiology, Pulmonology, Emergency Services, and Internal Medicine. 
 
 MedioPharm Medical Center is experiencing increasing operational challenges such as rising emergency room traffic, growing patient readmission rates, delayed doctor response times, and inconsistent patient outcomes across departments. 
 
@@ -82,10 +82,13 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
   (These can't fail - which means they can't succeed either.)
 -->
 
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
+- Analyze hospital operational data to identify inefficiencies in patient care processes
+- Monitor emergency room load and patient flow trends
+- Track patient readmission rates and patterns to identify potential causes
+- Evaluate doctor response times and staff engagement efficiency
+- Analyze patient vital signs data to identify potential health risk indicators
+- Compare departmental performance and patient recovery outcomes
+- Develop interactive Power BI dashboards to provide real-time insights for hospital management
 
 > 💡 *Every analysis decision in this project traces back to one of these objectives.*
 
