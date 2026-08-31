@@ -243,7 +243,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 -->
 
 ### Option A - Embedded Image
-![ERD Diagram](https://brightenyika.github.io/#)
+![ERD Diagram](file:///C:/Users/Enyik/Downloads/Untitled.svg)
 *[Brief caption: e.g., "Three-table schema - orders, customers, and products joined on shared IDs."]*
 
 ---
