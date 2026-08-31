@@ -243,7 +243,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 -->
 
 ### Option A - Embedded Image
-![ERD Diagram](file:///C:/Users/Enyik/Downloads/Untitled.svg)
+![ERD Diagram](https://cdn.corenexis.com/f/1kKM6roV1me.png)
 *[Brief caption: e.g., "Three-table schema - orders, customers, and products joined on shared IDs."]*
 
 ---
