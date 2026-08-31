@@ -181,7 +181,6 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 ---
 
 ## 7. ERD - Entity Relationship Diagram
-### *(Primarily for SQL Projects - remove this section if not applicable)*
 
 <!--
   An ERD shows how your tables connect to each other visually.
@@ -204,9 +203,8 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
   PICK ONE. Don't use all three. Delete the options you don't use.
 -->
 
-### Option A - Embedded Image
 ![ERD Diagram](https://cdn.corenexis.com/f/1kKM6roV1me.png)
-* "Three-table schema - patients, addmisions, and doctor visits joined on shared IDs."]*
+* Four-table schema - patients, admissions, vitals, and doctor visits joined on shared IDs.
 
 ---
 
