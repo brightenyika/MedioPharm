@@ -234,9 +234,9 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `Patient Readmission Rates` | Number of readmitted patients divided by total admissions  | Helps to measure the quality of care and identify patients or areas that may require better follow-up or treatment |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
+| `Patient Readmission Rate` | Number of readmitted patients divided by total admissions  | Measures the quality of care and identify patients or areas that may require better follow-up or treatment |
+| `Average Response Time` | Average time taken to respond to each patient | Measures how quickly the hospital responds to patients |
+| `ER admissions` | Count of rows in admissions table where department is Emergency | [What decision or question it answers] |
 
 ### Methods Used
 
