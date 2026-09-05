@@ -271,13 +271,13 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1:** Medication-related concerns were the leading reason patients visited the hospital. This points to a needed improvement in refill processes and prescription renewals.
+**Medication Services:** Medication-related concerns were the leading reason patients visited the hospital. This points to a needed improvement in refill processes and prescription renewals.
 
-**Insight 2:** Readmissions spiked sharply in February, reaching 76 cases, before gradually declining through June. This pattern may indicate a seasonal or post-holiday effect.
+**Readmission Spike:** Readmissions spiked sharply in February, reaching 76 cases, before gradually declining through June. This pattern may indicate a seasonal or post-holiday effect.
 
-**Insight 3:** Average response times were consistent across departments at approximately 16 minutes, suggesting that response speed is relatively standardized and is unlikely to be a major differentiator in departmental performance.
+**Response Times:** Average response times were consistent across departments at approximately 16 minutes, suggesting that response speed is relatively standardized and is unlikely to be a major differentiator in departmental performance.
 
-**Insight 4:** The 7-day vitals trend shows that abnormal cases consistently outnumbered normal cases, indicating a persistent pattern rather than a one-time increase.
+**Vitals:** The 7-day vitals trend shows that abnormal cases consistently outnumbered normal cases, indicating a persistent pattern rather than a one-time increase.
 
 ---
 
@@ -302,11 +302,11 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
      (This is a placeholder, not a recommendation.)
 -->
 
-| Priority | Recommendation | Based On | Suggested Owner |
+| Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] | 
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
+| [Specific, actionable step] | [Insight it comes from] | [Who should act] |
+| [Specific, actionable step] | [Insight it comes from] | [Who should act] | 
+| [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
 
 ---
 
