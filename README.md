@@ -305,7 +305,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 | Priority | Recommendation | Based On | Suggested Owner |
 |----------|---------------|----------|-----------------|
 | High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
+| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] | 
 | Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
 
 ---
