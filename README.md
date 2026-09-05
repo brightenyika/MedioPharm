@@ -271,16 +271,16 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1: [Short descriptive headline]**
+**Insight 1: Medication-related concerns were the leading reason patients visited the hospital. This points to a needed improvement in refill processes and prescription renewals. **
 [What you found + what it suggests. One short paragraph.]
 
-**Insight 2: [Short descriptive headline]**
+**Insight 2: Readmissions spiked sharply in February, reaching 76 cases, before gradually declining through June. This pattern may indicate a seasonal or post-holiday effect and warrants further investigation into the underlying causes, including changes in patient health conditions, discharge patterns, or follow-up care during this period.**
 [What you found + what it suggests.]
 
-**Insight 3: [Short descriptive headline]**
+**Insight 3: Average response times were consistent across departments at approximately 16 minutes, suggesting that response speed is relatively standardized and is unlikely to be a major differentiator in departmental performance.**
 [What you found + what it suggests.]
 
-**Insight 4 (if applicable): [Short descriptive headline]**
+**Insight 4 : The 7-day vitals trend shows that abnormal cases consistently outnumbered normal cases, indicating a persistent pattern rather than a one-time increase. This may suggest a need for closer monitoring of high-risk patients, earlier intervention, and further analysis to identify the conditions or patient groups contributing most to abnormal vital signs.**
 [What you found + what it suggests.]
 
 ---
