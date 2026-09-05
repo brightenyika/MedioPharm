@@ -275,6 +275,8 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 **Readmission Spike:** Readmissions spiked sharply in February, reaching 76 cases, before gradually declining through June. This pattern may indicate a seasonal or post-holiday effect.
 
+**Departmental Performance:** General Medicine (37), Cardiology (35), and ICU (34) lead in readmission volume, showing these departments carry the heaviest recurring patient load.
+
 **Response Times:** Average response times were consistent across departments at approximately 16 minutes, suggesting that response speed is relatively standardized and is unlikely to be a major differentiator in departmental performance.
 
 **Vitals:** The 7-day vitals trend shows that abnormal cases consistently outnumbered normal cases, indicating a persistent pattern rather than a one-time increase.
@@ -303,10 +305,11 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 -->
 
 | Recommendation | Based On | Suggested Owner |
-|----------|---------------|----------|-----------------|
-| [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| [Specific, actionable step] | [Insight it comes from] | [Who should act] | 
-| [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
+|-------------------------|----------|-----------------|
+| Standardize post-discharge monitoring hospital-wide | Readmissions | Care Coordinators |
+| Strengthen discharge planning, prescription renewal concern, and post-discharge follow-up to reduce avoidable readmissions | Readmission spike | Physicians and Case Manager| 
+| Prioritize resources and staffing for high-demand departments, particularly Emergency, Pulmonology, Cardiology, and ICU | Departmental Performance | Head of Departments |
+| Investigate root causes behind the high abnormal-vitals ratio | Vitals | Doctors |
 
 ---
 
@@ -328,17 +331,14 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 -->
 
 ### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
+- The recorded reason for visit is assumed to accurately represent the patient's primary concern. 
+- Department classifications are assumed to be accurate and consistent.
+- Vital-sign classifications of “normal” and “abnormal” are assumed to be correctly categorized according to the definitions provided in the dataset.
 
 ### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
-
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
+- Patient characteristics and external factors.
+- The analysis focuses on descriptive and operational insights.
+- Response time alone does not measure the quality of care.
 
 ---
 
