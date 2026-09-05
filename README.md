@@ -234,18 +234,20 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `Patient Readmission Rate` | Number of readmitted patients divided by total admissions  | Measures the quality of care and identify patients or areas that may require better follow-up or treatment |
-| `Average Response Time` | Average time taken to respond to each patient | Measures how quickly the hospital responds to patients |
-| `ER admissions` | Count of rows in admissions table where department is Emergency | [What decision or question it answers] |
+| `Total Visits` | Count of total visits | Tracks overall hospital visit volume |
+| `Patient Readmission Rate` | Number of readmitted patients divided by total admissions  | Measures care quality and identifies areas that may require better follow-up or treatment |
+| `30-Day readmissions` | Number of patients readmitted within 30 days  | Tracks the hospital’s 30-day readmission performance |
+| `Average Dr Response Time` | Average time taken to respond to each patient | Measures how quickly doctors respond to patients |
+| `ER admissions` | Count of admissions where the department is Emergency | Tracks the total number of emergency admissions |
+
 
 ### Methods Used
 
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
+- Descriptive statistics – Analyzed patient visits, admissions, readmissions, response times, and demographic distributions.
+- Trend analysis – Examined patient visits and admissions across time to identify patterns and changes.
+- Segmentation / group comparison – Compared performance across departments, age groups, diagnoses, and other patient categories.
+- KPI analysis – Developed key performance indicators such as total visits, ER admissions, readmission rate, and average response time.
+- Custom transformations in Power BI – Created calculated columns, measures, age groups, visit hours, length of stay, and calendar tables using Power Query and DAX.
 
 ---
 
