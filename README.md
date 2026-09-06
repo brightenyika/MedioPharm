@@ -177,7 +177,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 7. ERD - Entity Relationship Diagram
+## 5. ERD - Entity Relationship Diagram
 
 <!--
   An ERD shows how your tables connect to each other visually.
@@ -205,7 +205,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 8. Analysis & Metrics
+## 6. Analysis & Metrics
 
 <!--
   Explain what you measured and how - before you share what you found.
@@ -249,7 +249,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 9. Key Insights
+## 7. Key Insights
 
 <!--
   Findings + implications. Not just what happened - what it means.
@@ -281,7 +281,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 10. Recommendations
+## 8. Recommendations
 
 <!--
   Action-oriented. Addressed to a real audience.
@@ -311,7 +311,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 11. Assumptions & Limitations
+## 9. Assumptions & Limitations
 
 <!--
   WHAT GOOD LOOKS LIKE:
@@ -340,7 +340,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 12. Future Enhancements
+## 10. Future Enhancements
 
 <!--
   WHAT GOOD LOOKS LIKE:
@@ -361,10 +361,10 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ---
 
-## 14. Author
+## 11. Author
 
 **Bright Enyika**
-Data Analyst
+--Data Analyst
 
 - 🔗 [https://www.linkedin.com/in/bright-enyika/]
 - 💼 [https://brightenyika.github.io/#]
