@@ -364,12 +364,11 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 ## 11. Author
 
 **Bright Enyika**
---Data Analyst
+*Data Analyst*
 
 - 🔗 [https://www.linkedin.com/in/bright-enyika/]
 - 💼 [https://brightenyika.github.io/#]
 
 ---
 
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
+*Last updated: August 2025*
