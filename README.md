@@ -357,31 +357,19 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
   ❌ Listing aspirational features that don't follow logically from the work.
 -->
 
-- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
-- [ ] [Enhancement 2]
-- [ ] [Enhancement 3]
-- [ ] [Enhancement 4]
-
----
-
-## 13. Deliverables
-
-| Deliverable | Description | Location |
-|-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
+- [ ] Incorporate additional data sources such as pharmacy records, laboratory results, and patient satisfaction surveys for deeper analysis.
+- [ ] Develop machine learning models to predict patient readmissions, abnormal vital signs, and high-risk patients.
+- [ ] Automated alerts to monitor response times, patient volume, and critical healthcare metrics.
 
 ---
 
 ## 14. Author
 
-**[Your Name]**
-[Your role or title - current or target]
+**[Bright Enyika]**
+[Data Analyst
 
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 🔗 [https://www.linkedin.com/in/bright-enyika/]
+- 💼 [https://brightenyika.github.io/#]
 
 ---
 
