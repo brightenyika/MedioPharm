@@ -19,15 +19,13 @@
 2. [Objectives](#2-objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Data Workflow](#5-data-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram)
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+5. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram)
+6. [Analysis & Metrics](#8-analysis--metrics)
+7. [Key Insights](#9-key-insights)
+8. [Recommendations](#10-recommendations)
+9. [Assumptions & Limitations](#11-assumptions--limitations)
+10. [Future Enhancements](#12-future-enhancements)
+11. [Author](#14-author)
 
 ---
 
@@ -365,8 +363,8 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 
 ## 14. Author
 
-**[Bright Enyika]**
-[Data Analyst
+**Bright Enyika**
+Data Analyst
 
 - 🔗 [https://www.linkedin.com/in/bright-enyika/]
 - 💼 [https://brightenyika.github.io/#]
