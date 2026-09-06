@@ -203,7 +203,7 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
 -->
 
 ![ERD Diagram](https://cdn.corenexis.com/f/1kKM6roV1me.png)
-* A four-table schema - patients, admissions, vitals, and doctor visits joined on shared IDs.
+* A five-table schema - patients, admissions, vitals, and doctor visits joined on shared IDs.
 
 ---
 
