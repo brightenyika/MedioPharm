@@ -1,0 +1,1001 @@
+patient_id,full_name,gender,date_of_birth,chronic_conditions,registration_date
+1,Susan Davis,Male,1996-04-06,Diabetes,2021-03-08
+2,Robert Williams,Male,1986-07-02,Heart Disease,2023-10-04
+3,David Brown,Female,1988-12-20,None,2022-11-03
+4,Lisa Garcia,Female,1982-09-19,Asthma,2021-10-12
+5,Joseph Williams,Female,1970-06-12,Diabetes;Hypertension,2022-06-22
+6,Joseph Brown,Female,1977-07-13,Heart Disease,2021-09-30
+7,Charles Smith,Male,1978-08-31,Diabetes,2021-04-01
+8,Nancy Garcia,Male,1962-06-29,Hypertension,2022-09-13
+9,Joseph Miller,Female,2004-10-24,None,2024-01-30
+10,Daniel Rodriguez,Male,2003-08-01,Diabetes,2024-04-12
+11,Mary Smith,Female,1982-01-15,Hypertension,2022-05-04
+12,Nancy Johnson,Male,2018-05-21,Asthma,2021-05-28
+13,Lisa Williams,Male,1995-11-22,None,2023-02-06
+14,James Garcia,Female,1984-08-12,Asthma,2021-12-07
+15,Robert Williams,Male,1984-12-23,None,2022-05-18
+16,Patricia Williams,Male,1968-12-15,Diabetes,2023-07-23
+17,Daniel Miller,Male,1988-01-29,None,2022-12-13
+18,Daniel Garcia,Male,1993-11-18,None,2021-03-31
+19,Mark Martinez,Male,1968-06-26,Asthma,2023-07-07
+20,Thomas Jones,Female,1989-06-24,Heart Disease,2022-05-10
+21,Linda Davis,Female,1989-11-06,Asthma,2021-05-09
+22,Nancy Martinez,Female,1957-03-07,Heart Disease,2023-05-12
+23,Linda Rodriguez,Female,1979-10-18,None,2023-10-01
+24,John Davis,Male,1982-04-01,None,2021-03-14
+25,Michael Johnson,Female,1976-05-14,Asthma,2021-07-09
+26,Susan Rodriguez,Female,1957-07-01,Hypertension,2023-07-29
+27,Joseph Miller,Female,2010-02-25,Diabetes;Hypertension,2022-06-15
+28,Michael Brown,Female,1991-08-16,Heart Disease,2023-12-08
+29,Charles Martinez,Female,1947-12-15,None,2022-02-05
+30,Patricia Miller,Male,2017-06-15,Diabetes;Hypertension,2021-08-27
+31,Mary Martinez,Male,1970-12-16,Hypertension,2021-07-02
+32,Michael Garcia,Female,1959-08-05,Diabetes,2023-09-05
+33,David Martinez,Male,1976-05-22,Asthma,2022-01-09
+34,Patricia Davis,Female,1963-08-21,Asthma,2021-07-16
+35,James Jones,Female,2004-07-30,None,2024-02-12
+36,James Miller,Female,2001-04-11,Asthma,2021-01-16
+37,David Miller,Male,2017-11-10,None,2022-02-14
+38,Karen Davis,Female,1976-03-22,Diabetes,2022-06-06
+39,Joseph Jones,Female,2001-06-01,Heart Disease,2022-08-02
+40,Joseph Garcia,Female,1968-08-26,Diabetes;Hypertension,2023-04-09
+41,Joseph Davis,Female,1969-11-09,None,2023-09-16
+42,Karen Miller,Male,2006-11-15,Heart Disease,2024-01-11
+43,David Martinez,Female,1982-04-20,None,2024-03-01
+44,Daniel Johnson,Female,1998-02-03,Heart Disease,2022-11-03
+45,Lisa Williams,Male,1978-07-21,Diabetes,2022-08-02
+46,Nancy Smith,Male,1972-08-10,Heart Disease,2021-07-15
+47,Susan Brown,Female,2011-10-31,Heart Disease,2021-06-01
+48,James Garcia,Male,1946-06-10,Heart Disease,2023-03-15
+49,Daniel Smith,Male,2017-08-26,None,2024-03-01
+50,Mark Garcia,Male,1995-09-15,Diabetes,2023-01-20
+51,Linda Smith,Female,1955-07-15,None,2022-12-09
+52,Charles Garcia,Male,1980-08-27,Diabetes,2023-06-19
+53,Lisa Davis,Female,1984-11-25,Heart Disease,2023-08-23
+54,Susan Garcia,Female,1960-09-16,Asthma,2022-12-26
+55,Susan Williams,Male,1962-06-09,Diabetes,2021-07-18
+56,Charles Miller,Female,2002-06-04,Heart Disease,2022-01-25
+57,Lisa Smith,Male,1978-09-29,Hypertension,2021-04-13
+58,Charles Williams,Male,1965-01-13,Diabetes;Hypertension,2021-04-12
+59,Linda Jones,Male,1995-08-26,Asthma,2023-01-09
+60,David Garcia,Male,1998-08-28,Asthma,2023-05-29
+61,Mark Davis,Female,1959-08-10,None,2021-12-11
+62,Charles Miller,Male,1960-07-13,Heart Disease,2021-12-27
+63,Sarah Miller,Male,2002-07-30,Diabetes,2023-03-14
+64,Patricia Jones,Male,1954-08-02,Hypertension,2023-05-16
+65,Lisa Brown,Female,1991-10-25,None,2023-09-01
+66,Mark Brown,Male,2004-09-03,Heart Disease,2021-11-20
+67,Sarah Martinez,Female,2002-02-23,Heart Disease,2023-08-30
+68,Karen Johnson,Male,1964-07-18,Heart Disease,2022-08-12
+69,John Johnson,Female,1995-01-28,None,2023-12-24
+70,Daniel Williams,Male,1946-07-21,Hypertension,2023-06-01
+71,Linda Smith,Male,1974-02-09,Diabetes,2023-09-03
+72,Jennifer Brown,Female,1970-12-12,Heart Disease,2022-02-17
+73,Lisa Miller,Male,1993-11-24,Diabetes,2024-04-12
+74,John Smith,Male,1945-06-28,None,2021-09-10
+75,David Smith,Female,2007-03-10,Diabetes;Hypertension,2023-03-01
+76,Lisa Miller,Male,2004-05-12,Heart Disease,2022-01-10
+77,Mark Martinez,Female,1960-03-17,Asthma,2021-04-19
+78,Mary Miller,Female,1975-02-16,Asthma,2022-01-16
+79,David Williams,Female,2008-08-21,Hypertension,2023-01-17
+80,Joseph Smith,Male,1960-10-18,Hypertension,2021-07-06
+81,Patricia Williams,Male,1952-01-19,Heart Disease,2023-12-11
+82,Lisa Garcia,Male,1955-10-20,Heart Disease,2022-08-13
+83,Susan Rodriguez,Male,1968-04-18,Diabetes;Hypertension,2023-11-26
+84,Lisa Smith,Male,1950-04-29,Heart Disease,2021-04-26
+85,Michael Jones,Female,1946-04-25,Diabetes,2022-03-15
+86,Thomas Johnson,Female,1947-06-02,Hypertension,2023-02-06
+87,Linda Williams,Male,1986-08-23,Asthma,2023-08-08
+88,Joseph Williams,Female,1999-08-31,Heart Disease,2021-11-12
+89,Michael Smith,Female,2005-01-09,Heart Disease,2023-08-20
+90,Jessica Jones,Male,1979-12-07,Asthma,2021-12-07
+91,Charles Rodriguez,Female,1991-08-22,Diabetes,2022-12-25
+92,Daniel Williams,Male,2002-07-25,Asthma,2022-10-11
+93,Thomas Rodriguez,Male,1949-10-13,Asthma,2022-11-17
+94,Mary Williams,Male,1999-09-20,None,2021-06-16
+95,Jennifer Davis,Male,1977-11-05,None,2023-06-11
+96,Joseph Miller,Female,1951-02-01,Diabetes,2023-01-21
+97,Mark Rodriguez,Male,2012-03-29,Diabetes;Hypertension,2021-09-17
+98,Michael Miller,Male,2011-11-24,Heart Disease,2022-05-10
+99,Mark Brown,Male,1998-09-02,Heart Disease,2023-09-30
+100,Lisa Martinez,Male,2010-06-12,None,2021-11-14
+101,Joseph Johnson,Male,2003-12-05,None,2023-03-23
+102,Linda Garcia,Female,1985-09-29,Diabetes;Hypertension,2022-01-02
+103,Daniel Jones,Female,1963-08-24,Diabetes,2022-05-23
+104,Susan Garcia,Female,1950-05-06,None,2023-09-20
+105,Thomas Martinez,Male,1974-03-18,Asthma,2022-08-24
+106,Joseph Williams,Male,2009-01-24,Asthma,2022-08-05
+107,Sarah Davis,Male,1983-07-18,None,2021-07-09
+108,Nancy Johnson,Male,2018-07-19,Heart Disease,2023-02-15
+109,Robert Martinez,Female,2009-12-29,None,2024-02-02
+110,Susan Davis,Male,1982-10-25,Asthma,2021-08-26
+111,Joseph Martinez,Female,1947-01-30,Diabetes;Hypertension,2023-06-29
+112,Nancy Williams,Female,1982-08-24,Diabetes,2022-09-04
+113,Jessica Martinez,Female,1965-05-07,Asthma,2023-08-26
+114,Joseph Martinez,Male,1972-02-02,Heart Disease,2024-02-03
+115,Joseph Jones,Male,1993-11-05,Diabetes,2023-01-23
+116,Lisa Williams,Male,1965-01-04,Heart Disease,2023-02-05
+117,Mary Williams,Female,1995-09-03,Hypertension,2021-03-08
+118,John Williams,Female,1959-10-10,Hypertension,2022-02-05
+119,Jennifer Smith,Male,1948-11-07,Diabetes,2023-10-30
+120,Joseph Garcia,Male,2005-12-13,Asthma,2023-09-30
+121,Robert Smith,Male,2001-08-19,Hypertension,2022-12-31
+122,Jennifer Johnson,Female,1948-10-04,Hypertension,2021-10-16
+123,Nancy Miller,Female,1976-06-13,Heart Disease,2022-10-18
+124,Susan Smith,Male,2018-07-28,Asthma,2022-08-27
+125,Jessica Miller,Female,2004-09-18,Hypertension,2023-01-07
+126,Charles Brown,Female,1951-04-09,Hypertension,2021-11-20
+127,Charles Miller,Male,1962-11-12,Diabetes;Hypertension,2021-01-11
+128,Jessica Garcia,Female,1960-05-17,None,2021-11-27
+129,James Martinez,Male,1979-11-22,Asthma,2022-05-24
+130,Nancy Jones,Female,2018-05-18,None,2021-04-20
+131,Jennifer Williams,Male,2014-11-12,Asthma,2021-06-26
+132,James Miller,Male,1981-04-24,Asthma,2024-02-21
+133,Jennifer Garcia,Female,1982-02-15,Diabetes;Hypertension,2022-01-25
+134,Charles Smith,Male,1956-09-15,Diabetes,2022-02-11
+135,Nancy Smith,Male,1952-01-18,Diabetes;Hypertension,2023-03-17
+136,Daniel Garcia,Female,2009-02-02,Heart Disease,2024-03-09
+137,Jessica Brown,Female,2001-03-07,Asthma,2021-12-26
+138,Sarah Miller,Male,1986-07-25,Diabetes,2023-11-07
+139,David Jones,Male,1950-04-18,Hypertension,2021-08-12
+140,Patricia Rodriguez,Female,2009-07-01,Diabetes,2022-11-29
+141,Michael Johnson,Male,1976-06-17,Asthma,2024-03-06
+142,Mark Martinez,Male,2003-01-07,Diabetes,2021-08-31
+143,Susan Brown,Female,1998-07-08,Asthma,2021-10-06
+144,David Garcia,Female,1950-12-11,Diabetes,2021-12-18
+145,Joseph Rodriguez,Male,2002-04-19,Diabetes;Hypertension,2021-04-28
+146,Joseph Rodriguez,Female,1949-10-24,Heart Disease,2021-03-10
+147,Lisa Martinez,Female,1993-01-11,Hypertension,2022-09-28
+148,Joseph Garcia,Female,1998-02-17,None,2021-10-05
+149,Karen Rodriguez,Male,1968-05-12,Hypertension,2022-08-23
+150,Daniel Davis,Female,2001-03-25,Asthma,2023-02-11
+151,Sarah Williams,Male,1959-12-14,None,2022-07-17
+152,Susan Jones,Male,1984-11-03,Hypertension,2023-01-10
+153,Mary Smith,Male,1961-12-06,Heart Disease,2021-09-21
+154,Michael Smith,Female,1993-01-22,Hypertension,2024-02-01
+155,Patricia Jones,Male,1986-05-14,Diabetes,2023-01-18
+156,David Johnson,Male,2003-07-19,Asthma,2022-12-28
+157,Jennifer Martinez,Female,2015-03-18,Heart Disease,2024-01-14
+158,Mary Rodriguez,Female,2005-04-19,Diabetes;Hypertension,2022-08-16
+159,Joseph Martinez,Male,2009-08-29,Hypertension,2022-11-25
+160,Jessica Jones,Female,1975-01-05,None,2023-09-07
+161,Charles Martinez,Female,1978-06-27,Diabetes,2022-05-31
+162,Mark Miller,Female,2018-05-10,Diabetes;Hypertension,2022-04-14
+163,Daniel Johnson,Male,1969-07-28,None,2021-08-05
+164,Jennifer Williams,Male,1968-01-29,None,2023-06-13
+165,Patricia Williams,Female,1990-01-24,Heart Disease,2024-02-08
+166,Linda Garcia,Male,1962-04-30,Hypertension,2021-09-08
+167,Joseph Smith,Female,1987-08-11,Heart Disease,2022-01-21
+168,Nancy Jones,Male,1957-01-18,Heart Disease,2021-02-05
+169,Michael Davis,Female,1997-12-13,Heart Disease,2021-08-04
+170,Mark Williams,Male,1971-12-18,Asthma,2021-04-08
+171,Jessica Miller,Female,2003-07-28,Heart Disease,2021-01-20
+172,John Martinez,Male,1996-01-06,Diabetes;Hypertension,2021-02-03
+173,Mark Brown,Female,2014-04-26,Asthma,2022-07-19
+174,Nancy Brown,Female,1966-04-19,Heart Disease,2022-11-30
+175,Charles Smith,Male,1997-04-27,None,2021-03-16
+176,Robert Brown,Male,1956-10-28,Asthma,2022-02-23
+177,Joseph Garcia,Male,1982-01-19,Diabetes;Hypertension,2021-05-03
+178,Lisa Martinez,Male,1964-02-17,Diabetes;Hypertension,2021-12-29
+179,John Jones,Male,2012-09-05,Heart Disease,2022-12-15
+180,Mark Johnson,Male,2015-06-26,Asthma,2023-09-29
+181,Linda Davis,Female,1951-12-15,Hypertension,2022-09-11
+182,Jessica Jones,Male,2013-01-03,Hypertension,2021-04-23
+183,Karen Rodriguez,Female,1951-01-15,None,2021-06-10
+184,Linda Williams,Male,1954-12-25,Diabetes,2024-02-15
+185,Mary Johnson,Female,2005-03-29,None,2023-05-09
+186,Daniel Rodriguez,Female,1982-02-22,Asthma,2023-01-26
+187,John Rodriguez,Male,1967-10-15,Asthma,2023-03-06
+188,David Miller,Female,1965-05-18,Hypertension,2024-02-14
+189,Mary Smith,Female,2005-01-26,Heart Disease,2024-01-24
+190,Patricia Garcia,Male,2004-06-13,Diabetes,2023-08-14
+191,Sarah Garcia,Male,1975-12-03,Hypertension,2023-10-11
+192,John Rodriguez,Female,1949-09-15,None,2022-09-18
+193,Mary Williams,Male,2011-12-05,Hypertension,2023-01-13
+194,Nancy Smith,Female,1965-05-26,Heart Disease,2022-12-26
+195,Nancy Miller,Female,2006-02-15,Hypertension,2023-02-16
+196,Michael Jones,Male,2009-11-15,Hypertension,2021-01-16
+197,Patricia Miller,Male,1976-02-10,Asthma,2023-10-22
+198,Mark Rodriguez,Female,1957-10-25,Diabetes;Hypertension,2022-04-07
+199,Jennifer Martinez,Female,2005-09-29,None,2022-09-08
+200,Jennifer Miller,Male,2017-11-19,Diabetes,2021-05-13
+201,Karen Garcia,Male,1949-06-15,Diabetes;Hypertension,2021-06-22
+202,David Smith,Female,1961-10-01,Diabetes,2021-05-01
+203,Nancy Miller,Female,2008-01-25,Hypertension,2021-05-19
+204,Nancy Johnson,Male,1955-01-26,Heart Disease,2021-02-04
+205,Mark Jones,Male,2016-06-10,Hypertension,2021-06-09
+206,Patricia Brown,Male,1999-01-28,Asthma,2021-08-21
+207,Daniel Jones,Male,1956-07-12,Asthma,2023-09-16
+208,Michael Miller,Female,1949-11-06,Diabetes,2023-06-09
+209,Michael Martinez,Female,2012-07-25,Diabetes;Hypertension,2023-01-17
+210,Nancy Miller,Male,1996-01-31,Asthma,2023-11-12
+211,Robert Smith,Male,1981-03-22,Asthma,2021-07-17
+212,Michael Rodriguez,Male,1993-05-17,Hypertension,2021-07-23
+213,Mary Smith,Female,1964-12-02,Asthma,2021-08-17
+214,Mary Johnson,Male,2003-10-30,Asthma,2023-10-22
+215,Jennifer Miller,Female,1972-06-21,Hypertension,2021-04-11
+216,Susan Smith,Male,1984-04-15,Diabetes,2024-01-11
+217,David Smith,Male,2004-10-03,Heart Disease,2022-03-01
+218,Robert Rodriguez,Female,1969-05-20,Diabetes;Hypertension,2022-10-19
+219,Michael Martinez,Male,1949-06-16,Asthma,2024-01-22
+220,Susan Martinez,Female,1967-06-30,Diabetes;Hypertension,2023-09-23
+221,Susan Garcia,Male,1984-06-12,Hypertension,2023-01-03
+222,Mary Smith,Female,1993-03-21,Asthma,2023-03-16
+223,Joseph Brown,Male,1960-03-16,Asthma,2021-03-18
+224,David Brown,Male,1998-02-23,Heart Disease,2021-12-16
+225,Nancy Brown,Female,2011-01-14,Heart Disease,2021-11-22
+226,Mary Rodriguez,Female,2018-09-16,Diabetes,2021-11-26
+227,David Brown,Female,1957-08-31,None,2023-08-12
+228,Linda Williams,Male,1950-03-10,None,2021-12-21
+229,Sarah Johnson,Male,1986-08-05,Diabetes;Hypertension,2021-03-23
+230,Sarah Davis,Female,2013-10-06,None,2021-05-05
+231,James Johnson,Male,1998-05-11,None,2024-04-10
+232,Karen Williams,Female,2002-06-15,Hypertension,2024-03-26
+233,Nancy Brown,Female,1961-12-17,Diabetes,2023-10-24
+234,Joseph Martinez,Female,1992-11-11,Diabetes;Hypertension,2023-07-03
+235,Karen Smith,Female,1985-01-19,Heart Disease,2021-01-02
+236,Lisa Miller,Female,1967-11-25,Hypertension,2021-08-03
+237,Patricia Williams,Female,1983-09-11,Diabetes,2021-06-08
+238,Mark Jones,Male,1955-02-15,Diabetes,2021-05-16
+239,Robert Miller,Female,1948-12-17,Heart Disease,2022-12-03
+240,Daniel Miller,Male,1950-10-05,Diabetes;Hypertension,2022-06-23
+241,Jennifer Jones,Male,1945-10-26,None,2022-08-21
+242,James Smith,Male,1963-06-17,Hypertension,2021-12-24
+243,Sarah Garcia,Male,1968-10-21,Heart Disease,2023-08-21
+244,Mark Garcia,Male,2003-12-04,Asthma,2024-02-06
+245,Susan Martinez,Male,1981-10-18,Diabetes;Hypertension,2023-05-20
+246,John Rodriguez,Male,1977-01-14,Asthma,2022-11-14
+247,Thomas Smith,Female,1993-08-07,None,2024-03-22
+248,Linda Miller,Male,1989-11-08,Hypertension,2024-03-16
+249,Robert Garcia,Female,1955-04-06,Heart Disease,2021-10-14
+250,Sarah Miller,Female,1992-09-26,Hypertension,2022-05-13
+251,Mark Johnson,Female,2012-09-07,None,2022-03-14
+252,Jessica Garcia,Female,1955-10-20,Diabetes,2023-08-10
+253,John Rodriguez,Female,1996-06-22,Diabetes;Hypertension,2021-03-25
+254,Robert Williams,Male,1968-05-28,Asthma,2023-06-13
+255,Charles Garcia,Female,1971-08-23,Heart Disease,2021-05-05
+256,Jessica Smith,Female,2008-11-10,Diabetes,2023-02-04
+257,Linda Martinez,Male,1990-07-17,Heart Disease,2022-07-02
+258,David Brown,Male,2015-11-26,Asthma,2021-09-28
+259,Joseph Garcia,Male,1974-07-03,Hypertension,2022-10-22
+260,Sarah Rodriguez,Male,2008-03-23,Heart Disease,2021-11-25
+261,Robert Johnson,Female,2004-04-16,Heart Disease,2024-02-28
+262,Charles Garcia,Male,1998-10-28,Asthma,2022-09-20
+263,Robert Davis,Female,1952-08-02,None,2022-08-28
+264,Karen Davis,Female,1953-03-20,Hypertension,2023-11-20
+265,Karen Martinez,Male,1981-06-04,Diabetes;Hypertension,2021-11-17
+266,Mark Smith,Male,1949-01-03,None,2022-03-24
+267,Charles Garcia,Female,2008-09-06,Asthma,2022-02-26
+268,Joseph Miller,Male,2009-06-11,None,2021-01-27
+269,Mark Smith,Male,2012-05-16,Diabetes;Hypertension,2022-07-30
+270,Linda Rodriguez,Male,1983-06-18,Diabetes;Hypertension,2023-06-12
+271,Daniel Miller,Female,1991-01-08,Diabetes;Hypertension,2022-01-23
+272,Linda Rodriguez,Male,1993-09-10,None,2023-08-26
+273,Jennifer Martinez,Male,1954-07-07,None,2021-03-24
+274,Daniel Martinez,Female,2013-02-01,Diabetes;Hypertension,2023-04-24
+275,Lisa Rodriguez,Female,2007-12-14,Heart Disease,2023-07-29
+276,Nancy Williams,Female,2014-09-10,Asthma,2021-05-09
+277,Joseph Miller,Female,2003-01-15,Heart Disease,2023-07-12
+278,Joseph Jones,Male,1984-09-20,Diabetes,2022-04-27
+279,Karen Brown,Male,1956-12-14,None,2021-03-05
+280,Mark Johnson,Female,1958-08-26,Diabetes,2021-07-05
+281,Lisa Davis,Male,1998-08-17,None,2021-03-25
+282,Linda Brown,Female,1950-03-08,Hypertension,2024-01-22
+283,Susan Johnson,Male,1951-10-20,Diabetes;Hypertension,2024-01-25
+284,Lisa Martinez,Female,1987-10-31,Asthma,2023-02-08
+285,Charles Martinez,Female,1991-02-28,Asthma,2023-06-06
+286,Daniel Rodriguez,Female,2000-12-26,Heart Disease,2022-11-13
+287,James Williams,Female,2001-10-05,Diabetes,2021-05-15
+288,Daniel Johnson,Female,1951-12-19,Diabetes,2022-09-30
+289,Mark Rodriguez,Male,2014-11-06,Asthma,2023-07-19
+290,Linda Rodriguez,Male,1988-11-12,Diabetes;Hypertension,2022-04-29
+291,Susan Miller,Female,1959-03-21,Hypertension,2022-04-27
+292,Patricia Davis,Female,1958-11-22,Heart Disease,2023-07-15
+293,Mary Miller,Male,1949-05-09,Diabetes;Hypertension,2023-03-12
+294,John Miller,Female,2008-11-09,Heart Disease,2021-06-27
+295,Mark Smith,Female,1952-06-12,Heart Disease,2022-01-15
+296,Michael Garcia,Female,1959-12-23,Heart Disease,2023-06-22
+297,John Miller,Female,1954-12-05,Asthma,2023-09-16
+298,Joseph Smith,Male,1992-04-23,Heart Disease,2023-07-27
+299,Michael Martinez,Male,1953-03-21,Asthma,2023-06-29
+300,Patricia Jones,Female,1984-12-26,Hypertension,2022-01-01
+301,Patricia Williams,Female,2001-02-09,None,2023-10-18
+302,David Jones,Female,1982-07-26,None,2022-10-21
+303,Jennifer Garcia,Male,1984-10-01,Heart Disease,2021-08-15
+304,Nancy Davis,Male,1951-01-05,Diabetes;Hypertension,2024-02-24
+305,Thomas Jones,Male,1973-08-20,Heart Disease,2022-02-08
+306,David Brown,Female,2017-05-18,Hypertension,2022-07-28
+307,James Jones,Male,1991-08-12,Asthma,2023-05-04
+308,Charles Brown,Female,1996-03-13,Diabetes;Hypertension,2023-11-27
+309,Lisa Smith,Male,2003-11-06,Hypertension,2021-02-06
+310,Mary Johnson,Male,1969-02-27,Asthma,2023-11-03
+311,Mary Smith,Male,1980-07-23,None,2021-02-19
+312,Robert Davis,Male,1974-10-17,Hypertension,2024-01-15
+313,Sarah Martinez,Male,1982-06-08,Diabetes,2023-03-24
+314,Linda Martinez,Male,2016-06-29,Heart Disease,2021-12-16
+315,Jessica Garcia,Female,1980-01-01,None,2021-08-09
+316,Jennifer Garcia,Female,1996-09-14,Diabetes;Hypertension,2023-02-19
+317,Jennifer Johnson,Female,1996-02-04,Heart Disease,2021-05-10
+318,John Davis,Male,2007-02-01,Diabetes;Hypertension,2023-10-02
+319,Susan Martinez,Female,1999-05-17,Diabetes,2022-05-11
+320,James Rodriguez,Female,1979-05-23,Asthma,2023-11-15
+321,Jessica Martinez,Female,1950-04-08,Heart Disease,2024-01-16
+322,Robert Johnson,Female,2004-02-08,Diabetes;Hypertension,2022-05-28
+323,Jessica Davis,Female,1979-02-17,Diabetes;Hypertension,2023-05-29
+324,Jennifer Jones,Male,1983-04-29,Diabetes;Hypertension,2021-02-19
+325,Sarah Miller,Female,1966-09-26,Hypertension,2023-05-17
+326,Joseph Smith,Female,2018-11-24,None,2022-12-31
+327,Patricia Martinez,Male,1981-01-21,Asthma,2021-06-12
+328,Linda Williams,Male,1963-03-14,Hypertension,2022-12-21
+329,James Davis,Female,1999-07-25,Hypertension,2021-02-01
+330,Mark Johnson,Male,2002-09-27,Hypertension,2022-07-20
+331,Patricia Garcia,Female,1969-06-28,Asthma,2023-08-11
+332,Karen Davis,Male,1947-12-29,Heart Disease,2023-03-29
+333,Patricia Jones,Female,2000-07-10,Diabetes;Hypertension,2021-11-28
+334,Patricia Smith,Female,1946-03-16,Heart Disease,2022-08-16
+335,Daniel Martinez,Female,1952-11-18,Hypertension,2023-02-08
+336,Mary Miller,Female,1977-05-27,Heart Disease,2021-08-21
+337,Linda Williams,Male,1989-11-01,Asthma,2022-01-25
+338,Joseph Brown,Female,1957-10-07,None,2022-11-01
+339,Mary Davis,Male,1952-09-08,Hypertension,2024-02-17
+340,Mark Davis,Male,2001-08-21,Diabetes,2024-03-20
+341,Susan Davis,Female,2001-07-23,Hypertension,2021-12-13
+342,Karen Jones,Male,1961-06-22,Heart Disease,2024-03-26
+343,Susan Jones,Female,1957-12-27,Diabetes;Hypertension,2024-02-08
+344,Karen Brown,Male,1998-01-17,Asthma,2021-06-13
+345,Thomas Martinez,Male,1949-06-22,Heart Disease,2023-06-25
+346,Karen Jones,Male,1992-08-11,Asthma,2021-11-16
+347,Mark Jones,Female,1987-06-11,Diabetes,2021-12-23
+348,David Smith,Female,1971-05-24,Diabetes,2021-05-05
+349,Daniel Smith,Male,2009-12-25,Asthma,2022-06-30
+350,Charles Miller,Female,2007-02-02,Diabetes,2023-01-11
+351,Michael Garcia,Female,2010-03-27,Diabetes,2024-01-01
+352,Robert Davis,Male,1998-12-02,Diabetes;Hypertension,2024-01-27
+353,Karen Martinez,Female,2000-01-01,Asthma,2021-12-21
+354,John Miller,Female,1984-02-13,Diabetes;Hypertension,2022-07-17
+355,Charles Garcia,Male,2004-11-06,Heart Disease,2023-04-03
+356,Linda Smith,Male,1979-05-31,Diabetes;Hypertension,2022-11-23
+357,Daniel Martinez,Female,2000-09-02,Asthma,2022-02-21
+358,Lisa Johnson,Male,1977-06-23,None,2023-06-18
+359,Karen Brown,Male,2013-01-03,Diabetes,2024-04-05
+360,Daniel Miller,Female,1961-08-22,Asthma,2023-11-29
+361,Joseph Williams,Female,1967-12-02,None,2021-08-04
+362,Mark Jones,Female,1977-02-02,Diabetes;Hypertension,2023-01-18
+363,John Miller,Male,1993-06-14,Diabetes,2022-03-19
+364,Charles Davis,Female,1954-05-19,None,2022-10-25
+365,Susan Rodriguez,Female,1989-06-01,Heart Disease,2022-07-06
+366,Thomas Garcia,Female,2000-03-09,Diabetes,2024-02-16
+367,Mary Johnson,Male,1982-04-29,None,2024-02-11
+368,Joseph Rodriguez,Male,1956-09-03,None,2021-11-08
+369,Joseph Davis,Male,1997-02-24,Heart Disease,2022-08-08
+370,John Brown,Male,1948-01-17,None,2021-10-15
+371,Thomas Garcia,Male,1997-05-10,Diabetes;Hypertension,2023-04-10
+372,Lisa Brown,Male,1951-04-10,Hypertension,2022-06-08
+373,Joseph Miller,Male,1959-02-26,Diabetes;Hypertension,2022-04-29
+374,Patricia Garcia,Male,1954-10-01,None,2021-04-10
+375,Mark Davis,Male,1990-03-29,Hypertension,2022-11-21
+376,Joseph Johnson,Male,1986-05-31,Hypertension,2023-12-03
+377,John Smith,Female,1949-01-15,Asthma,2021-03-17
+378,Lisa Brown,Male,1994-07-15,Asthma,2023-09-24
+379,Patricia Miller,Male,1958-02-25,Asthma,2021-11-12
+380,Mark Smith,Male,1954-10-14,Heart Disease,2023-08-13
+381,Linda Davis,Male,1993-01-13,Diabetes;Hypertension,2023-05-28
+382,Joseph Jones,Male,1999-05-15,Hypertension,2022-06-02
+383,Jennifer Garcia,Male,1977-05-12,Diabetes;Hypertension,2024-01-23
+384,Jennifer Davis,Male,2012-12-24,Asthma,2021-09-24
+385,Susan Williams,Male,1964-05-07,Asthma,2024-03-24
+386,David Brown,Male,1965-04-26,Asthma,2023-04-03
+387,Mary Rodriguez,Female,1986-12-05,Diabetes,2022-04-18
+388,Jessica Brown,Male,1960-08-12,Heart Disease,2021-07-30
+389,Sarah Williams,Female,2017-04-20,Heart Disease,2022-07-04
+390,Thomas Johnson,Male,1996-12-19,Diabetes;Hypertension,2022-12-24
+391,Michael Williams,Female,1949-07-29,Diabetes,2022-03-19
+392,Jessica Martinez,Female,1980-03-17,Diabetes,2023-05-03
+393,Karen Smith,Male,1989-03-03,Heart Disease,2023-01-07
+394,Mary Rodriguez,Male,1965-03-21,Asthma,2021-09-03
+395,Thomas Miller,Male,1988-11-19,None,2022-08-21
+396,Joseph Johnson,Male,1973-01-28,None,2022-04-25
+397,John Smith,Female,2008-01-17,Asthma,2022-07-07
+398,James Brown,Male,2015-07-07,None,2022-01-24
+399,Thomas Rodriguez,Female,1961-08-26,Hypertension,2023-09-27
+400,Jennifer Smith,Male,2015-10-20,None,2021-05-17
+401,Jessica Miller,Female,1954-10-23,Hypertension,2023-02-15
+402,David Johnson,Male,1996-05-25,None,2024-02-02
+403,Karen Martinez,Male,1980-02-19,Hypertension,2023-12-04
+404,Susan Davis,Male,1992-07-03,Diabetes,2023-02-23
+405,Lisa Johnson,Female,1964-04-02,Hypertension,2021-09-15
+406,David Smith,Female,1991-09-25,Asthma,2023-01-31
+407,Robert Rodriguez,Male,2001-09-25,Heart Disease,2023-04-24
+408,Thomas Smith,Female,2003-04-21,Heart Disease,2021-04-14
+409,Charles Davis,Male,2018-04-23,Asthma,2022-12-03
+410,Mary Martinez,Male,2017-09-15,Hypertension,2023-03-09
+411,John Williams,Male,1980-09-22,Hypertension,2021-12-05
+412,Sarah Garcia,Male,1960-04-23,Heart Disease,2023-06-07
+413,Karen Martinez,Male,1989-10-06,None,2022-10-04
+414,Joseph Martinez,Male,1985-12-07,Asthma,2023-07-23
+415,Mark Jones,Female,1969-11-30,Diabetes,2024-01-17
+416,Daniel Johnson,Male,2002-08-18,Diabetes,2022-08-04
+417,Linda Brown,Male,1989-11-23,Diabetes,2022-03-05
+418,Daniel Miller,Female,1952-01-17,Asthma,2023-06-24
+419,Joseph Martinez,Male,1996-08-31,Diabetes;Hypertension,2023-08-19
+420,Charles Smith,Female,1977-07-22,Heart Disease,2021-10-12
+421,Susan Jones,Male,1988-10-25,Hypertension,2022-06-19
+422,Nancy Smith,Male,2011-01-02,Diabetes,2023-11-13
+423,Mark Williams,Male,1970-01-23,None,2021-03-22
+424,James Rodriguez,Female,1972-04-16,Diabetes,2022-02-08
+425,Lisa Brown,Female,1993-12-20,Diabetes;Hypertension,2023-04-08
+426,Mary Miller,Female,1974-09-03,Diabetes,2022-05-13
+427,Daniel Jones,Male,2009-08-30,Diabetes;Hypertension,2022-12-10
+428,Karen Martinez,Male,1961-06-06,Hypertension,2023-07-16
+429,Patricia Williams,Male,1958-08-08,Heart Disease,2022-07-05
+430,Nancy Davis,Female,1990-04-27,Asthma,2023-05-28
+431,Karen Rodriguez,Male,2005-03-07,Asthma,2023-03-03
+432,Jennifer Jones,Male,1951-04-08,Hypertension,2021-02-10
+433,Lisa Johnson,Male,1999-04-16,None,2022-06-12
+434,Susan Johnson,Female,1962-04-09,Diabetes,2022-01-08
+435,Charles Rodriguez,Male,2008-12-12,Diabetes,2022-10-29
+436,Thomas Garcia,Male,1975-07-07,Heart Disease,2023-03-28
+437,Robert Rodriguez,Male,2001-11-13,Hypertension,2021-12-07
+438,John Rodriguez,Female,1952-11-03,None,2023-01-22
+439,Nancy Garcia,Female,2007-11-30,Diabetes,2021-06-03
+440,Nancy Williams,Male,1971-12-18,Hypertension,2022-06-02
+441,Robert Davis,Male,2013-08-23,Heart Disease,2023-05-19
+442,Mark Davis,Female,1960-09-10,Diabetes;Hypertension,2023-09-18
+443,Jessica Rodriguez,Male,1997-01-20,Diabetes;Hypertension,2022-04-14
+444,John Williams,Male,2000-07-23,Diabetes,2023-02-15
+445,Robert Smith,Female,1968-06-02,Asthma,2024-03-15
+446,David Brown,Female,1948-05-30,Asthma,2021-01-24
+447,Mary Smith,Male,1959-05-31,None,2022-02-03
+448,John Garcia,Female,1981-11-30,Hypertension,2022-12-20
+449,Michael Jones,Female,1977-11-13,Asthma,2021-08-14
+450,Linda Williams,Male,2010-07-13,Hypertension,2023-10-06
+451,Jennifer Williams,Female,1991-04-17,Asthma,2023-09-18
+452,Sarah Rodriguez,Male,1966-11-11,Hypertension,2021-02-12
+453,Thomas Williams,Female,1952-05-26,Heart Disease,2022-05-10
+454,Jessica Smith,Female,1950-06-25,Asthma,2022-12-04
+455,Robert Brown,Female,1962-06-22,Diabetes;Hypertension,2021-01-11
+456,Karen Davis,Male,1990-07-27,Asthma,2023-09-10
+457,James Martinez,Male,1964-12-10,Heart Disease,2021-06-14
+458,Jessica Williams,Female,1998-03-27,None,2024-03-11
+459,Mark Jones,Male,1945-02-21,Hypertension,2021-06-03
+460,Nancy Garcia,Male,1957-12-17,Diabetes,2023-12-18
+461,Nancy Martinez,Female,1990-12-03,Asthma,2021-12-19
+462,Mark Garcia,Male,1988-03-14,Diabetes,2022-05-03
+463,Karen Jones,Male,1967-09-21,Diabetes,2022-05-13
+464,Sarah Miller,Female,1952-01-10,Heart Disease,2023-12-18
+465,Susan Johnson,Female,1976-05-24,None,2021-02-19
+466,Mark Martinez,Male,1978-04-19,Asthma,2023-05-10
+467,Patricia Brown,Male,1992-07-23,Diabetes,2021-04-01
+468,Lisa Smith,Male,1981-07-08,Asthma,2023-11-07
+469,James Garcia,Female,1963-08-25,Hypertension,2023-10-25
+470,Thomas Johnson,Male,1964-11-13,Asthma,2022-10-29
+471,Robert Garcia,Male,1950-01-19,Asthma,2022-07-01
+472,Mary Johnson,Male,2010-06-14,Diabetes,2022-12-02
+473,Linda Rodriguez,Female,1978-05-21,Diabetes,2024-01-09
+474,Mary Brown,Female,1981-10-20,Diabetes;Hypertension,2022-02-22
+475,Jessica Johnson,Female,1950-06-22,None,2021-09-09
+476,Susan Williams,Male,1952-07-26,None,2023-08-19
+477,Michael Brown,Female,1963-05-29,None,2021-12-09
+478,Patricia Jones,Female,2012-10-22,Diabetes,2023-06-02
+479,Daniel Johnson,Female,2008-10-26,Diabetes;Hypertension,2023-08-12
+480,Jennifer Miller,Male,1994-03-01,Diabetes;Hypertension,2022-06-27
+481,Patricia Williams,Female,1960-07-26,Heart Disease,2022-12-12
+482,Susan Williams,Male,1957-01-05,None,2021-09-16
+483,Charles Davis,Female,1948-08-17,Hypertension,2023-08-07
+484,Daniel Garcia,Male,1977-08-08,Hypertension,2022-10-25
+485,Susan Brown,Female,1974-01-24,Diabetes,2023-05-25
+486,James Jones,Male,2009-08-17,Asthma,2021-03-16
+487,Nancy Miller,Female,1954-07-26,Heart Disease,2021-05-30
+488,Mark Smith,Male,1996-03-16,Diabetes;Hypertension,2022-11-24
+489,Michael Johnson,Female,1947-11-10,None,2023-06-02
+490,James Johnson,Male,2004-12-17,None,2021-12-31
+491,Jessica Martinez,Male,2013-11-01,Heart Disease,2021-03-25
+492,Jessica Davis,Female,1986-10-01,Heart Disease,2023-12-30
+493,Jessica Smith,Male,1988-04-08,Heart Disease,2022-08-05
+494,David Martinez,Male,2016-02-08,Hypertension,2024-01-09
+495,Susan Johnson,Male,1947-08-02,Diabetes;Hypertension,2021-01-20
+496,John Brown,Male,2008-07-04,Asthma,2024-02-06
+497,Mary Davis,Female,2009-12-18,Hypertension,2021-11-05
+498,Robert Jones,Female,1991-12-25,Hypertension,2023-09-29
+499,David Martinez,Female,1965-03-15,Hypertension,2022-01-15
+500,David Johnson,Female,1996-09-28,Heart Disease,2022-09-24
+501,Jennifer Rodriguez,Female,1946-07-01,None,2021-02-23
+502,Mary Rodriguez,Male,1963-06-18,Diabetes;Hypertension,2022-10-15
+503,Charles Williams,Female,1949-01-25,Diabetes,2022-07-03
+504,Robert Williams,Male,2013-07-17,Diabetes;Hypertension,2022-09-03
+505,Daniel Garcia,Male,1960-02-28,Heart Disease,2021-09-30
+506,Robert Davis,Female,1997-12-26,Diabetes,2021-03-23
+507,Nancy Johnson,Male,2006-09-21,Heart Disease,2023-02-26
+508,Lisa Jones,Female,1949-12-30,Diabetes;Hypertension,2021-05-14
+509,Robert Miller,Male,2017-12-12,Asthma,2022-03-10
+510,Robert Jones,Female,1952-03-05,Hypertension,2021-06-27
+511,Jessica Rodriguez,Female,2013-03-02,Asthma,2024-01-30
+512,Linda Davis,Male,1969-02-12,Diabetes;Hypertension,2023-05-13
+513,Lisa Miller,Female,1982-04-17,Diabetes;Hypertension,2022-04-22
+514,Thomas Brown,Female,1972-04-17,Hypertension,2023-04-27
+515,Lisa Davis,Male,1991-02-23,Asthma,2023-08-06
+516,Jennifer Garcia,Male,1980-12-09,Diabetes,2024-02-26
+517,Patricia Martinez,Female,1983-08-21,Diabetes,2022-06-13
+518,James Miller,Female,2007-11-08,Hypertension,2023-10-18
+519,Sarah Brown,Female,1999-02-18,Diabetes;Hypertension,2021-09-11
+520,John Davis,Male,1958-07-22,Diabetes,2023-06-08
+521,Linda Williams,Male,1992-08-06,Diabetes,2022-12-08
+522,Charles Davis,Male,1946-12-16,Hypertension,2021-12-05
+523,James Jones,Female,2007-03-10,Asthma,2024-02-07
+524,Thomas Rodriguez,Female,1993-11-07,Hypertension,2024-03-06
+525,Sarah Brown,Female,1998-06-22,Asthma,2022-09-30
+526,Charles Martinez,Male,1980-01-01,Asthma,2021-04-28
+527,Karen Smith,Female,1957-10-19,Diabetes,2023-03-28
+528,Daniel Smith,Male,1953-10-06,Heart Disease,2022-11-23
+529,James Jones,Male,1982-07-02,Heart Disease,2022-06-14
+530,David Johnson,Male,1965-10-06,Heart Disease,2022-10-21
+531,Mark Garcia,Female,1989-07-05,Asthma,2021-03-16
+532,Mark Davis,Female,1962-04-23,Heart Disease,2023-07-19
+533,Susan Brown,Male,2012-06-06,Diabetes,2024-03-15
+534,Susan Brown,Female,1958-08-23,Asthma,2022-04-25
+535,Jessica Martinez,Male,2014-11-27,Hypertension,2022-03-05
+536,Karen Garcia,Male,2004-07-13,None,2021-06-21
+537,Jessica Johnson,Male,1956-09-11,None,2024-03-09
+538,Nancy Williams,Male,2000-12-22,Asthma,2021-04-16
+539,Mark Miller,Male,1975-01-20,Asthma,2023-01-07
+540,John Brown,Male,1993-02-05,None,2022-05-13
+541,Charles Brown,Female,1995-04-18,Asthma,2023-12-15
+542,Jessica Miller,Male,1982-01-04,None,2021-12-12
+543,Karen Williams,Male,1955-08-28,Asthma,2022-08-27
+544,Thomas Brown,Female,2007-04-20,Hypertension,2024-01-28
+545,Mark Jones,Female,2018-03-18,Hypertension,2021-04-26
+546,David Williams,Female,1964-08-08,Hypertension,2022-11-06
+547,Susan Martinez,Female,1982-07-17,Diabetes;Hypertension,2022-08-27
+548,Mark Miller,Male,1991-01-28,Hypertension,2023-01-22
+549,Mark Brown,Male,2011-04-06,Diabetes;Hypertension,2023-08-08
+550,Michael Martinez,Male,1958-03-28,Heart Disease,2021-07-05
+551,Joseph Johnson,Male,1999-03-28,Diabetes,2023-12-23
+552,Robert Jones,Male,1993-05-29,Heart Disease,2023-09-06
+553,Karen Martinez,Male,2017-07-01,Asthma,2021-10-25
+554,Lisa Johnson,Female,1984-12-02,Diabetes;Hypertension,2021-10-23
+555,Nancy Johnson,Male,1951-07-09,Asthma,2023-05-31
+556,Charles Garcia,Female,1946-08-24,Diabetes,2021-06-29
+557,Jennifer Jones,Male,2004-11-23,Diabetes,2024-01-24
+558,Susan Miller,Male,1947-12-31,Heart Disease,2021-03-17
+559,Jennifer Williams,Female,1948-01-12,Diabetes,2021-01-28
+560,Nancy Brown,Male,1953-05-30,Diabetes,2023-11-13
+561,Charles Jones,Female,1949-06-03,None,2024-02-08
+562,Lisa Miller,Female,1957-01-02,None,2022-03-08
+563,James Martinez,Female,2012-01-21,Heart Disease,2023-11-02
+564,Jessica Williams,Female,1955-12-12,Diabetes,2021-02-23
+565,Linda Rodriguez,Male,1972-09-20,Diabetes,2021-12-12
+566,John Garcia,Female,2004-09-08,Diabetes,2022-04-10
+567,Joseph Rodriguez,Female,1970-06-14,Diabetes,2023-03-31
+568,Mary Johnson,Male,2003-12-06,Diabetes,2022-10-31
+569,Karen Williams,Female,2014-12-25,Diabetes;Hypertension,2023-08-30
+570,Susan Williams,Female,1956-12-17,Hypertension,2022-01-29
+571,Jessica Rodriguez,Female,1971-03-09,Diabetes,2021-06-30
+572,Robert Brown,Female,1992-04-08,Heart Disease,2021-08-11
+573,Sarah Rodriguez,Male,1961-10-31,Diabetes,2024-03-30
+574,Patricia Miller,Female,1970-12-11,None,2021-03-03
+575,Thomas Rodriguez,Female,1946-09-04,Hypertension,2023-02-19
+576,John Smith,Male,2015-03-02,Diabetes;Hypertension,2022-01-08
+577,David Rodriguez,Female,1981-08-04,Asthma,2022-04-06
+578,Charles Jones,Female,2001-03-20,Heart Disease,2021-12-03
+579,John Martinez,Female,1945-04-18,Heart Disease,2023-08-02
+580,Daniel Jones,Female,1968-08-01,Diabetes;Hypertension,2021-02-09
+581,David Garcia,Male,2007-04-04,Heart Disease,2022-06-15
+582,James Rodriguez,Male,1961-09-13,Hypertension,2021-07-10
+583,Karen Smith,Female,2005-09-12,None,2022-10-12
+584,John Brown,Female,2011-09-24,Diabetes,2022-06-20
+585,Thomas Brown,Female,1951-08-14,Heart Disease,2022-04-17
+586,Mark Garcia,Female,1983-09-30,Diabetes,2022-02-08
+587,Linda Williams,Male,1972-07-13,None,2021-05-13
+588,Charles Jones,Female,1986-11-16,Diabetes,2024-02-10
+589,Joseph Rodriguez,Male,1976-12-23,Hypertension,2021-09-01
+590,Patricia Smith,Male,1993-06-28,Diabetes,2022-02-20
+591,Mark Garcia,Male,1957-02-06,Asthma,2023-08-05
+592,Robert Smith,Female,1970-10-14,Hypertension,2023-04-27
+593,Patricia Jones,Male,2002-04-08,Diabetes,2023-12-08
+594,Jessica Miller,Female,2008-12-27,Asthma,2023-09-22
+595,Charles Smith,Female,1957-07-21,Hypertension,2023-07-27
+596,Robert Jones,Male,1968-02-05,Asthma,2023-12-24
+597,Mary Williams,Female,2009-03-09,Diabetes,2023-08-28
+598,David Garcia,Female,1967-09-22,Diabetes,2023-11-23
+599,Susan Rodriguez,Male,1993-02-26,Heart Disease,2023-01-18
+600,Daniel Johnson,Female,1977-11-27,Heart Disease,2022-06-19
+601,Thomas Rodriguez,Female,1988-05-02,Hypertension,2023-07-10
+602,Jessica Jones,Male,1970-07-02,Hypertension,2023-12-03
+603,Robert Johnson,Male,1966-12-17,Diabetes;Hypertension,2022-03-02
+604,Jessica Davis,Male,2001-08-30,Heart Disease,2022-08-11
+605,Daniel Jones,Female,1995-12-15,Diabetes;Hypertension,2022-05-23
+606,Linda Garcia,Female,2015-07-27,None,2021-06-24
+607,Linda Garcia,Male,1969-01-24,Heart Disease,2021-05-28
+608,Jennifer Rodriguez,Female,1982-03-11,Asthma,2023-02-01
+609,Mark Smith,Female,1949-08-09,Hypertension,2022-05-25
+610,Daniel Johnson,Male,1950-02-01,Diabetes;Hypertension,2023-01-17
+611,Susan Miller,Male,2013-07-20,Diabetes;Hypertension,2022-04-24
+612,Mary Martinez,Female,1970-08-04,Diabetes,2022-09-16
+613,Jennifer Martinez,Male,1997-07-26,None,2023-07-22
+614,Joseph Martinez,Female,1996-12-01,Heart Disease,2022-03-04
+615,Charles Davis,Male,2016-05-05,Asthma,2024-01-14
+616,Linda Brown,Female,2008-03-23,Heart Disease,2022-06-19
+617,Lisa Martinez,Female,1981-10-15,Asthma,2022-05-23
+618,John Smith,Female,1968-01-11,Hypertension,2023-09-13
+619,Mark Davis,Male,1976-10-13,Hypertension,2024-01-27
+620,Daniel Davis,Male,2000-04-04,Asthma,2021-10-14
+621,Sarah Smith,Female,2012-03-17,Diabetes;Hypertension,2022-01-01
+622,Karen Martinez,Male,1977-03-09,Hypertension,2023-11-06
+623,Karen Rodriguez,Female,2000-04-27,Hypertension,2021-04-11
+624,James Rodriguez,Male,1987-11-23,None,2024-03-07
+625,Patricia Martinez,Female,1985-01-03,None,2023-08-11
+626,Joseph Martinez,Female,1950-11-01,None,2021-07-16
+627,Michael Miller,Female,1998-04-13,Heart Disease,2023-12-23
+628,Sarah Smith,Male,1961-11-30,Diabetes,2022-05-22
+629,Susan Martinez,Female,2002-08-27,Hypertension,2023-03-06
+630,Karen Garcia,Male,1987-08-01,Diabetes,2021-01-18
+631,Nancy Brown,Male,1993-10-16,None,2023-02-12
+632,Sarah Garcia,Female,1953-08-20,Hypertension,2023-06-05
+633,John Rodriguez,Female,1989-06-12,Diabetes,2021-10-04
+634,Thomas Rodriguez,Female,1957-12-20,None,2021-09-21
+635,Sarah Brown,Female,1980-03-08,Diabetes,2021-10-10
+636,Thomas Williams,Female,1955-07-27,Asthma,2023-06-21
+637,Jennifer Jones,Male,1993-07-24,None,2022-07-01
+638,Mary Brown,Female,1948-04-17,Hypertension,2024-02-29
+639,Susan Martinez,Female,2014-10-28,Hypertension,2021-05-01
+640,Joseph Smith,Male,1977-07-28,Diabetes;Hypertension,2021-04-04
+641,Robert Martinez,Female,1991-08-01,Hypertension,2023-07-13
+642,Mark Miller,Female,1985-07-30,Hypertension,2023-12-05
+643,Linda Brown,Female,1977-04-09,None,2023-09-18
+644,James Jones,Male,1992-01-07,None,2023-05-08
+645,John Smith,Female,1978-11-26,None,2024-03-23
+646,Jennifer Brown,Male,2004-03-15,Diabetes;Hypertension,2022-03-17
+647,Thomas Davis,Female,1952-03-30,Asthma,2023-11-16
+648,Jennifer Davis,Male,1979-08-21,Asthma,2022-08-27
+649,Linda Smith,Male,1970-01-22,Diabetes;Hypertension,2021-05-25
+650,Charles Rodriguez,Female,1982-07-03,Diabetes;Hypertension,2022-11-07
+651,Daniel Jones,Male,1983-10-07,Heart Disease,2022-12-01
+652,Jessica Williams,Female,1957-01-28,Diabetes;Hypertension,2022-10-23
+653,Mark Smith,Female,2013-09-01,Asthma,2023-09-17
+654,Lisa Garcia,Female,2014-08-27,Hypertension,2021-03-05
+655,Patricia Jones,Female,1974-05-13,Asthma,2023-11-13
+656,Susan Jones,Male,1983-12-18,Diabetes;Hypertension,2021-01-06
+657,Nancy Brown,Male,1962-09-04,Asthma,2022-12-09
+658,Joseph Johnson,Female,2006-10-29,None,2021-06-13
+659,Sarah Martinez,Male,1960-10-27,Diabetes,2022-09-01
+660,Jessica Smith,Male,1976-04-16,Heart Disease,2022-09-13
+661,Daniel Johnson,Male,1984-01-19,Hypertension,2024-02-25
+662,Sarah Garcia,Female,1998-05-26,None,2023-09-07
+663,Robert Miller,Male,2011-04-02,Diabetes,2021-12-19
+664,Jessica Johnson,Male,2015-02-06,Heart Disease,2023-11-15
+665,Charles Jones,Male,2017-09-03,Hypertension,2021-07-20
+666,Karen Rodriguez,Male,1964-11-01,Asthma,2022-02-23
+667,Susan Davis,Female,1950-09-12,Diabetes,2023-01-20
+668,Mary Rodriguez,Female,2010-04-27,Heart Disease,2023-08-06
+669,Lisa Jones,Female,2013-09-04,Diabetes;Hypertension,2023-07-30
+670,Charles Brown,Male,1965-03-29,Asthma,2022-10-08
+671,Daniel Williams,Male,1979-03-12,Diabetes;Hypertension,2021-09-20
+672,Charles Martinez,Male,1955-11-10,Heart Disease,2022-12-21
+673,Joseph Brown,Male,1978-02-03,Diabetes,2022-07-29
+674,Sarah Williams,Female,2013-08-15,Asthma,2021-06-25
+675,Nancy Jones,Female,1981-07-27,Asthma,2022-04-18
+676,Patricia Miller,Male,1989-06-14,Asthma,2022-12-21
+677,Michael Brown,Female,2017-03-16,Asthma,2023-10-22
+678,Patricia Johnson,Female,1969-09-08,Diabetes;Hypertension,2021-04-18
+679,James Smith,Male,1995-04-19,Hypertension,2021-08-20
+680,Mary Johnson,Female,2003-08-02,Asthma,2021-06-04
+681,Lisa Jones,Female,1967-01-05,Asthma,2021-11-15
+682,Thomas Smith,Male,1975-06-16,Diabetes,2022-01-22
+683,Susan Miller,Female,1971-06-10,Diabetes;Hypertension,2022-08-03
+684,Karen Miller,Male,2015-06-02,Diabetes;Hypertension,2021-02-01
+685,Karen Garcia,Female,1986-02-19,None,2022-08-07
+686,James Smith,Female,1980-05-28,Hypertension,2021-12-15
+687,Mark Brown,Female,2011-08-29,Heart Disease,2022-03-21
+688,Robert Davis,Female,1988-01-27,Diabetes,2021-09-13
+689,Lisa Johnson,Female,1996-04-02,Heart Disease,2022-06-09
+690,Robert Jones,Female,2014-02-23,Asthma,2022-08-16
+691,Nancy Garcia,Female,1951-09-26,Diabetes,2021-04-06
+692,Patricia Martinez,Female,1990-02-16,Heart Disease,2022-09-02
+693,Robert Johnson,Female,1984-05-25,Diabetes;Hypertension,2024-02-22
+694,Thomas Davis,Male,1999-11-12,None,2022-06-30
+695,Thomas Smith,Male,2003-08-14,Asthma,2021-08-05
+696,Sarah Garcia,Female,1971-08-22,Diabetes;Hypertension,2023-10-29
+697,Sarah Rodriguez,Female,1948-08-12,Diabetes;Hypertension,2022-04-02
+698,Michael Rodriguez,Female,1963-11-02,None,2021-07-24
+699,Jennifer Jones,Female,1962-08-16,Asthma,2024-02-21
+700,Mark Rodriguez,Female,1982-03-07,Heart Disease,2021-06-05
+701,Charles Johnson,Female,1963-08-14,Hypertension,2022-05-07
+702,Robert Rodriguez,Male,1997-07-20,Hypertension,2023-11-05
+703,James Johnson,Male,1986-06-16,Hypertension,2023-10-12
+704,Linda Smith,Male,2000-12-21,Asthma,2021-12-01
+705,Jessica Smith,Female,1984-12-02,Hypertension,2023-06-09
+706,Mark Miller,Male,1967-05-15,Diabetes,2022-03-25
+707,Jennifer Garcia,Male,1965-11-05,Heart Disease,2021-07-24
+708,Karen Rodriguez,Female,1966-01-02,Diabetes,2024-04-13
+709,Jennifer Williams,Female,1969-10-29,Asthma,2023-02-01
+710,John Jones,Female,2001-05-16,None,2023-06-07
+711,Michael Miller,Female,2002-01-20,Diabetes,2022-06-29
+712,David Martinez,Female,1982-04-08,Hypertension,2022-11-22
+713,John Miller,Female,1948-03-17,Asthma,2022-04-06
+714,Lisa Williams,Female,2013-10-14,Diabetes;Hypertension,2021-12-16
+715,Thomas Garcia,Female,1950-03-25,Hypertension,2021-12-22
+716,Robert Smith,Male,1996-10-06,Diabetes,2023-05-19
+717,Robert Rodriguez,Female,1945-02-01,Hypertension,2023-01-07
+718,Jessica Brown,Male,1945-12-22,None,2023-10-14
+719,Charles Johnson,Male,2002-10-13,Asthma,2021-03-25
+720,Karen Brown,Male,2014-09-27,Diabetes,2023-12-19
+721,Susan Johnson,Female,1945-09-07,Heart Disease,2022-02-16
+722,John Miller,Male,2017-09-01,Diabetes;Hypertension,2022-08-20
+723,Mark Smith,Female,2010-07-31,Hypertension,2021-10-13
+724,Sarah Johnson,Male,1993-06-23,None,2022-03-12
+725,Mark Miller,Male,1969-06-10,None,2022-07-18
+726,Daniel Martinez,Female,1949-02-09,None,2024-02-02
+727,Patricia Williams,Male,1988-09-12,Heart Disease,2021-01-11
+728,Michael Jones,Male,2000-08-21,Diabetes,2023-10-22
+729,Sarah Garcia,Male,1985-11-13,Diabetes,2021-08-04
+730,Joseph Williams,Female,1957-11-13,Diabetes;Hypertension,2022-06-10
+731,Jessica Smith,Female,1989-11-12,None,2021-12-07
+732,David Smith,Male,1970-09-29,Heart Disease,2023-11-04
+733,Jessica Smith,Male,2003-01-17,Hypertension,2023-10-31
+734,David Williams,Male,1949-11-22,None,2022-09-21
+735,Thomas Brown,Male,1960-11-30,Hypertension,2021-08-06
+736,Michael Davis,Male,2003-10-02,None,2022-06-15
+737,Sarah Davis,Male,2016-07-29,Asthma,2023-03-11
+738,John Garcia,Female,2012-05-18,Diabetes,2024-03-29
+739,Daniel Rodriguez,Male,1995-03-18,Diabetes;Hypertension,2023-10-10
+740,Charles Johnson,Female,1961-01-09,None,2022-12-20
+741,Thomas Garcia,Female,1972-02-03,Diabetes,2024-02-06
+742,Daniel Davis,Male,1956-09-02,None,2022-07-22
+743,Sarah Williams,Female,1970-09-10,None,2021-04-19
+744,Robert Smith,Male,1946-12-21,Asthma,2023-01-16
+745,Mark Brown,Female,1989-01-03,Diabetes;Hypertension,2023-12-31
+746,David Smith,Female,1967-01-18,Hypertension,2023-11-15
+747,Karen Johnson,Female,2004-12-18,Diabetes;Hypertension,2021-02-03
+748,Jennifer Miller,Male,1980-12-18,None,2022-03-24
+749,Lisa Johnson,Male,1954-06-17,None,2022-01-29
+750,Lisa Garcia,Female,1968-11-01,Diabetes,2021-10-08
+751,Mark Garcia,Male,1988-05-21,Diabetes;Hypertension,2022-10-21
+752,Mark Martinez,Male,1974-08-13,Heart Disease,2022-02-08
+753,Mark Rodriguez,Male,1966-06-27,Asthma,2023-11-10
+754,Jessica Brown,Female,1949-08-08,Hypertension,2021-05-06
+755,John Smith,Female,1998-06-13,None,2023-06-12
+756,John Jones,Female,1992-12-17,Heart Disease,2022-01-08
+757,Daniel Miller,Female,1991-08-23,None,2023-10-19
+758,Daniel Johnson,Female,2018-07-15,Asthma,2023-04-06
+759,Nancy Garcia,Female,1959-06-01,Asthma,2022-04-06
+760,Charles Brown,Male,1952-04-11,Hypertension,2021-07-27
+761,Mary Williams,Female,1967-01-04,Heart Disease,2023-07-14
+762,Nancy Jones,Male,2005-04-17,Heart Disease,2023-10-18
+763,Robert Davis,Male,2005-02-28,Diabetes;Hypertension,2023-07-04
+764,Nancy Martinez,Female,1967-06-28,None,2022-11-03
+765,Robert Davis,Female,2016-12-14,Hypertension,2023-09-20
+766,Jessica Miller,Female,2018-10-23,Heart Disease,2023-04-17
+767,Karen Rodriguez,Male,1960-01-29,Diabetes,2022-12-02
+768,Karen Rodriguez,Male,2000-05-09,Diabetes;Hypertension,2022-02-23
+769,Robert Miller,Female,1947-08-17,Hypertension,2024-02-29
+770,Thomas Jones,Female,1980-04-02,Asthma,2021-10-14
+771,Patricia Davis,Male,2016-07-17,Diabetes;Hypertension,2022-08-26
+772,John Johnson,Female,1967-03-09,Hypertension,2023-09-30
+773,Thomas Rodriguez,Female,1971-09-29,Diabetes,2022-03-16
+774,Nancy Brown,Female,2018-06-05,Diabetes;Hypertension,2022-10-31
+775,James Jones,Male,1992-08-17,Hypertension,2023-07-16
+776,Michael Williams,Female,1970-10-17,Asthma,2022-12-12
+777,Jessica Rodriguez,Female,1974-06-05,Hypertension,2024-02-11
+778,Patricia Garcia,Female,2000-03-25,Diabetes;Hypertension,2023-03-27
+779,James Jones,Female,2015-11-12,Hypertension,2022-11-05
+780,Sarah Miller,Female,1971-08-07,Hypertension,2022-09-03
+781,Robert Johnson,Female,1980-04-09,Hypertension,2022-11-16
+782,Sarah Johnson,Female,2008-02-13,None,2021-07-21
+783,Patricia Rodriguez,Female,1950-07-18,Diabetes,2023-07-22
+784,Jessica Jones,Female,1967-04-24,Hypertension,2023-02-09
+785,Daniel Martinez,Female,1981-12-20,Hypertension,2022-03-09
+786,Joseph Rodriguez,Male,1947-06-12,Diabetes,2024-04-09
+787,Michael Rodriguez,Female,2010-07-04,Diabetes;Hypertension,2022-12-25
+788,Michael Miller,Male,1987-08-12,None,2021-04-10
+789,Charles Martinez,Male,1989-07-11,Heart Disease,2022-12-19
+790,Linda Smith,Male,1947-10-03,Hypertension,2021-07-22
+791,John Davis,Female,1980-05-22,Heart Disease,2023-06-06
+792,Michael Davis,Male,1999-08-28,None,2022-07-15
+793,Daniel Williams,Female,1975-06-24,None,2021-12-02
+794,Mary Rodriguez,Male,2016-03-06,Hypertension,2021-11-04
+795,Mary Williams,Female,2010-11-13,Hypertension,2022-01-19
+796,David Brown,Female,1962-06-26,Diabetes;Hypertension,2022-08-28
+797,Joseph Jones,Female,2009-11-26,None,2023-11-03
+798,John Jones,Male,2003-09-05,None,2023-02-28
+799,Mark Brown,Female,1969-12-30,None,2023-02-06
+800,Robert Williams,Female,1981-02-09,Diabetes;Hypertension,2023-11-14
+801,Jennifer Miller,Male,1949-11-27,Heart Disease,2022-02-28
+802,Linda Smith,Male,2000-09-05,Hypertension,2022-08-13
+803,Mark Smith,Male,2006-05-10,Asthma,2023-03-03
+804,James Miller,Male,1993-08-30,Asthma,2022-06-08
+805,Charles Williams,Male,1980-09-17,Diabetes,2023-09-16
+806,Linda Williams,Male,1954-03-15,None,2022-01-01
+807,Charles Johnson,Female,1968-04-20,Heart Disease,2021-09-10
+808,Robert Smith,Female,1968-09-17,Hypertension,2024-01-01
+809,Charles Johnson,Female,1968-09-30,Hypertension,2022-12-13
+810,Robert Rodriguez,Female,1962-09-02,Diabetes,2021-01-17
+811,Sarah Williams,Female,1993-01-18,Diabetes;Hypertension,2024-01-08
+812,Thomas Williams,Male,1955-03-24,Hypertension,2023-09-08
+813,Thomas Smith,Female,2005-04-23,Diabetes;Hypertension,2023-11-18
+814,Joseph Brown,Female,1989-03-16,Diabetes,2022-02-19
+815,Mary Brown,Female,1954-03-18,None,2022-05-08
+816,David Garcia,Male,1997-11-19,None,2022-01-04
+817,James Smith,Male,1950-02-22,Asthma,2023-01-21
+818,Karen Davis,Female,1986-03-01,Asthma,2022-04-01
+819,Karen Miller,Female,1993-01-16,Hypertension,2023-07-13
+820,Michael Rodriguez,Female,1961-05-08,Diabetes;Hypertension,2021-03-24
+821,Patricia Brown,Female,1956-01-21,Hypertension,2023-08-05
+822,John Miller,Female,1991-10-23,Heart Disease,2022-04-13
+823,Linda Martinez,Male,1991-01-02,Diabetes;Hypertension,2021-08-19
+824,David Johnson,Male,1957-07-09,Asthma,2022-05-18
+825,Lisa Johnson,Male,1971-02-22,Diabetes;Hypertension,2021-05-07
+826,Charles Rodriguez,Male,1996-11-01,Heart Disease,2022-10-01
+827,Daniel Martinez,Female,2001-06-01,Diabetes;Hypertension,2023-01-27
+828,Michael Jones,Female,2014-10-05,Asthma,2023-03-05
+829,Charles Jones,Male,1961-07-05,Diabetes;Hypertension,2021-07-24
+830,Susan Miller,Male,1951-09-07,Diabetes,2022-01-02
+831,Mary Jones,Female,1967-11-18,Heart Disease,2023-12-04
+832,Mark Johnson,Female,1987-06-06,Diabetes;Hypertension,2021-11-02
+833,John Rodriguez,Female,1972-07-31,Hypertension,2022-06-10
+834,Thomas Rodriguez,Male,1986-11-27,Diabetes;Hypertension,2021-09-15
+835,Patricia Brown,Female,1996-07-24,Asthma,2023-07-06
+836,John Garcia,Male,1989-05-17,Heart Disease,2023-09-15
+837,Joseph Brown,Male,1981-09-12,Heart Disease,2022-04-02
+838,Lisa Davis,Male,1987-08-25,Diabetes;Hypertension,2022-12-24
+839,Susan Garcia,Female,1968-04-03,Diabetes;Hypertension,2022-05-07
+840,James Johnson,Male,2011-10-22,Diabetes,2021-03-13
+841,Charles Smith,Female,1964-10-03,Diabetes;Hypertension,2023-03-13
+842,Linda Miller,Female,2002-01-16,Diabetes,2022-02-12
+843,Joseph Miller,Female,1969-10-14,Diabetes;Hypertension,2023-02-19
+844,Jennifer Johnson,Male,1962-07-25,Asthma,2023-06-09
+845,Mary Williams,Female,1970-04-07,Diabetes,2021-09-05
+846,Jessica Martinez,Female,1953-03-06,Heart Disease,2023-03-19
+847,Nancy Williams,Male,2015-12-17,Diabetes;Hypertension,2021-09-23
+848,John Jones,Male,1969-10-10,None,2024-02-07
+849,David Garcia,Female,1990-01-14,Diabetes,2023-02-28
+850,John Rodriguez,Male,1977-09-28,Diabetes;Hypertension,2023-06-05
+851,Nancy Miller,Male,1965-10-07,Hypertension,2021-10-16
+852,Linda Brown,Female,1992-04-17,Diabetes;Hypertension,2024-03-02
+853,Jessica Garcia,Male,2013-12-31,Asthma,2024-01-26
+854,Mark Johnson,Male,1996-04-11,Diabetes,2022-01-05
+855,Susan Garcia,Female,1956-10-31,Hypertension,2024-02-11
+856,Lisa Davis,Female,2005-06-20,None,2021-02-19
+857,David Johnson,Male,1991-03-07,None,2023-01-30
+858,Thomas Brown,Female,1970-01-17,Heart Disease,2023-05-06
+859,Patricia Jones,Female,2002-04-04,Heart Disease,2021-01-05
+860,Susan Williams,Female,1947-03-26,None,2021-10-07
+861,Karen Rodriguez,Male,1972-09-03,None,2021-10-27
+862,Mary Williams,Female,2003-11-13,Heart Disease,2022-08-11
+863,Thomas Martinez,Female,2004-08-27,Heart Disease,2021-12-22
+864,Mark Smith,Female,1961-02-25,None,2021-05-30
+865,Thomas Rodriguez,Female,2006-12-15,Heart Disease,2022-07-14
+866,John Jones,Female,1985-03-21,None,2023-11-11
+867,Robert Rodriguez,Male,2012-05-14,Diabetes;Hypertension,2024-03-10
+868,Patricia Jones,Female,1961-05-20,Diabetes,2023-07-18
+869,Jennifer Rodriguez,Female,1952-02-17,Hypertension,2021-09-11
+870,Jessica Garcia,Female,1961-03-21,Diabetes;Hypertension,2021-12-01
+871,Nancy Rodriguez,Female,1945-06-28,None,2022-02-14
+872,Karen Rodriguez,Male,1968-03-22,Asthma,2021-03-16
+873,Karen Rodriguez,Male,2005-06-19,Diabetes,2023-07-27
+874,Susan Garcia,Male,2015-04-21,Diabetes,2021-09-13
+875,Sarah Martinez,Male,1975-05-16,None,2021-06-07
+876,Daniel Smith,Female,2007-05-01,Hypertension,2023-12-18
+877,Mary Rodriguez,Male,1958-03-14,Heart Disease,2023-04-02
+878,Susan Jones,Female,1971-11-21,Hypertension,2021-06-07
+879,Sarah Williams,Male,1975-08-06,Asthma,2021-03-11
+880,Robert Jones,Male,1948-05-22,Hypertension,2022-12-16
+881,Patricia Williams,Male,2013-12-12,Diabetes;Hypertension,2021-09-08
+882,Nancy Martinez,Female,1992-11-12,Diabetes;Hypertension,2023-05-24
+883,Linda Williams,Female,1959-10-09,Heart Disease,2021-09-26
+884,Patricia Davis,Male,1964-08-07,Asthma,2021-05-14
+885,John Smith,Female,1991-03-09,Asthma,2022-07-29
+886,Mark Johnson,Female,1985-11-19,Diabetes,2022-06-08
+887,Thomas Garcia,Male,1975-05-20,Hypertension,2021-03-05
+888,Thomas Williams,Female,1987-08-21,Diabetes,2021-11-26
+889,Susan Jones,Male,1976-03-14,Diabetes,2021-07-30
+890,Mary Williams,Female,1964-06-28,None,2024-04-12
+891,Lisa Johnson,Female,1960-03-02,Diabetes,2023-04-14
+892,Charles Rodriguez,Male,1955-10-23,Heart Disease,2023-06-25
+893,Jennifer Martinez,Female,2013-09-21,Diabetes;Hypertension,2022-10-27
+894,Robert Miller,Male,1949-12-30,Asthma,2021-10-08
+895,Robert Rodriguez,Male,2010-02-25,None,2022-03-08
+896,Lisa Miller,Male,1979-11-03,Diabetes,2022-09-23
+897,Robert Jones,Female,2002-03-30,Diabetes;Hypertension,2022-09-20
+898,John Brown,Female,1958-09-29,Asthma,2021-09-02
+899,Jennifer Williams,Male,1969-03-27,Hypertension,2022-12-07
+900,Thomas Smith,Female,1956-01-23,Hypertension,2024-02-16
+901,Charles Brown,Male,1972-06-18,Hypertension,2023-05-04
+902,Robert Garcia,Male,1955-08-30,Hypertension,2024-01-21
+903,Charles Davis,Male,2014-07-02,Heart Disease,2021-05-07
+904,John Rodriguez,Female,1961-03-29,Hypertension,2023-02-02
+905,Robert Rodriguez,Male,1990-10-03,Heart Disease,2021-05-13
+906,Karen Martinez,Female,1971-05-06,Heart Disease,2021-10-08
+907,Susan Johnson,Female,1990-01-28,Asthma,2022-12-04
+908,Sarah Rodriguez,Female,1977-12-21,Diabetes,2022-03-16
+909,Thomas Rodriguez,Female,1960-05-08,Heart Disease,2023-03-28
+910,Joseph Davis,Female,1986-07-22,Asthma,2023-09-04
+911,Linda Miller,Female,2000-03-19,Diabetes;Hypertension,2022-08-04
+912,Michael Brown,Male,1974-02-08,Heart Disease,2024-02-07
+913,Thomas Williams,Female,1959-05-12,Diabetes;Hypertension,2022-02-19
+914,James Johnson,Male,2010-07-22,Diabetes;Hypertension,2022-03-14
+915,Daniel Miller,Male,2011-12-29,Diabetes;Hypertension,2022-12-27
+916,Susan Williams,Male,1946-07-30,None,2023-11-28
+917,David Miller,Female,1955-07-29,Diabetes,2024-03-18
+918,David Garcia,Male,1963-05-23,Diabetes;Hypertension,2022-11-03
+919,Lisa Rodriguez,Male,1968-12-06,Heart Disease,2023-07-08
+920,Charles Davis,Male,2016-08-22,Hypertension,2022-03-17
+921,Karen Brown,Female,1969-07-08,Diabetes;Hypertension,2021-11-13
+922,Lisa Rodriguez,Female,1952-03-31,Diabetes;Hypertension,2022-05-27
+923,Thomas Smith,Male,1979-12-24,Diabetes,2021-07-11
+924,Daniel Williams,Female,2002-02-14,Asthma,2022-08-28
+925,Michael Rodriguez,Male,1977-10-31,Asthma,2024-01-15
+926,Jessica Jones,Female,1962-06-02,Diabetes;Hypertension,2022-03-19
+927,Linda Davis,Male,1969-11-21,Diabetes,2021-07-05
+928,John Garcia,Female,1968-04-24,Asthma,2024-01-25
+929,Linda Smith,Male,2011-02-24,Diabetes,2021-10-26
+930,Mary Rodriguez,Female,1949-07-26,None,2022-05-23
+931,Patricia Brown,Male,1985-03-02,Diabetes;Hypertension,2022-01-23
+932,Linda Johnson,Male,1986-11-26,Asthma,2024-03-01
+933,Linda Garcia,Male,1986-08-01,Heart Disease,2023-09-07
+934,Nancy Rodriguez,Female,1983-12-25,Hypertension,2023-02-04
+935,Thomas Williams,Male,1973-11-05,Hypertension,2023-10-07
+936,Sarah Jones,Female,1969-11-26,Diabetes;Hypertension,2021-07-24
+937,Robert Williams,Female,1960-06-13,None,2023-04-30
+938,Karen Miller,Female,1955-12-11,Diabetes,2023-12-30
+939,Michael Garcia,Female,1952-01-12,Heart Disease,2023-12-11
+940,Susan Garcia,Female,1954-06-05,Diabetes;Hypertension,2023-12-09
+941,Jennifer Williams,Male,1988-12-02,None,2023-03-08
+942,Robert Garcia,Male,1981-09-03,Heart Disease,2022-10-02
+943,Patricia Brown,Female,2002-05-24,None,2023-03-14
+944,Susan Miller,Male,1974-01-25,Diabetes;Hypertension,2021-09-07
+945,Karen Rodriguez,Female,2014-08-04,Asthma,2022-09-19
+946,Mary Rodriguez,Male,1995-05-18,Diabetes;Hypertension,2021-02-12
+947,Michael Brown,Male,1975-02-02,Diabetes,2023-09-14
+948,Thomas Miller,Male,1956-01-24,Asthma,2021-09-14
+949,Robert Davis,Male,2004-08-15,Asthma,2023-11-02
+950,Charles Johnson,Male,1980-02-09,Heart Disease,2021-03-25
+951,Susan Williams,Male,2008-03-20,Diabetes,2023-02-10
+952,Jessica Jones,Male,1997-08-04,Heart Disease,2022-03-18
+953,John Garcia,Female,2006-06-12,Diabetes,2021-12-12
+954,Lisa Johnson,Female,1988-01-18,None,2024-04-06
+955,Mark Johnson,Male,1971-03-29,Diabetes;Hypertension,2021-09-11
+956,Mark Rodriguez,Female,2017-10-16,Heart Disease,2023-08-09
+957,John Johnson,Female,1976-12-08,Diabetes,2021-09-06
+958,Nancy Brown,Male,1958-05-27,Asthma,2021-10-27
+959,Linda Williams,Female,1990-08-28,Diabetes,2023-10-20
+960,Susan Rodriguez,Female,1989-05-27,Diabetes;Hypertension,2023-10-07
+961,Mark Jones,Male,1953-06-28,Diabetes;Hypertension,2021-01-17
+962,Jennifer Martinez,Female,1976-08-14,Asthma,2021-10-28
+963,Patricia Johnson,Male,1956-01-01,Diabetes;Hypertension,2024-03-30
+964,Patricia Davis,Male,1976-03-21,Diabetes;Hypertension,2023-09-02
+965,Robert Jones,Female,1945-01-25,Diabetes;Hypertension,2021-06-02
+966,Susan Martinez,Male,2013-09-21,Heart Disease,2022-04-01
+967,Thomas Williams,Male,1972-08-25,Diabetes;Hypertension,2022-12-01
+968,Sarah Davis,Male,1983-10-28,None,2021-11-29
+969,Daniel Miller,Male,1988-07-22,Diabetes,2024-01-10
+970,Robert Martinez,Female,1978-02-08,Asthma,2021-08-05
+971,Mary Brown,Female,1971-02-02,Diabetes;Hypertension,2021-09-29
+972,Susan Davis,Female,1993-05-06,None,2022-02-24
+973,Mark Jones,Female,1962-11-05,Hypertension,2022-12-16
+974,Michael Jones,Male,2002-01-26,None,2022-08-19
+975,Lisa Williams,Female,2009-09-16,None,2024-01-24
+976,Nancy Martinez,Female,2002-03-05,None,2024-02-16
+977,Karen Jones,Male,1976-10-05,None,2022-07-20
+978,Joseph Brown,Male,1991-02-14,Diabetes,2021-07-22
+979,Jennifer Garcia,Male,1989-11-08,Diabetes,2021-12-08
+980,Linda Rodriguez,Male,2005-11-15,Heart Disease,2023-05-08
+981,Lisa Miller,Male,1994-06-09,Heart Disease,2022-06-09
+982,Nancy Jones,Female,1967-02-06,Asthma,2021-12-03
+983,Robert Miller,Female,1987-03-18,Heart Disease,2023-09-10
+984,Joseph Garcia,Female,2018-04-12,Diabetes;Hypertension,2024-01-10
+985,Jessica Davis,Female,1951-07-24,Diabetes;Hypertension,2021-10-01
+986,Nancy Martinez,Female,1977-01-09,None,2022-04-08
+987,Michael Miller,Female,1978-10-09,Diabetes;Hypertension,2023-10-15
+988,Susan Rodriguez,Male,1995-04-12,Asthma,2024-02-14
+989,James Garcia,Female,1985-01-15,None,2021-08-22
+990,Sarah Davis,Female,1966-04-17,Diabetes,2021-01-23
+991,Mary Williams,Female,1995-03-12,Asthma,2022-06-09
+992,Karen Johnson,Male,1960-10-14,Diabetes;Hypertension,2022-11-17
+993,Nancy Rodriguez,Female,1994-09-26,Hypertension,2022-07-01
+994,Sarah Davis,Female,1949-08-14,Hypertension,2021-09-02
+995,Mary Williams,Male,1959-03-05,Hypertension,2021-08-09
+996,Daniel Brown,Male,1998-09-30,Diabetes;Hypertension,2021-11-04
+997,David Jones,Female,1991-02-23,Asthma,2023-03-03
+998,Thomas Rodriguez,Female,1998-08-16,Diabetes;Hypertension,2021-05-17
+999,Susan Williams,Male,2007-10-20,Heart Disease,2021-05-09
+1000,David Smith,Female,1993-01-04,Diabetes,2023-01-21

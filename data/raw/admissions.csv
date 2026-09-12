@@ -1,0 +1,2850 @@
+admission_id,patient_id,department,admission_date,discharge_date,outcome
+1,1,Neurology,2024-02-03,2024-02-10,Recovered
+2,1,Cardiology,2024-02-23,2024-03-04,ICU
+3,1,ICU,2024-04-15,2024-04-20,Recovered
+4,2,ICU,2024-01-17,2024-01-27,Readmitted
+5,2,ICU,2024-02-16,2024-02-19,Deceased
+6,3,Emergency,2024-02-16,2024-02-25,Recovered
+7,3,Neurology,2024-03-07,2024-03-15,Recovered
+8,3,Cardiology,2024-03-25,2024-03-27,ICU
+9,4,ICU,2024-01-29,2024-02-06,Recovered
+10,4,Pulmonology,2024-02-27,2024-03-03,Deceased
+11,5,Cardiology,2024-02-07,2024-02-12,Recovered
+12,5,Cardiology,2024-03-14,2024-03-20,Recovered
+13,5,Cardiology,2024-03-18,2024-03-28,Recovered
+14,5,Cardiology,2024-03-23,2024-03-29,Recovered
+15,6,ICU,2024-01-10,2024-01-20,Deceased
+16,7,ICU,2024-02-24,2024-02-28,Recovered
+17,7,ICU,2024-03-26,2024-04-03,Recovered
+18,7,Pulmonology,2024-03-29,2024-04-04,Recovered
+19,7,ICU,2024-04-24,2024-04-30,Recovered
+20,8,Emergency,2024-01-04,2024-01-06,Recovered
+21,8,General Medicine,2024-01-21,2024-01-25,ICU
+22,8,Emergency,2024-02-25,2024-02-27,ICU
+23,8,Neurology,2024-04-24,2024-05-03,Recovered
+24,9,Pulmonology,2024-03-01,2024-03-10,Recovered
+25,9,ICU,2024-03-27,2024-03-29,Recovered
+26,9,Cardiology,2024-04-04,2024-04-07,Recovered
+27,9,ICU,2024-05-21,2024-05-29,Recovered
+28,9,General Medicine,2024-05-12,2024-05-20,Recovered
+29,10,Cardiology,2024-02-27,2024-03-03,Recovered
+30,10,Cardiology,2024-03-18,2024-03-25,Recovered
+31,10,General Medicine,2024-03-20,2024-03-29,Recovered
+32,10,Emergency,2024-06-11,2024-06-18,ICU
+33,11,ICU,2024-01-28,2024-02-05,Recovered
+34,12,General Medicine,2024-01-11,2024-01-17,Recovered
+35,13,Cardiology,2024-01-17,2024-01-22,Recovered
+36,13,Cardiology,2024-02-21,2024-02-29,Recovered
+37,13,Emergency,2024-03-05,2024-03-07,Recovered
+38,13,Cardiology,2024-05-01,2024-05-11,ICU
+39,13,Pulmonology,2024-04-06,2024-04-14,ICU
+40,14,General Medicine,2024-01-21,2024-01-23,ICU
+41,14,Emergency,2024-02-04,2024-02-06,Recovered
+42,15,Pulmonology,2024-01-10,2024-01-16,Recovered
+43,15,Cardiology,2024-02-19,2024-02-22,Recovered
+44,15,ICU,2024-03-08,2024-03-12,Readmitted
+45,16,Emergency,2024-02-24,2024-03-04,Recovered
+46,16,Emergency,2024-03-23,2024-04-02,Recovered
+47,16,Pulmonology,2024-03-15,2024-03-21,Recovered
+48,17,Neurology,2024-01-18,2024-01-28,Recovered
+49,17,Pulmonology,2024-02-05,2024-02-12,Recovered
+50,18,Emergency,2024-01-10,2024-01-15,Recovered
+51,19,ICU,2024-01-22,2024-01-25,Recovered
+52,20,Neurology,2024-02-08,2024-02-17,Recovered
+53,20,Neurology,2024-02-27,2024-03-08,Recovered
+54,20,Pulmonology,2024-03-23,2024-03-30,ICU
+55,21,Cardiology,2024-01-11,2024-01-19,Recovered
+56,21,Emergency,2024-01-27,2024-02-03,Recovered
+57,22,Neurology,2024-01-19,2024-01-27,Readmitted
+58,22,Pulmonology,2024-02-05,2024-02-08,Recovered
+59,23,Emergency,2024-01-02,2024-01-12,Recovered
+60,23,ICU,2024-01-16,2024-01-18,Recovered
+61,23,General Medicine,2024-02-17,2024-02-21,Recovered
+62,24,Cardiology,2024-02-23,2024-03-03,Recovered
+63,24,Pulmonology,2024-03-08,2024-03-16,Recovered
+64,24,Neurology,2024-04-19,2024-04-21,Recovered
+65,25,Neurology,2024-01-31,2024-02-07,ICU
+66,25,Cardiology,2024-02-12,2024-02-20,Recovered
+67,25,Emergency,2024-03-07,2024-03-17,Readmitted
+68,25,Pulmonology,2024-05-03,2024-05-12,Readmitted
+69,25,Cardiology,2024-03-23,2024-03-30,Recovered
+70,26,Pulmonology,2024-01-30,2024-02-04,Recovered
+71,26,Cardiology,2024-02-27,2024-03-01,Recovered
+72,26,Pulmonology,2024-04-09,2024-04-19,Recovered
+73,26,ICU,2024-04-08,2024-04-11,Recovered
+74,27,Emergency,2024-01-13,2024-01-23,Recovered
+75,27,Emergency,2024-02-09,2024-02-18,Recovered
+76,28,Emergency,2024-01-14,2024-01-22,Recovered
+77,28,Cardiology,2024-02-15,2024-02-24,Recovered
+78,28,ICU,2024-02-07,2024-02-11,Readmitted
+79,28,Pulmonology,2024-02-16,2024-02-21,ICU
+80,28,Emergency,2024-05-13,2024-05-21,ICU
+81,29,ICU,2024-01-01,2024-01-03,Recovered
+82,29,Cardiology,2024-02-10,2024-02-12,Recovered
+83,30,Emergency,2024-01-05,2024-01-15,Recovered
+84,31,General Medicine,2024-01-20,2024-01-23,Recovered
+85,31,Neurology,2024-02-01,2024-02-03,Deceased
+86,32,Cardiology,2024-02-05,2024-02-14,ICU
+87,32,Neurology,2024-02-21,2024-02-27,Recovered
+88,32,Pulmonology,2024-03-04,2024-03-06,Recovered
+89,32,Cardiology,2024-05-05,2024-05-15,Recovered
+90,32,General Medicine,2024-05-31,2024-06-04,Recovered
+91,33,Emergency,2024-01-25,2024-01-27,ICU
+92,33,Emergency,2024-02-28,2024-03-08,Recovered
+93,33,Pulmonology,2024-02-18,2024-02-26,Recovered
+94,33,General Medicine,2024-05-15,2024-05-23,Deceased
+95,34,Pulmonology,2024-01-15,2024-01-17,Recovered
+96,34,Emergency,2024-02-16,2024-02-26,Recovered
+97,34,ICU,2024-03-29,2024-03-31,Recovered
+98,34,Pulmonology,2024-05-08,2024-05-11,Recovered
+99,35,General Medicine,2024-02-28,2024-03-06,Recovered
+100,35,Pulmonology,2024-04-06,2024-04-11,Recovered
+101,35,Pulmonology,2024-03-19,2024-03-27,Recovered
+102,36,Neurology,2024-01-06,2024-01-12,Recovered
+103,36,General Medicine,2024-02-01,2024-02-09,Recovered
+104,36,Neurology,2024-02-11,2024-02-21,Recovered
+105,36,Pulmonology,2024-03-09,2024-03-19,ICU
+106,37,Pulmonology,2024-02-11,2024-02-13,Readmitted
+107,37,Pulmonology,2024-03-13,2024-03-15,Recovered
+108,38,Neurology,2024-01-30,2024-02-02,Recovered
+109,38,Neurology,2024-02-22,2024-02-27,ICU
+110,38,ICU,2024-04-15,2024-04-19,Recovered
+111,38,General Medicine,2024-05-29,2024-06-02,ICU
+112,38,Emergency,2024-06-14,2024-06-23,ICU
+113,39,General Medicine,2024-02-12,2024-02-14,ICU
+114,40,Pulmonology,2024-02-08,2024-02-12,Recovered
+115,40,ICU,2024-02-22,2024-03-01,Recovered
+116,40,Neurology,2024-04-08,2024-04-17,ICU
+117,40,Emergency,2024-05-11,2024-05-15,ICU
+118,40,Pulmonology,2024-04-04,2024-04-06,Recovered
+119,41,General Medicine,2024-01-03,2024-01-10,Recovered
+120,41,General Medicine,2024-01-17,2024-01-20,Recovered
+121,42,Pulmonology,2024-01-21,2024-01-23,Recovered
+122,43,Pulmonology,2024-01-06,2024-01-16,Recovered
+123,43,General Medicine,2024-02-14,2024-02-17,Recovered
+124,44,Neurology,2024-02-18,2024-02-21,Recovered
+125,44,Neurology,2024-03-28,2024-04-07,Recovered
+126,44,Pulmonology,2024-04-06,2024-04-15,Recovered
+127,44,ICU,2024-04-03,2024-04-09,ICU
+128,44,General Medicine,2024-04-14,2024-04-22,Recovered
+129,45,Emergency,2024-02-13,2024-02-23,Deceased
+130,46,Emergency,2024-01-23,2024-01-30,Deceased
+131,47,Neurology,2024-01-19,2024-01-24,Recovered
+132,47,Emergency,2024-02-02,2024-02-10,Recovered
+133,47,ICU,2024-03-29,2024-04-01,Recovered
+134,48,Neurology,2024-01-29,2024-02-08,Recovered
+135,48,Pulmonology,2024-02-25,2024-02-29,Recovered
+136,48,Pulmonology,2024-02-26,2024-03-07,Recovered
+137,48,Neurology,2024-05-19,2024-05-22,Recovered
+138,48,General Medicine,2024-04-26,2024-05-03,Recovered
+139,49,Emergency,2024-02-04,2024-02-10,Recovered
+140,49,Pulmonology,2024-03-14,2024-03-19,Recovered
+141,49,Pulmonology,2024-03-07,2024-03-13,Recovered
+142,49,Pulmonology,2024-03-17,2024-03-27,Recovered
+143,50,Cardiology,2024-02-18,2024-02-28,Recovered
+144,50,Cardiology,2024-03-08,2024-03-14,Recovered
+145,50,Pulmonology,2024-04-26,2024-05-01,Recovered
+146,50,Cardiology,2024-04-03,2024-04-05,Recovered
+147,51,Pulmonology,2024-02-20,2024-02-24,Recovered
+148,51,ICU,2024-03-12,2024-03-18,Recovered
+149,51,Cardiology,2024-04-16,2024-04-20,Recovered
+150,51,General Medicine,2024-06-13,2024-06-16,ICU
+151,52,Neurology,2024-01-12,2024-01-20,Deceased
+152,53,General Medicine,2024-02-20,2024-03-01,Recovered
+153,53,Pulmonology,2024-03-21,2024-03-25,Recovered
+154,54,General Medicine,2024-01-02,2024-01-05,Recovered
+155,55,General Medicine,2024-02-11,2024-02-21,Deceased
+156,56,Pulmonology,2024-02-28,2024-03-01,Recovered
+157,56,ICU,2024-04-01,2024-04-03,Recovered
+158,56,ICU,2024-05-06,2024-05-13,Recovered
+159,56,Emergency,2024-04-25,2024-05-02,Recovered
+160,56,Pulmonology,2024-05-06,2024-05-16,Recovered
+161,57,Cardiology,2024-02-26,2024-03-02,Recovered
+162,57,ICU,2024-03-18,2024-03-21,Deceased
+163,58,ICU,2024-01-31,2024-02-04,Readmitted
+164,59,Neurology,2024-03-01,2024-03-07,Recovered
+165,60,Neurology,2024-01-18,2024-01-22,Recovered
+166,61,ICU,2024-01-03,2024-01-09,Recovered
+167,61,Neurology,2024-01-24,2024-02-01,Recovered
+168,61,General Medicine,2024-03-11,2024-03-17,Recovered
+169,62,Cardiology,2024-02-01,2024-02-10,Recovered
+170,62,Neurology,2024-02-12,2024-02-20,Recovered
+171,63,General Medicine,2024-01-23,2024-01-26,Readmitted
+172,63,ICU,2024-02-14,2024-02-19,ICU
+173,63,Emergency,2024-04-12,2024-04-19,Recovered
+174,63,Emergency,2024-04-19,2024-04-22,Recovered
+175,64,General Medicine,2024-02-24,2024-03-02,Recovered
+176,64,Neurology,2024-03-30,2024-04-05,Recovered
+177,64,Neurology,2024-03-29,2024-04-05,Recovered
+178,64,Cardiology,2024-03-31,2024-04-09,Recovered
+179,64,Pulmonology,2024-07-21,2024-07-31,Recovered
+180,65,Neurology,2024-01-22,2024-01-27,Recovered
+181,65,Cardiology,2024-02-28,2024-03-01,ICU
+182,65,Emergency,2024-03-22,2024-03-27,Recovered
+183,65,Pulmonology,2024-05-03,2024-05-12,Recovered
+184,65,Neurology,2024-03-14,2024-03-22,ICU
+185,66,Emergency,2024-02-16,2024-02-19,ICU
+186,66,General Medicine,2024-03-07,2024-03-16,Recovered
+187,66,ICU,2024-04-24,2024-05-01,Recovered
+188,66,Cardiology,2024-04-16,2024-04-19,Recovered
+189,67,Cardiology,2024-02-21,2024-02-27,Recovered
+190,67,Neurology,2024-03-07,2024-03-12,Recovered
+191,67,Cardiology,2024-04-03,2024-04-07,Recovered
+192,68,Cardiology,2024-01-31,2024-02-08,Recovered
+193,68,Cardiology,2024-02-20,2024-02-23,Recovered
+194,68,Pulmonology,2024-04-18,2024-04-23,ICU
+195,68,ICU,2024-03-13,2024-03-21,Deceased
+196,69,ICU,2024-01-09,2024-01-19,Recovered
+197,70,Cardiology,2024-02-12,2024-02-22,ICU
+198,71,General Medicine,2024-02-03,2024-02-05,Recovered
+199,71,Neurology,2024-03-09,2024-03-17,Recovered
+200,71,Cardiology,2024-04-05,2024-04-10,Readmitted
+201,72,Neurology,2024-02-03,2024-02-13,Recovered
+202,72,Pulmonology,2024-03-14,2024-03-24,Recovered
+203,72,ICU,2024-03-04,2024-03-13,Recovered
+204,73,Neurology,2024-01-10,2024-01-12,Recovered
+205,73,Neurology,2024-01-24,2024-01-30,Recovered
+206,74,Emergency,2024-02-05,2024-02-14,Recovered
+207,74,Emergency,2024-03-16,2024-03-24,Recovered
+208,75,Pulmonology,2024-02-12,2024-02-22,Recovered
+209,75,General Medicine,2024-03-18,2024-03-23,Recovered
+210,75,Emergency,2024-03-27,2024-04-06,Recovered
+211,75,Emergency,2024-05-30,2024-06-04,Recovered
+212,75,Neurology,2024-07-13,2024-07-20,Recovered
+213,76,General Medicine,2024-02-23,2024-02-27,Recovered
+214,76,Pulmonology,2024-03-28,2024-03-30,Recovered
+215,76,Cardiology,2024-04-03,2024-04-12,Recovered
+216,76,Neurology,2024-06-10,2024-06-13,Deceased
+217,77,Cardiology,2024-02-09,2024-02-15,Recovered
+218,77,Cardiology,2024-03-14,2024-03-23,Recovered
+219,78,Pulmonology,2024-02-05,2024-02-15,Recovered
+220,79,Pulmonology,2024-01-09,2024-01-14,Recovered
+221,80,General Medicine,2024-01-13,2024-01-21,Recovered
+222,80,Neurology,2024-01-29,2024-02-06,ICU
+223,80,Emergency,2024-03-03,2024-03-05,Recovered
+224,81,Emergency,2024-02-21,2024-02-25,Recovered
+225,81,Cardiology,2024-03-13,2024-03-22,Recovered
+226,81,Emergency,2024-04-19,2024-04-26,Recovered
+227,81,Pulmonology,2024-05-24,2024-06-03,Recovered
+228,82,ICU,2024-01-09,2024-01-19,Recovered
+229,83,Neurology,2024-01-15,2024-01-23,Recovered
+230,84,Neurology,2024-01-19,2024-01-24,Recovered
+231,85,ICU,2024-02-05,2024-02-10,Recovered
+232,85,Pulmonology,2024-03-08,2024-03-17,ICU
+233,85,ICU,2024-03-20,2024-03-30,ICU
+234,85,ICU,2024-05-14,2024-05-19,ICU
+235,85,Neurology,2024-07-02,2024-07-04,Recovered
+236,86,Cardiology,2024-02-27,2024-03-04,Recovered
+237,86,Neurology,2024-04-06,2024-04-12,ICU
+238,86,Emergency,2024-04-23,2024-04-26,Recovered
+239,86,Pulmonology,2024-06-20,2024-06-25,ICU
+240,87,Emergency,2024-01-22,2024-01-24,Recovered
+241,87,General Medicine,2024-02-02,2024-02-10,Recovered
+242,87,Cardiology,2024-03-16,2024-03-18,Recovered
+243,87,ICU,2024-05-21,2024-05-26,Recovered
+244,88,Pulmonology,2024-02-06,2024-02-11,Recovered
+245,88,Neurology,2024-02-17,2024-02-24,Recovered
+246,89,General Medicine,2024-02-27,2024-02-29,Recovered
+247,89,General Medicine,2024-03-16,2024-03-19,Recovered
+248,89,Cardiology,2024-04-07,2024-04-12,ICU
+249,90,General Medicine,2024-01-22,2024-01-30,Recovered
+250,90,Cardiology,2024-02-06,2024-02-10,Recovered
+251,90,ICU,2024-02-15,2024-02-24,ICU
+252,91,Pulmonology,2024-01-28,2024-02-05,Recovered
+253,91,ICU,2024-02-11,2024-02-15,ICU
+254,91,Pulmonology,2024-04-03,2024-04-07,Deceased
+255,92,Emergency,2024-01-10,2024-01-20,Recovered
+256,92,Cardiology,2024-01-26,2024-02-02,Recovered
+257,93,General Medicine,2024-02-21,2024-02-23,Recovered
+258,93,Pulmonology,2024-04-01,2024-04-11,Recovered
+259,93,ICU,2024-05-01,2024-05-04,Recovered
+260,94,ICU,2024-01-22,2024-02-01,Recovered
+261,94,Neurology,2024-02-09,2024-02-18,Recovered
+262,95,ICU,2024-02-20,2024-02-26,Recovered
+263,96,Emergency,2024-01-22,2024-01-26,ICU
+264,97,Neurology,2024-02-21,2024-02-29,Deceased
+265,98,General Medicine,2024-01-02,2024-01-11,Recovered
+266,98,Cardiology,2024-01-22,2024-01-28,Recovered
+267,99,ICU,2024-01-08,2024-01-10,Recovered
+268,100,Emergency,2024-01-28,2024-02-04,ICU
+269,101,Emergency,2024-01-16,2024-01-24,Recovered
+270,101,Emergency,2024-02-09,2024-02-11,Recovered
+271,101,Neurology,2024-03-12,2024-03-14,Recovered
+272,101,Emergency,2024-03-25,2024-04-04,Recovered
+273,102,Neurology,2024-02-23,2024-03-03,Recovered
+274,102,Pulmonology,2024-03-16,2024-03-26,Recovered
+275,102,General Medicine,2024-03-16,2024-03-20,Recovered
+276,103,Pulmonology,2024-02-14,2024-02-23,ICU
+277,103,Cardiology,2024-03-22,2024-03-30,Recovered
+278,103,Neurology,2024-03-31,2024-04-07,Recovered
+279,103,General Medicine,2024-06-04,2024-06-10,ICU
+280,104,ICU,2024-02-01,2024-02-08,Recovered
+281,104,General Medicine,2024-02-24,2024-02-29,Recovered
+282,104,ICU,2024-04-17,2024-04-19,Recovered
+283,104,Cardiology,2024-03-02,2024-03-04,ICU
+284,105,Neurology,2024-02-19,2024-02-27,Recovered
+285,105,Neurology,2024-03-26,2024-03-30,Recovered
+286,105,ICU,2024-03-14,2024-03-22,Recovered
+287,105,Neurology,2024-04-04,2024-04-12,Recovered
+288,105,Cardiology,2024-07-08,2024-07-11,ICU
+289,106,General Medicine,2024-01-30,2024-02-04,Recovered
+290,106,Pulmonology,2024-03-08,2024-03-11,Recovered
+291,106,Pulmonology,2024-04-07,2024-04-15,Recovered
+292,106,Cardiology,2024-05-08,2024-05-12,ICU
+293,106,Pulmonology,2024-03-30,2024-04-06,ICU
+294,107,Pulmonology,2024-02-28,2024-03-03,Recovered
+295,107,Pulmonology,2024-04-03,2024-04-10,ICU
+296,107,Cardiology,2024-04-04,2024-04-09,Recovered
+297,108,Cardiology,2024-02-16,2024-02-20,Recovered
+298,108,Cardiology,2024-03-21,2024-03-26,Recovered
+299,108,ICU,2024-03-31,2024-04-08,Deceased
+300,109,Emergency,2024-02-12,2024-02-22,ICU
+301,110,Neurology,2024-01-13,2024-01-23,Recovered
+302,111,ICU,2024-02-25,2024-03-06,Recovered
+303,111,Cardiology,2024-04-02,2024-04-10,ICU
+304,111,Emergency,2024-05-01,2024-05-05,Recovered
+305,111,General Medicine,2024-04-25,2024-05-01,Recovered
+306,112,General Medicine,2024-02-20,2024-02-25,Recovered
+307,112,Cardiology,2024-03-24,2024-03-30,Recovered
+308,112,Neurology,2024-05-08,2024-05-15,Recovered
+309,113,Cardiology,2024-02-03,2024-02-07,Recovered
+310,113,ICU,2024-02-16,2024-02-18,Readmitted
+311,113,ICU,2024-03-06,2024-03-08,Recovered
+312,114,ICU,2024-01-29,2024-02-02,ICU
+313,114,ICU,2024-02-08,2024-02-14,ICU
+314,114,Emergency,2024-02-22,2024-02-29,Recovered
+315,115,Emergency,2024-01-07,2024-01-13,Deceased
+316,116,Neurology,2024-02-10,2024-02-19,Recovered
+317,116,Emergency,2024-03-18,2024-03-24,Recovered
+318,116,General Medicine,2024-04-08,2024-04-16,Recovered
+319,117,General Medicine,2024-01-02,2024-01-12,Recovered
+320,117,Cardiology,2024-01-13,2024-01-15,Recovered
+321,117,Pulmonology,2024-02-03,2024-02-09,Recovered
+322,118,ICU,2024-01-17,2024-01-22,Recovered
+323,118,Emergency,2024-02-13,2024-02-20,Recovered
+324,118,General Medicine,2024-03-31,2024-04-09,Recovered
+325,118,Pulmonology,2024-04-07,2024-04-14,Recovered
+326,118,ICU,2024-04-06,2024-04-12,Recovered
+327,119,General Medicine,2024-01-26,2024-02-01,Recovered
+328,120,ICU,2024-01-10,2024-01-14,Deceased
+329,121,Pulmonology,2024-01-21,2024-01-23,Recovered
+330,121,ICU,2024-02-25,2024-03-02,Recovered
+331,121,Cardiology,2024-03-23,2024-03-31,Recovered
+332,121,ICU,2024-03-03,2024-03-10,Readmitted
+333,121,Neurology,2024-03-01,2024-03-10,Recovered
+334,122,Cardiology,2024-02-10,2024-02-19,Recovered
+335,122,Pulmonology,2024-02-20,2024-02-28,Recovered
+336,122,ICU,2024-04-30,2024-05-10,Recovered
+337,123,Cardiology,2024-01-27,2024-02-03,Recovered
+338,123,Pulmonology,2024-02-06,2024-02-16,ICU
+339,123,General Medicine,2024-03-13,2024-03-20,Recovered
+340,123,General Medicine,2024-04-14,2024-04-23,Recovered
+341,123,Cardiology,2024-06-11,2024-06-16,Recovered
+342,124,Cardiology,2024-02-09,2024-02-13,Readmitted
+343,124,Emergency,2024-02-25,2024-03-03,ICU
+344,124,Cardiology,2024-03-04,2024-03-11,Recovered
+345,125,Pulmonology,2024-01-10,2024-01-16,Deceased
+346,126,Neurology,2024-02-26,2024-03-05,Recovered
+347,126,Neurology,2024-03-28,2024-03-30,Recovered
+348,126,Cardiology,2024-04-14,2024-04-18,Recovered
+349,126,Emergency,2024-05-23,2024-05-30,Recovered
+350,126,Emergency,2024-06-09,2024-06-17,Readmitted
+351,127,Emergency,2024-02-15,2024-02-18,ICU
+352,127,General Medicine,2024-03-05,2024-03-13,Recovered
+353,127,Pulmonology,2024-03-30,2024-04-03,Recovered
+354,127,Emergency,2024-04-09,2024-04-17,Recovered
+355,128,Emergency,2024-01-27,2024-01-29,Recovered
+356,128,Neurology,2024-02-11,2024-02-17,Recovered
+357,129,Cardiology,2024-01-12,2024-01-18,Recovered
+358,129,General Medicine,2024-02-21,2024-02-28,Recovered
+359,130,General Medicine,2024-01-03,2024-01-09,Recovered
+360,130,Emergency,2024-01-22,2024-01-31,Recovered
+361,131,Emergency,2024-01-23,2024-01-25,Recovered
+362,131,Neurology,2024-02-02,2024-02-08,Deceased
+363,132,Emergency,2024-01-02,2024-01-05,Recovered
+364,132,General Medicine,2024-02-04,2024-02-12,Recovered
+365,132,Neurology,2024-01-26,2024-01-28,Recovered
+366,132,Emergency,2024-02-25,2024-03-05,Recovered
+367,133,General Medicine,2024-01-13,2024-01-19,Recovered
+368,134,Emergency,2024-02-27,2024-03-08,Recovered
+369,134,Neurology,2024-04-01,2024-04-04,Recovered
+370,134,Emergency,2024-04-11,2024-04-14,Recovered
+371,135,Pulmonology,2024-02-10,2024-02-16,Recovered
+372,136,ICU,2024-01-07,2024-01-09,Recovered
+373,136,Pulmonology,2024-01-31,2024-02-03,Recovered
+374,136,Neurology,2024-03-07,2024-03-09,Recovered
+375,136,ICU,2024-03-01,2024-03-05,ICU
+376,137,ICU,2024-01-03,2024-01-08,Recovered
+377,138,General Medicine,2024-02-15,2024-02-23,Recovered
+378,138,General Medicine,2024-03-23,2024-03-30,ICU
+379,139,ICU,2024-02-01,2024-02-06,Recovered
+380,139,Neurology,2024-02-13,2024-02-20,Recovered
+381,140,Neurology,2024-01-21,2024-01-23,Recovered
+382,140,Emergency,2024-02-03,2024-02-05,Readmitted
+383,140,Neurology,2024-02-22,2024-03-02,Recovered
+384,140,Cardiology,2024-03-09,2024-03-19,Recovered
+385,140,ICU,2024-06-05,2024-06-08,Recovered
+386,141,ICU,2024-02-29,2024-03-03,Recovered
+387,141,Pulmonology,2024-03-17,2024-03-19,Deceased
+388,142,Neurology,2024-01-30,2024-02-06,Recovered
+389,142,General Medicine,2024-02-24,2024-02-28,Recovered
+390,142,General Medicine,2024-03-16,2024-03-20,ICU
+391,142,Pulmonology,2024-04-02,2024-04-05,ICU
+392,143,Neurology,2024-01-14,2024-01-21,Recovered
+393,143,Pulmonology,2024-02-14,2024-02-23,Recovered
+394,143,Cardiology,2024-03-12,2024-03-16,Recovered
+395,143,General Medicine,2024-04-19,2024-04-29,Recovered
+396,143,Emergency,2024-02-27,2024-03-08,Recovered
+397,144,Pulmonology,2024-01-16,2024-01-22,Recovered
+398,144,Cardiology,2024-02-01,2024-02-03,Deceased
+399,145,Neurology,2024-01-24,2024-02-03,ICU
+400,145,Pulmonology,2024-02-04,2024-02-13,ICU
+401,145,Cardiology,2024-03-28,2024-04-01,Recovered
+402,145,Emergency,2024-02-23,2024-03-01,Recovered
+403,146,Pulmonology,2024-01-25,2024-02-04,Recovered
+404,146,Cardiology,2024-02-09,2024-02-19,Readmitted
+405,147,ICU,2024-02-14,2024-02-22,Recovered
+406,147,ICU,2024-03-14,2024-03-22,Readmitted
+407,147,Neurology,2024-04-16,2024-04-22,Readmitted
+408,148,Emergency,2024-02-21,2024-02-25,Recovered
+409,148,Emergency,2024-03-13,2024-03-21,Recovered
+410,148,ICU,2024-03-22,2024-03-24,Deceased
+411,149,Emergency,2024-02-20,2024-03-01,Recovered
+412,149,Emergency,2024-03-01,2024-03-07,ICU
+413,149,Pulmonology,2024-03-29,2024-04-08,Recovered
+414,149,ICU,2024-03-21,2024-03-23,Recovered
+415,149,ICU,2024-05-02,2024-05-09,Recovered
+416,150,General Medicine,2024-02-21,2024-02-25,Recovered
+417,150,Neurology,2024-03-03,2024-03-05,Recovered
+418,150,Emergency,2024-04-03,2024-04-08,ICU
+419,150,Neurology,2024-04-03,2024-04-11,ICU
+420,151,Pulmonology,2024-02-21,2024-02-25,ICU
+421,151,Pulmonology,2024-03-28,2024-04-05,ICU
+422,151,Neurology,2024-03-30,2024-04-04,Recovered
+423,151,ICU,2024-06-11,2024-06-17,Recovered
+424,151,ICU,2024-05-31,2024-06-06,ICU
+425,152,Pulmonology,2024-01-30,2024-02-01,Recovered
+426,153,Pulmonology,2024-01-10,2024-01-17,Recovered
+427,153,Emergency,2024-02-17,2024-02-23,Recovered
+428,153,Neurology,2024-02-13,2024-02-20,Recovered
+429,154,Pulmonology,2024-01-11,2024-01-17,Recovered
+430,155,Emergency,2024-02-26,2024-03-02,Recovered
+431,156,Pulmonology,2024-01-15,2024-01-24,Readmitted
+432,156,General Medicine,2024-01-29,2024-02-05,Recovered
+433,156,Pulmonology,2024-02-12,2024-02-19,Recovered
+434,156,Pulmonology,2024-03-27,2024-04-01,ICU
+435,157,Cardiology,2024-02-06,2024-02-10,Recovered
+436,157,Neurology,2024-02-28,2024-03-06,Recovered
+437,158,General Medicine,2024-02-28,2024-03-09,Recovered
+438,158,Emergency,2024-03-18,2024-03-28,Readmitted
+439,158,ICU,2024-04-10,2024-04-14,Recovered
+440,159,Emergency,2024-01-16,2024-01-26,Recovered
+441,159,Cardiology,2024-02-20,2024-02-23,Deceased
+442,160,Pulmonology,2024-01-04,2024-01-08,Recovered
+443,160,Neurology,2024-01-20,2024-01-28,Readmitted
+444,160,Emergency,2024-03-18,2024-03-20,Recovered
+445,161,General Medicine,2024-02-15,2024-02-20,Recovered
+446,161,Emergency,2024-03-10,2024-03-12,Readmitted
+447,162,Emergency,2024-02-18,2024-02-20,Recovered
+448,162,Pulmonology,2024-03-01,2024-03-03,ICU
+449,162,Cardiology,2024-04-22,2024-04-27,Recovered
+450,162,Cardiology,2024-04-12,2024-04-22,Recovered
+451,162,Cardiology,2024-05-16,2024-05-20,Recovered
+452,163,Emergency,2024-01-05,2024-01-13,Recovered
+453,163,Cardiology,2024-02-11,2024-02-18,Recovered
+454,163,Emergency,2024-03-19,2024-03-24,Recovered
+455,163,Neurology,2024-02-16,2024-02-24,Recovered
+456,164,General Medicine,2024-01-24,2024-01-31,Recovered
+457,164,Emergency,2024-03-01,2024-03-10,Recovered
+458,165,Pulmonology,2024-03-01,2024-03-09,Recovered
+459,165,General Medicine,2024-03-31,2024-04-03,Recovered
+460,165,ICU,2024-04-30,2024-05-06,Recovered
+461,166,Emergency,2024-01-06,2024-01-09,Recovered
+462,167,Emergency,2024-02-21,2024-02-29,Recovered
+463,167,Emergency,2024-03-04,2024-03-12,Readmitted
+464,167,Emergency,2024-05-03,2024-05-07,Recovered
+465,168,Neurology,2024-01-27,2024-02-04,Recovered
+466,169,Cardiology,2024-02-04,2024-02-11,Recovered
+467,169,Pulmonology,2024-03-06,2024-03-13,Recovered
+468,169,General Medicine,2024-04-02,2024-04-04,ICU
+469,170,Emergency,2024-02-21,2024-03-01,Readmitted
+470,171,General Medicine,2024-01-02,2024-01-07,Recovered
+471,171,ICU,2024-01-15,2024-01-22,Recovered
+472,171,ICU,2024-03-18,2024-03-21,Recovered
+473,171,General Medicine,2024-03-29,2024-04-05,Recovered
+474,172,Cardiology,2024-02-11,2024-02-21,Recovered
+475,172,Emergency,2024-02-28,2024-03-08,Recovered
+476,172,Emergency,2024-03-04,2024-03-11,ICU
+477,173,Neurology,2024-02-28,2024-03-09,Recovered
+478,173,General Medicine,2024-03-16,2024-03-21,Readmitted
+479,173,Pulmonology,2024-04-04,2024-04-06,Recovered
+480,174,Pulmonology,2024-01-10,2024-01-14,Recovered
+481,175,Pulmonology,2024-02-01,2024-02-04,Recovered
+482,175,ICU,2024-02-29,2024-03-03,ICU
+483,175,Cardiology,2024-04-03,2024-04-10,Recovered
+484,176,Emergency,2024-02-04,2024-02-13,ICU
+485,177,Neurology,2024-02-06,2024-02-08,Recovered
+486,177,Pulmonology,2024-03-09,2024-03-13,Recovered
+487,177,Cardiology,2024-04-12,2024-04-14,Readmitted
+488,178,ICU,2024-01-30,2024-02-06,Recovered
+489,178,Neurology,2024-02-15,2024-02-22,Recovered
+490,178,ICU,2024-02-23,2024-02-26,Recovered
+491,179,General Medicine,2024-01-02,2024-01-04,Recovered
+492,179,General Medicine,2024-01-30,2024-02-02,Recovered
+493,179,Pulmonology,2024-01-30,2024-02-08,Recovered
+494,179,ICU,2024-02-13,2024-02-23,Recovered
+495,179,ICU,2024-06-10,2024-06-15,Recovered
+496,180,ICU,2024-02-26,2024-03-02,ICU
+497,180,Neurology,2024-03-08,2024-03-10,Recovered
+498,180,Neurology,2024-03-27,2024-04-06,ICU
+499,180,Pulmonology,2024-06-07,2024-06-15,ICU
+500,181,Emergency,2024-02-14,2024-02-17,Recovered
+501,181,ICU,2024-03-25,2024-04-04,Recovered
+502,182,Neurology,2024-02-03,2024-02-10,Recovered
+503,182,Emergency,2024-02-18,2024-02-25,Deceased
+504,183,Emergency,2024-02-28,2024-03-06,ICU
+505,184,Neurology,2024-02-11,2024-02-19,Readmitted
+506,184,Emergency,2024-03-14,2024-03-16,Recovered
+507,184,Emergency,2024-04-29,2024-05-01,Recovered
+508,185,General Medicine,2024-01-05,2024-01-15,Recovered
+509,185,General Medicine,2024-02-08,2024-02-16,Deceased
+510,186,ICU,2024-01-22,2024-01-31,Readmitted
+511,186,Pulmonology,2024-02-09,2024-02-13,Recovered
+512,186,Cardiology,2024-02-13,2024-02-17,Recovered
+513,186,Emergency,2024-04-18,2024-04-23,Recovered
+514,187,Cardiology,2024-03-01,2024-03-10,Recovered
+515,187,General Medicine,2024-03-17,2024-03-24,Recovered
+516,187,Cardiology,2024-04-04,2024-04-14,Recovered
+517,187,Pulmonology,2024-05-24,2024-06-03,ICU
+518,187,Cardiology,2024-06-29,2024-07-05,ICU
+519,188,Cardiology,2024-01-23,2024-01-27,Recovered
+520,189,Neurology,2024-01-04,2024-01-14,Recovered
+521,190,ICU,2024-02-10,2024-02-20,Recovered
+522,190,General Medicine,2024-03-17,2024-03-27,ICU
+523,190,General Medicine,2024-03-17,2024-03-22,Recovered
+524,190,ICU,2024-06-06,2024-06-09,Recovered
+525,191,Neurology,2024-02-13,2024-02-15,Recovered
+526,191,Cardiology,2024-03-16,2024-03-25,Recovered
+527,192,Emergency,2024-01-19,2024-01-27,ICU
+528,193,Neurology,2024-02-09,2024-02-19,ICU
+529,193,Cardiology,2024-02-26,2024-03-07,Recovered
+530,193,General Medicine,2024-03-30,2024-04-06,ICU
+531,194,ICU,2024-01-08,2024-01-15,Recovered
+532,194,ICU,2024-02-08,2024-02-13,Readmitted
+533,194,General Medicine,2024-03-22,2024-03-27,Recovered
+534,194,Pulmonology,2024-02-16,2024-02-20,Recovered
+535,194,Cardiology,2024-04-09,2024-04-11,Recovered
+536,195,Pulmonology,2024-01-13,2024-01-15,Recovered
+537,195,ICU,2024-02-03,2024-02-10,Recovered
+538,196,General Medicine,2024-01-18,2024-01-25,ICU
+539,196,ICU,2024-02-15,2024-02-23,ICU
+540,196,Cardiology,2024-04-05,2024-04-12,Recovered
+541,196,General Medicine,2024-03-24,2024-04-02,Recovered
+542,196,ICU,2024-06-14,2024-06-22,Readmitted
+543,197,General Medicine,2024-01-07,2024-01-10,Readmitted
+544,197,General Medicine,2024-01-18,2024-01-25,Recovered
+545,197,General Medicine,2024-02-18,2024-02-24,Recovered
+546,198,Pulmonology,2024-02-03,2024-02-06,Recovered
+547,198,ICU,2024-03-08,2024-03-15,Recovered
+548,198,ICU,2024-03-16,2024-03-23,Recovered
+549,199,General Medicine,2024-01-02,2024-01-10,ICU
+550,199,Emergency,2024-01-28,2024-02-01,Recovered
+551,199,General Medicine,2024-02-17,2024-02-23,Recovered
+552,199,General Medicine,2024-04-22,2024-04-25,Recovered
+553,200,Cardiology,2024-01-10,2024-01-16,Recovered
+554,200,ICU,2024-01-29,2024-02-03,Recovered
+555,200,Pulmonology,2024-03-28,2024-04-01,Recovered
+556,201,ICU,2024-02-05,2024-02-07,Readmitted
+557,201,Pulmonology,2024-02-26,2024-03-04,Recovered
+558,201,General Medicine,2024-04-21,2024-04-25,Deceased
+559,202,Neurology,2024-02-12,2024-02-19,Recovered
+560,203,Pulmonology,2024-02-04,2024-02-13,Recovered
+561,204,ICU,2024-02-14,2024-02-24,ICU
+562,205,General Medicine,2024-02-18,2024-02-23,Readmitted
+563,206,Emergency,2024-01-17,2024-01-25,Recovered
+564,206,Cardiology,2024-02-05,2024-02-09,Readmitted
+565,206,Pulmonology,2024-02-08,2024-02-18,Recovered
+566,207,ICU,2024-01-12,2024-01-22,Recovered
+567,207,Pulmonology,2024-02-04,2024-02-09,Recovered
+568,207,Emergency,2024-02-21,2024-02-25,Recovered
+569,208,Cardiology,2024-01-23,2024-01-31,ICU
+570,209,General Medicine,2024-02-11,2024-02-14,Readmitted
+571,209,ICU,2024-03-05,2024-03-07,Readmitted
+572,209,General Medicine,2024-03-10,2024-03-19,ICU
+573,209,Pulmonology,2024-04-23,2024-05-03,Recovered
+574,210,Neurology,2024-02-16,2024-02-22,Recovered
+575,210,General Medicine,2024-02-27,2024-03-08,Recovered
+576,210,Neurology,2024-03-29,2024-04-02,ICU
+577,210,Cardiology,2024-04-04,2024-04-06,Recovered
+578,211,Pulmonology,2024-02-23,2024-03-04,Recovered
+579,211,Neurology,2024-03-20,2024-03-29,ICU
+580,211,Emergency,2024-03-22,2024-03-31,Recovered
+581,211,Pulmonology,2024-04-05,2024-04-12,ICU
+582,212,Emergency,2024-01-17,2024-01-20,Recovered
+583,213,Neurology,2024-02-21,2024-03-01,Recovered
+584,213,Neurology,2024-03-05,2024-03-11,Readmitted
+585,213,Pulmonology,2024-04-19,2024-04-21,ICU
+586,213,ICU,2024-06-11,2024-06-21,Readmitted
+587,214,General Medicine,2024-01-20,2024-01-22,Recovered
+588,215,Emergency,2024-01-10,2024-01-19,Recovered
+589,216,Pulmonology,2024-02-23,2024-02-26,Recovered
+590,216,Cardiology,2024-03-20,2024-03-29,Recovered
+591,216,Pulmonology,2024-04-07,2024-04-09,Recovered
+592,216,ICU,2024-05-17,2024-05-20,Recovered
+593,217,Pulmonology,2024-02-24,2024-03-03,ICU
+594,217,General Medicine,2024-03-29,2024-04-05,Recovered
+595,218,Emergency,2024-02-27,2024-03-02,Recovered
+596,218,Neurology,2024-03-21,2024-03-29,Recovered
+597,218,Pulmonology,2024-04-15,2024-04-17,ICU
+598,219,Emergency,2024-01-22,2024-01-24,Recovered
+599,219,General Medicine,2024-02-18,2024-02-24,Readmitted
+600,219,Neurology,2024-03-24,2024-03-30,Deceased
+601,220,ICU,2024-01-30,2024-02-07,Recovered
+602,220,Neurology,2024-03-07,2024-03-10,Recovered
+603,221,Emergency,2024-01-01,2024-01-04,Recovered
+604,222,Emergency,2024-02-12,2024-02-15,Recovered
+605,222,ICU,2024-02-26,2024-03-07,Recovered
+606,223,Emergency,2024-02-20,2024-02-23,Readmitted
+607,223,General Medicine,2024-03-18,2024-03-21,ICU
+608,223,Cardiology,2024-03-17,2024-03-21,Recovered
+609,223,General Medicine,2024-04-05,2024-04-09,ICU
+610,223,Emergency,2024-06-19,2024-06-21,Readmitted
+611,224,General Medicine,2024-02-13,2024-02-20,Deceased
+612,225,Neurology,2024-02-09,2024-02-18,Recovered
+613,225,Pulmonology,2024-02-25,2024-02-27,Recovered
+614,226,Pulmonology,2024-02-27,2024-03-03,ICU
+615,226,Pulmonology,2024-03-25,2024-04-01,Recovered
+616,226,Pulmonology,2024-05-15,2024-05-25,Recovered
+617,227,Emergency,2024-02-14,2024-02-18,ICU
+618,227,Pulmonology,2024-02-24,2024-03-03,Readmitted
+619,227,General Medicine,2024-03-05,2024-03-13,Recovered
+620,228,Neurology,2024-02-05,2024-02-07,ICU
+621,228,Emergency,2024-03-13,2024-03-20,Deceased
+622,229,ICU,2024-01-03,2024-01-05,Deceased
+623,230,ICU,2024-02-05,2024-02-15,Recovered
+624,230,Neurology,2024-02-22,2024-03-01,Recovered
+625,230,Cardiology,2024-03-02,2024-03-09,Recovered
+626,231,Neurology,2024-01-01,2024-01-07,Readmitted
+627,231,Cardiology,2024-01-29,2024-02-02,Recovered
+628,231,General Medicine,2024-02-14,2024-02-18,Deceased
+629,232,Emergency,2024-01-20,2024-01-28,ICU
+630,232,Pulmonology,2024-02-02,2024-02-07,ICU
+631,232,Emergency,2024-03-04,2024-03-07,Recovered
+632,233,Cardiology,2024-01-26,2024-02-04,Recovered
+633,233,Pulmonology,2024-02-13,2024-02-16,ICU
+634,234,ICU,2024-02-02,2024-02-06,Recovered
+635,234,Neurology,2024-03-06,2024-03-13,Readmitted
+636,234,ICU,2024-04-06,2024-04-09,Recovered
+637,235,Cardiology,2024-01-02,2024-01-10,Recovered
+638,235,General Medicine,2024-01-18,2024-01-23,Recovered
+639,235,Neurology,2024-02-11,2024-02-14,ICU
+640,235,Emergency,2024-04-04,2024-04-10,Readmitted
+641,235,Neurology,2024-02-11,2024-02-14,Recovered
+642,236,Neurology,2024-02-01,2024-02-08,Recovered
+643,236,ICU,2024-02-24,2024-02-26,Recovered
+644,236,Emergency,2024-02-25,2024-03-02,Recovered
+645,236,Emergency,2024-03-29,2024-03-31,Recovered
+646,236,Cardiology,2024-05-15,2024-05-22,ICU
+647,237,Pulmonology,2024-02-13,2024-02-20,ICU
+648,237,Cardiology,2024-02-26,2024-03-05,Recovered
+649,238,Neurology,2024-01-01,2024-01-11,Recovered
+650,238,Emergency,2024-02-06,2024-02-08,Recovered
+651,238,Emergency,2024-03-05,2024-03-14,Recovered
+652,238,Emergency,2024-03-25,2024-04-04,Recovered
+653,239,Emergency,2024-01-05,2024-01-07,Recovered
+654,240,Cardiology,2024-02-15,2024-02-21,ICU
+655,241,General Medicine,2024-01-15,2024-01-24,Recovered
+656,241,General Medicine,2024-02-14,2024-02-18,Recovered
+657,241,Neurology,2024-02-10,2024-02-14,Recovered
+658,241,Emergency,2024-04-17,2024-04-20,Recovered
+659,241,Emergency,2024-05-22,2024-05-26,Recovered
+660,242,Pulmonology,2024-01-22,2024-01-29,Recovered
+661,242,ICU,2024-02-03,2024-02-11,Recovered
+662,243,General Medicine,2024-01-06,2024-01-08,ICU
+663,244,ICU,2024-01-21,2024-01-23,Recovered
+664,245,Emergency,2024-01-24,2024-01-31,Recovered
+665,245,Emergency,2024-02-03,2024-02-08,Recovered
+666,245,Neurology,2024-02-29,2024-03-07,Recovered
+667,245,Neurology,2024-03-06,2024-03-14,Recovered
+668,246,Pulmonology,2024-02-01,2024-02-05,Recovered
+669,246,Cardiology,2024-02-29,2024-03-10,ICU
+670,246,Emergency,2024-03-08,2024-03-12,Recovered
+671,246,ICU,2024-04-19,2024-04-23,Recovered
+672,247,Pulmonology,2024-02-16,2024-02-25,Recovered
+673,248,Emergency,2024-01-26,2024-01-31,ICU
+674,248,General Medicine,2024-02-26,2024-02-28,Deceased
+675,249,Neurology,2024-02-27,2024-03-08,Recovered
+676,249,Pulmonology,2024-03-12,2024-03-18,Recovered
+677,249,Pulmonology,2024-04-21,2024-04-28,Recovered
+678,250,General Medicine,2024-02-29,2024-03-07,Readmitted
+679,250,Cardiology,2024-04-07,2024-04-15,Deceased
+680,251,ICU,2024-02-01,2024-02-11,Recovered
+681,251,Neurology,2024-02-19,2024-02-27,Recovered
+682,251,General Medicine,2024-04-05,2024-04-15,Recovered
+683,251,Pulmonology,2024-03-14,2024-03-20,Recovered
+684,251,Emergency,2024-05-31,2024-06-07,ICU
+685,252,General Medicine,2024-02-17,2024-02-19,Recovered
+686,252,Emergency,2024-03-07,2024-03-11,ICU
+687,252,Emergency,2024-03-16,2024-03-19,Recovered
+688,253,Neurology,2024-02-09,2024-02-19,Deceased
+689,254,ICU,2024-01-06,2024-01-15,Readmitted
+690,254,Pulmonology,2024-01-30,2024-02-07,Recovered
+691,254,Neurology,2024-02-05,2024-02-10,Recovered
+692,255,Cardiology,2024-02-07,2024-02-16,Recovered
+693,256,ICU,2024-01-09,2024-01-18,Recovered
+694,256,General Medicine,2024-01-19,2024-01-23,ICU
+695,256,Neurology,2024-02-16,2024-02-18,Recovered
+696,256,Cardiology,2024-03-21,2024-03-31,Recovered
+697,257,Pulmonology,2024-01-24,2024-01-28,Recovered
+698,257,General Medicine,2024-02-25,2024-03-03,Recovered
+699,257,General Medicine,2024-03-14,2024-03-20,Recovered
+700,257,Cardiology,2024-03-09,2024-03-17,Recovered
+701,257,General Medicine,2024-05-27,2024-05-31,Recovered
+702,258,Cardiology,2024-02-26,2024-03-04,Recovered
+703,259,Cardiology,2024-01-02,2024-01-07,Recovered
+704,259,Neurology,2024-01-13,2024-01-20,Recovered
+705,259,Emergency,2024-02-25,2024-02-28,Recovered
+706,260,Cardiology,2024-01-16,2024-01-20,Recovered
+707,260,Pulmonology,2024-02-14,2024-02-16,Deceased
+708,261,General Medicine,2024-02-18,2024-02-21,Recovered
+709,261,Emergency,2024-02-29,2024-03-09,Recovered
+710,262,Emergency,2024-02-13,2024-02-21,Recovered
+711,262,ICU,2024-03-07,2024-03-15,Recovered
+712,262,General Medicine,2024-04-25,2024-04-29,Recovered
+713,263,ICU,2024-02-08,2024-02-18,Recovered
+714,264,Cardiology,2024-01-30,2024-02-03,Recovered
+715,264,Neurology,2024-02-26,2024-03-07,Recovered
+716,265,General Medicine,2024-01-03,2024-01-13,Recovered
+717,265,Emergency,2024-02-10,2024-02-12,Readmitted
+718,266,Emergency,2024-02-13,2024-02-17,Deceased
+719,267,Pulmonology,2024-02-26,2024-03-04,Recovered
+720,267,General Medicine,2024-03-21,2024-03-28,Recovered
+721,267,ICU,2024-03-19,2024-03-26,Recovered
+722,267,Neurology,2024-06-01,2024-06-04,Recovered
+723,268,Emergency,2024-02-01,2024-02-11,Recovered
+724,268,General Medicine,2024-03-02,2024-03-10,Recovered
+725,268,General Medicine,2024-03-14,2024-03-16,Recovered
+726,268,General Medicine,2024-03-11,2024-03-17,Recovered
+727,268,General Medicine,2024-04-13,2024-04-21,Recovered
+728,269,ICU,2024-02-03,2024-02-06,Recovered
+729,269,Pulmonology,2024-03-04,2024-03-10,Recovered
+730,269,General Medicine,2024-03-16,2024-03-21,ICU
+731,270,Emergency,2024-02-10,2024-02-18,Recovered
+732,270,ICU,2024-02-29,2024-03-07,Recovered
+733,271,General Medicine,2024-01-31,2024-02-10,ICU
+734,271,Emergency,2024-02-20,2024-02-27,Recovered
+735,271,Pulmonology,2024-03-09,2024-03-15,Recovered
+736,271,General Medicine,2024-04-27,2024-05-03,Recovered
+737,272,General Medicine,2024-01-04,2024-01-14,Recovered
+738,273,Pulmonology,2024-02-19,2024-02-21,ICU
+739,273,Neurology,2024-03-21,2024-03-31,Recovered
+740,273,General Medicine,2024-05-05,2024-05-09,Recovered
+741,274,Pulmonology,2024-01-24,2024-02-01,Recovered
+742,274,Pulmonology,2024-03-04,2024-03-13,Recovered
+743,275,Pulmonology,2024-01-28,2024-01-31,Recovered
+744,276,Cardiology,2024-01-08,2024-01-13,Recovered
+745,276,General Medicine,2024-02-05,2024-02-14,Recovered
+746,277,Cardiology,2024-02-05,2024-02-12,Deceased
+747,278,Emergency,2024-01-11,2024-01-15,Recovered
+748,278,Neurology,2024-02-08,2024-02-15,Recovered
+749,279,Pulmonology,2024-02-21,2024-02-27,ICU
+750,280,Neurology,2024-01-30,2024-02-07,Recovered
+751,280,Pulmonology,2024-03-10,2024-03-16,Recovered
+752,280,ICU,2024-04-13,2024-04-15,Recovered
+753,280,Pulmonology,2024-03-18,2024-03-25,Recovered
+754,281,ICU,2024-02-10,2024-02-18,Readmitted
+755,281,Emergency,2024-02-22,2024-02-27,Recovered
+756,281,Neurology,2024-03-21,2024-03-31,ICU
+757,281,Cardiology,2024-03-17,2024-03-21,Recovered
+758,281,Emergency,2024-04-06,2024-04-11,Recovered
+759,282,Cardiology,2024-01-22,2024-01-28,Recovered
+760,283,Neurology,2024-02-25,2024-03-03,Recovered
+761,283,Cardiology,2024-04-02,2024-04-04,Recovered
+762,284,Emergency,2024-01-22,2024-01-31,Recovered
+763,284,General Medicine,2024-02-07,2024-02-14,ICU
+764,284,Cardiology,2024-02-27,2024-03-03,Recovered
+765,284,General Medicine,2024-05-09,2024-05-18,Recovered
+766,285,General Medicine,2024-01-05,2024-01-10,ICU
+767,285,General Medicine,2024-01-25,2024-01-30,Recovered
+768,285,Pulmonology,2024-02-22,2024-02-25,ICU
+769,285,ICU,2024-04-16,2024-04-25,Recovered
+770,285,Pulmonology,2024-04-02,2024-04-06,Recovered
+771,286,ICU,2024-02-02,2024-02-04,Readmitted
+772,286,Cardiology,2024-03-12,2024-03-22,Recovered
+773,286,General Medicine,2024-04-06,2024-04-09,Recovered
+774,286,General Medicine,2024-03-15,2024-03-20,Recovered
+775,287,Cardiology,2024-01-28,2024-02-04,Recovered
+776,288,ICU,2024-02-23,2024-02-25,Recovered
+777,288,ICU,2024-03-08,2024-03-14,Recovered
+778,288,General Medicine,2024-03-18,2024-03-22,ICU
+779,289,ICU,2024-02-10,2024-02-20,ICU
+780,290,Neurology,2024-02-11,2024-02-18,Recovered
+781,290,General Medicine,2024-03-22,2024-03-28,Recovered
+782,290,Cardiology,2024-04-11,2024-04-14,Deceased
+783,291,Emergency,2024-01-09,2024-01-13,Recovered
+784,292,Pulmonology,2024-01-18,2024-01-28,ICU
+785,292,Neurology,2024-02-04,2024-02-07,Recovered
+786,292,Neurology,2024-04-01,2024-04-03,Recovered
+787,292,Cardiology,2024-05-17,2024-05-22,Recovered
+788,292,Cardiology,2024-04-03,2024-04-08,Recovered
+789,293,ICU,2024-02-11,2024-02-21,Recovered
+790,293,Pulmonology,2024-03-22,2024-03-29,ICU
+791,293,General Medicine,2024-03-06,2024-03-09,Recovered
+792,294,ICU,2024-01-29,2024-02-08,Recovered
+793,295,General Medicine,2024-01-21,2024-01-26,Recovered
+794,295,Cardiology,2024-02-04,2024-02-12,Recovered
+795,296,General Medicine,2024-01-17,2024-01-24,Recovered
+796,296,Neurology,2024-02-13,2024-02-19,Deceased
+797,297,Emergency,2024-02-28,2024-03-06,Recovered
+798,298,Neurology,2024-02-05,2024-02-14,Deceased
+799,299,Emergency,2024-02-16,2024-02-19,Recovered
+800,299,ICU,2024-03-02,2024-03-10,Recovered
+801,300,Cardiology,2024-02-06,2024-02-09,Recovered
+802,301,Cardiology,2024-01-30,2024-02-07,Deceased
+803,302,Emergency,2024-01-10,2024-01-14,Deceased
+804,303,Pulmonology,2024-02-18,2024-02-23,Recovered
+805,303,Cardiology,2024-03-04,2024-03-14,Recovered
+806,304,Cardiology,2024-01-22,2024-01-27,Recovered
+807,304,ICU,2024-02-15,2024-02-23,Recovered
+808,304,Neurology,2024-04-05,2024-04-15,Recovered
+809,304,ICU,2024-04-03,2024-04-13,Recovered
+810,304,Cardiology,2024-06-02,2024-06-11,Recovered
+811,305,ICU,2024-01-05,2024-01-15,Recovered
+812,305,ICU,2024-01-25,2024-02-01,ICU
+813,305,Cardiology,2024-03-17,2024-03-25,Recovered
+814,305,General Medicine,2024-02-10,2024-02-13,ICU
+815,305,Cardiology,2024-05-08,2024-05-10,Readmitted
+816,306,Pulmonology,2024-02-21,2024-02-25,Recovered
+817,307,Emergency,2024-02-04,2024-02-09,Recovered
+818,307,Emergency,2024-03-09,2024-03-15,Recovered
+819,307,Emergency,2024-03-13,2024-03-21,Recovered
+820,307,Pulmonology,2024-05-31,2024-06-06,Recovered
+821,307,Cardiology,2024-03-19,2024-03-25,ICU
+822,308,Pulmonology,2024-02-25,2024-02-28,Recovered
+823,308,Pulmonology,2024-03-06,2024-03-16,Recovered
+824,309,Cardiology,2024-01-08,2024-01-16,Recovered
+825,309,ICU,2024-02-07,2024-02-17,Recovered
+826,310,ICU,2024-02-26,2024-03-07,Deceased
+827,311,Cardiology,2024-02-13,2024-02-15,Recovered
+828,312,Emergency,2024-02-17,2024-02-22,Recovered
+829,312,General Medicine,2024-03-27,2024-03-31,Readmitted
+830,312,Neurology,2024-04-01,2024-04-08,Recovered
+831,312,Cardiology,2024-06-01,2024-06-03,Recovered
+832,313,Neurology,2024-01-24,2024-01-28,ICU
+833,313,Pulmonology,2024-02-28,2024-03-04,Recovered
+834,313,General Medicine,2024-04-13,2024-04-23,Recovered
+835,313,Cardiology,2024-03-21,2024-03-28,ICU
+836,313,ICU,2024-03-28,2024-04-04,Recovered
+837,314,Pulmonology,2024-02-10,2024-02-19,Readmitted
+838,314,Cardiology,2024-02-26,2024-03-04,Recovered
+839,314,Emergency,2024-04-28,2024-05-03,ICU
+840,314,ICU,2024-06-09,2024-06-12,Recovered
+841,315,Pulmonology,2024-01-29,2024-02-08,Recovered
+842,315,Cardiology,2024-02-28,2024-03-06,Recovered
+843,315,General Medicine,2024-03-31,2024-04-08,Recovered
+844,316,Emergency,2024-02-10,2024-02-12,Recovered
+845,316,ICU,2024-03-18,2024-03-21,Recovered
+846,316,ICU,2024-03-03,2024-03-11,ICU
+847,316,Emergency,2024-04-10,2024-04-17,Recovered
+848,317,Neurology,2024-02-19,2024-02-23,Recovered
+849,317,Emergency,2024-03-08,2024-03-11,Recovered
+850,317,General Medicine,2024-04-29,2024-05-03,Recovered
+851,317,Pulmonology,2024-03-29,2024-04-02,ICU
+852,318,Pulmonology,2024-02-07,2024-02-14,Recovered
+853,318,Pulmonology,2024-03-11,2024-03-21,Recovered
+854,318,Pulmonology,2024-03-10,2024-03-16,Recovered
+855,319,Emergency,2024-02-23,2024-03-01,Recovered
+856,319,ICU,2024-03-08,2024-03-11,Recovered
+857,319,General Medicine,2024-04-01,2024-04-07,Recovered
+858,320,Emergency,2024-01-28,2024-02-04,Recovered
+859,320,Emergency,2024-02-27,2024-03-06,Recovered
+860,320,Cardiology,2024-02-25,2024-03-04,Recovered
+861,321,ICU,2024-02-18,2024-02-28,ICU
+862,321,Neurology,2024-03-23,2024-04-01,Recovered
+863,321,Neurology,2024-05-04,2024-05-14,Recovered
+864,321,Neurology,2024-06-02,2024-06-06,Recovered
+865,322,Emergency,2024-02-09,2024-02-18,Recovered
+866,323,Neurology,2024-01-04,2024-01-12,ICU
+867,323,Neurology,2024-01-21,2024-01-24,Recovered
+868,323,Neurology,2024-02-09,2024-02-14,Readmitted
+869,323,ICU,2024-03-19,2024-03-21,Recovered
+870,324,Emergency,2024-01-31,2024-02-06,Recovered
+871,324,ICU,2024-02-27,2024-02-29,Recovered
+872,324,General Medicine,2024-02-20,2024-02-27,Recovered
+873,324,Emergency,2024-05-24,2024-06-01,Recovered
+874,325,Pulmonology,2024-02-07,2024-02-14,Deceased
+875,326,Neurology,2024-02-03,2024-02-07,Recovered
+876,326,ICU,2024-02-20,2024-02-27,Recovered
+877,326,Emergency,2024-02-27,2024-03-06,Recovered
+878,326,Emergency,2024-03-13,2024-03-23,Recovered
+879,326,Cardiology,2024-06-06,2024-06-15,Recovered
+880,327,General Medicine,2024-02-23,2024-02-28,Recovered
+881,327,Neurology,2024-03-08,2024-03-17,Recovered
+882,327,Pulmonology,2024-04-29,2024-05-05,Recovered
+883,328,Emergency,2024-02-24,2024-02-29,Recovered
+884,328,Pulmonology,2024-03-15,2024-03-18,Recovered
+885,328,General Medicine,2024-05-08,2024-05-14,Recovered
+886,328,General Medicine,2024-03-31,2024-04-06,Recovered
+887,328,ICU,2024-04-04,2024-04-14,Recovered
+888,329,Neurology,2024-01-19,2024-01-26,Recovered
+889,329,ICU,2024-02-15,2024-02-20,Recovered
+890,329,Pulmonology,2024-02-20,2024-02-27,Recovered
+891,329,Cardiology,2024-04-15,2024-04-18,Recovered
+892,329,ICU,2024-05-02,2024-05-07,Recovered
+893,330,Cardiology,2024-02-22,2024-02-26,Recovered
+894,330,Emergency,2024-03-27,2024-03-29,Recovered
+895,330,General Medicine,2024-05-04,2024-05-12,Readmitted
+896,330,Pulmonology,2024-04-16,2024-04-25,Recovered
+897,330,Pulmonology,2024-04-10,2024-04-16,Recovered
+898,331,Emergency,2024-02-08,2024-02-13,ICU
+899,331,ICU,2024-03-09,2024-03-18,Recovered
+900,331,General Medicine,2024-04-18,2024-04-24,Recovered
+901,332,Emergency,2024-03-01,2024-03-04,Readmitted
+902,332,Emergency,2024-03-19,2024-03-23,Recovered
+903,333,General Medicine,2024-01-19,2024-01-22,Recovered
+904,333,Emergency,2024-02-20,2024-02-24,Recovered
+905,333,Pulmonology,2024-03-15,2024-03-24,Recovered
+906,334,Emergency,2024-02-08,2024-02-11,Recovered
+907,334,Cardiology,2024-03-02,2024-03-12,Readmitted
+908,334,ICU,2024-03-01,2024-03-07,ICU
+909,334,ICU,2024-03-21,2024-03-28,Recovered
+910,334,Neurology,2024-04-20,2024-04-27,Recovered
+911,335,Pulmonology,2024-02-05,2024-02-15,Recovered
+912,335,ICU,2024-02-24,2024-02-26,Recovered
+913,335,Cardiology,2024-04-11,2024-04-17,ICU
+914,335,Neurology,2024-04-08,2024-04-13,Recovered
+915,335,Neurology,2024-03-24,2024-04-01,ICU
+916,336,Neurology,2024-02-20,2024-03-01,Recovered
+917,336,ICU,2024-03-15,2024-03-20,Recovered
+918,337,General Medicine,2024-02-29,2024-03-08,ICU
+919,338,ICU,2024-01-24,2024-02-03,ICU
+920,338,Pulmonology,2024-02-19,2024-02-21,Recovered
+921,338,Cardiology,2024-02-29,2024-03-10,Recovered
+922,338,ICU,2024-02-23,2024-03-03,Recovered
+923,339,ICU,2024-01-22,2024-01-25,Recovered
+924,339,ICU,2024-02-03,2024-02-09,Readmitted
+925,340,Neurology,2024-02-16,2024-02-20,Recovered
+926,340,Neurology,2024-03-12,2024-03-14,Recovered
+927,340,Neurology,2024-05-02,2024-05-12,ICU
+928,340,ICU,2024-04-13,2024-04-15,Recovered
+929,340,Emergency,2024-06-03,2024-06-07,Recovered
+930,341,General Medicine,2024-01-25,2024-01-31,Recovered
+931,341,Emergency,2024-02-19,2024-02-22,Recovered
+932,342,General Medicine,2024-02-15,2024-02-25,ICU
+933,342,General Medicine,2024-03-18,2024-03-25,ICU
+934,342,Cardiology,2024-03-30,2024-04-09,Recovered
+935,343,Pulmonology,2024-01-06,2024-01-09,Recovered
+936,343,Emergency,2024-01-16,2024-01-26,Recovered
+937,343,Emergency,2024-03-18,2024-03-23,Recovered
+938,343,Pulmonology,2024-02-11,2024-02-21,Readmitted
+939,343,Pulmonology,2024-05-25,2024-05-27,Deceased
+940,344,Pulmonology,2024-01-11,2024-01-19,Recovered
+941,344,Cardiology,2024-01-22,2024-01-26,ICU
+942,345,Pulmonology,2024-01-07,2024-01-15,Recovered
+943,345,Emergency,2024-01-30,2024-02-04,Recovered
+944,345,Cardiology,2024-03-27,2024-04-06,ICU
+945,346,ICU,2024-02-19,2024-02-27,Recovered
+946,346,ICU,2024-03-08,2024-03-11,Recovered
+947,346,Emergency,2024-04-11,2024-04-16,Recovered
+948,347,Cardiology,2024-01-10,2024-01-20,Recovered
+949,348,General Medicine,2024-02-05,2024-02-13,ICU
+950,349,ICU,2024-01-16,2024-01-19,Recovered
+951,349,Cardiology,2024-02-14,2024-02-16,Recovered
+952,349,Pulmonology,2024-02-07,2024-02-14,Recovered
+953,349,Cardiology,2024-03-25,2024-04-02,Recovered
+954,349,Neurology,2024-05-15,2024-05-21,Recovered
+955,350,General Medicine,2024-03-01,2024-03-10,Recovered
+956,350,Emergency,2024-04-04,2024-04-08,Recovered
+957,350,Cardiology,2024-03-31,2024-04-03,Recovered
+958,351,Cardiology,2024-02-25,2024-02-28,Readmitted
+959,351,Neurology,2024-03-16,2024-03-20,Recovered
+960,351,Emergency,2024-03-16,2024-03-21,Recovered
+961,351,ICU,2024-04-07,2024-04-17,ICU
+962,352,Neurology,2024-01-05,2024-01-12,Readmitted
+963,352,Cardiology,2024-01-22,2024-01-27,ICU
+964,352,Cardiology,2024-02-02,2024-02-04,Readmitted
+965,353,General Medicine,2024-01-21,2024-01-30,Recovered
+966,354,General Medicine,2024-01-13,2024-01-23,Recovered
+967,354,General Medicine,2024-01-25,2024-01-27,Recovered
+968,354,Emergency,2024-03-13,2024-03-19,Recovered
+969,355,Neurology,2024-02-06,2024-02-08,Recovered
+970,355,Neurology,2024-02-26,2024-03-05,ICU
+971,355,Pulmonology,2024-03-27,2024-04-02,Recovered
+972,355,Pulmonology,2024-04-21,2024-04-30,Recovered
+973,355,Cardiology,2024-05-08,2024-05-15,Recovered
+974,356,Cardiology,2024-02-05,2024-02-12,ICU
+975,357,Pulmonology,2024-02-06,2024-02-12,Recovered
+976,357,Emergency,2024-03-12,2024-03-19,Recovered
+977,357,Neurology,2024-03-19,2024-03-24,Recovered
+978,358,Cardiology,2024-01-11,2024-01-20,Recovered
+979,358,Emergency,2024-02-10,2024-02-17,Readmitted
+980,358,Emergency,2024-03-11,2024-03-13,Recovered
+981,358,Neurology,2024-02-16,2024-02-23,Readmitted
+982,358,Neurology,2024-04-12,2024-04-14,Recovered
+983,359,General Medicine,2024-01-24,2024-01-26,Readmitted
+984,359,General Medicine,2024-02-17,2024-02-21,Recovered
+985,359,Pulmonology,2024-03-16,2024-03-20,Recovered
+986,359,Pulmonology,2024-03-06,2024-03-09,Recovered
+987,360,General Medicine,2024-02-18,2024-02-26,Recovered
+988,360,Neurology,2024-03-24,2024-03-29,Recovered
+989,360,Pulmonology,2024-04-22,2024-04-25,ICU
+990,360,Pulmonology,2024-06-11,2024-06-13,Recovered
+991,360,Pulmonology,2024-04-06,2024-04-11,ICU
+992,361,ICU,2024-02-09,2024-02-16,Recovered
+993,361,Emergency,2024-02-24,2024-03-01,Recovered
+994,361,Emergency,2024-04-23,2024-05-03,Deceased
+995,362,General Medicine,2024-02-12,2024-02-18,Recovered
+996,363,Neurology,2024-02-15,2024-02-23,Recovered
+997,363,Neurology,2024-03-23,2024-04-02,ICU
+998,364,Pulmonology,2024-01-21,2024-01-26,Recovered
+999,365,Cardiology,2024-02-25,2024-03-03,Recovered
+1000,365,Emergency,2024-03-18,2024-03-20,Recovered
+1001,365,General Medicine,2024-05-15,2024-05-18,Recovered
+1002,365,Pulmonology,2024-04-10,2024-04-17,Recovered
+1003,366,General Medicine,2024-01-05,2024-01-10,ICU
+1004,366,Pulmonology,2024-02-02,2024-02-04,Recovered
+1005,367,Emergency,2024-01-24,2024-01-29,Recovered
+1006,367,Pulmonology,2024-02-26,2024-03-01,ICU
+1007,367,Pulmonology,2024-03-20,2024-03-24,ICU
+1008,367,General Medicine,2024-04-02,2024-04-04,Recovered
+1009,367,Cardiology,2024-06-12,2024-06-22,Recovered
+1010,368,Neurology,2024-02-03,2024-02-05,Recovered
+1011,368,Cardiology,2024-02-19,2024-02-26,Recovered
+1012,368,Cardiology,2024-04-11,2024-04-18,ICU
+1013,368,Neurology,2024-04-06,2024-04-13,ICU
+1014,368,Cardiology,2024-05-21,2024-05-31,Recovered
+1015,369,General Medicine,2024-01-30,2024-02-07,Recovered
+1016,369,General Medicine,2024-02-22,2024-02-25,Recovered
+1017,369,Emergency,2024-03-14,2024-03-16,Recovered
+1018,369,Cardiology,2024-04-17,2024-04-25,ICU
+1019,369,Neurology,2024-05-05,2024-05-09,Recovered
+1020,370,Emergency,2024-01-15,2024-01-24,Recovered
+1021,370,Cardiology,2024-02-11,2024-02-20,Recovered
+1022,370,General Medicine,2024-02-06,2024-02-08,Recovered
+1023,371,Neurology,2024-01-31,2024-02-10,Recovered
+1024,371,General Medicine,2024-03-01,2024-03-05,Recovered
+1025,371,ICU,2024-03-31,2024-04-06,ICU
+1026,371,Emergency,2024-05-06,2024-05-16,ICU
+1027,371,Cardiology,2024-06-19,2024-06-28,Recovered
+1028,372,Cardiology,2024-01-25,2024-01-29,Recovered
+1029,372,General Medicine,2024-02-21,2024-02-24,ICU
+1030,372,General Medicine,2024-02-18,2024-02-26,Readmitted
+1031,373,ICU,2024-01-22,2024-01-24,ICU
+1032,373,Emergency,2024-02-04,2024-02-08,ICU
+1033,373,ICU,2024-02-27,2024-03-08,Recovered
+1034,374,ICU,2024-01-19,2024-01-26,Recovered
+1035,374,Cardiology,2024-02-16,2024-02-25,Recovered
+1036,374,Cardiology,2024-02-16,2024-02-20,Recovered
+1037,374,General Medicine,2024-04-27,2024-05-04,Recovered
+1038,374,Cardiology,2024-05-14,2024-05-16,Recovered
+1039,375,ICU,2024-02-07,2024-02-14,Recovered
+1040,375,Emergency,2024-03-17,2024-03-21,Recovered
+1041,376,Pulmonology,2024-01-17,2024-01-23,Recovered
+1042,376,Neurology,2024-02-13,2024-02-19,Recovered
+1043,377,General Medicine,2024-01-05,2024-01-13,Recovered
+1044,378,General Medicine,2024-02-22,2024-02-28,Recovered
+1045,379,Cardiology,2024-02-24,2024-02-29,Deceased
+1046,380,Emergency,2024-01-13,2024-01-15,Recovered
+1047,380,Emergency,2024-01-29,2024-02-01,ICU
+1048,380,Emergency,2024-02-18,2024-02-26,ICU
+1049,381,General Medicine,2024-01-30,2024-02-02,Recovered
+1050,381,Pulmonology,2024-02-15,2024-02-18,Recovered
+1051,382,Neurology,2024-01-12,2024-01-18,Recovered
+1052,382,Cardiology,2024-02-13,2024-02-21,Recovered
+1053,382,Pulmonology,2024-02-07,2024-02-09,Recovered
+1054,382,Emergency,2024-02-11,2024-02-16,Recovered
+1055,382,General Medicine,2024-04-05,2024-04-13,Recovered
+1056,383,ICU,2024-01-29,2024-02-07,ICU
+1057,383,Neurology,2024-03-06,2024-03-16,Recovered
+1058,383,Neurology,2024-03-19,2024-03-21,Recovered
+1059,384,Neurology,2024-02-26,2024-02-28,Recovered
+1060,384,Pulmonology,2024-03-26,2024-03-28,Recovered
+1061,385,Cardiology,2024-02-25,2024-03-01,Recovered
+1062,385,Neurology,2024-04-01,2024-04-11,Recovered
+1063,385,Neurology,2024-03-26,2024-04-03,Recovered
+1064,385,ICU,2024-05-16,2024-05-22,Recovered
+1065,386,Neurology,2024-02-29,2024-03-06,Recovered
+1066,386,General Medicine,2024-03-16,2024-03-24,Recovered
+1067,386,Emergency,2024-05-19,2024-05-29,ICU
+1068,387,General Medicine,2024-01-02,2024-01-07,ICU
+1069,387,ICU,2024-01-30,2024-02-01,Readmitted
+1070,387,Emergency,2024-03-10,2024-03-13,Recovered
+1071,388,Emergency,2024-01-25,2024-02-02,Readmitted
+1072,388,Pulmonology,2024-02-04,2024-02-12,Recovered
+1073,389,General Medicine,2024-02-05,2024-02-07,Recovered
+1074,389,Pulmonology,2024-02-24,2024-02-28,ICU
+1075,389,Emergency,2024-03-16,2024-03-25,Recovered
+1076,389,ICU,2024-04-11,2024-04-14,Recovered
+1077,389,Emergency,2024-06-16,2024-06-21,Recovered
+1078,390,ICU,2024-02-08,2024-02-14,Recovered
+1079,390,Pulmonology,2024-03-05,2024-03-12,Recovered
+1080,390,Pulmonology,2024-03-11,2024-03-20,Recovered
+1081,390,Emergency,2024-05-14,2024-05-23,Recovered
+1082,390,Pulmonology,2024-04-16,2024-04-25,Recovered
+1083,391,Emergency,2024-02-08,2024-02-16,Recovered
+1084,391,ICU,2024-03-03,2024-03-13,Recovered
+1085,391,Emergency,2024-03-17,2024-03-23,Recovered
+1086,392,Pulmonology,2024-02-11,2024-02-18,Recovered
+1087,393,Neurology,2024-01-06,2024-01-14,Recovered
+1088,393,Neurology,2024-02-10,2024-02-18,Recovered
+1089,393,Pulmonology,2024-03-26,2024-03-31,Recovered
+1090,393,ICU,2024-04-05,2024-04-13,Recovered
+1091,393,Pulmonology,2024-04-23,2024-05-03,Recovered
+1092,394,ICU,2024-01-28,2024-02-05,Recovered
+1093,394,Neurology,2024-02-23,2024-02-27,Recovered
+1094,395,General Medicine,2024-02-05,2024-02-07,Recovered
+1095,395,Emergency,2024-03-07,2024-03-09,Recovered
+1096,395,Emergency,2024-03-08,2024-03-11,Recovered
+1097,396,Pulmonology,2024-01-08,2024-01-11,Recovered
+1098,396,Cardiology,2024-01-27,2024-01-29,ICU
+1099,396,Neurology,2024-03-28,2024-04-03,ICU
+1100,396,ICU,2024-02-19,2024-02-28,Recovered
+1101,396,General Medicine,2024-04-01,2024-04-08,Recovered
+1102,397,Cardiology,2024-01-09,2024-01-19,Recovered
+1103,397,Cardiology,2024-02-08,2024-02-12,Recovered
+1104,398,General Medicine,2024-02-09,2024-02-11,Recovered
+1105,399,ICU,2024-02-08,2024-02-16,Readmitted
+1106,400,ICU,2024-02-02,2024-02-05,Recovered
+1107,401,Cardiology,2024-02-25,2024-03-03,Readmitted
+1108,401,Emergency,2024-03-27,2024-03-30,Recovered
+1109,401,ICU,2024-05-05,2024-05-14,Recovered
+1110,401,Pulmonology,2024-06-03,2024-06-08,ICU
+1111,402,Emergency,2024-01-18,2024-01-28,Recovered
+1112,402,Emergency,2024-02-04,2024-02-13,Recovered
+1113,402,ICU,2024-03-16,2024-03-20,Recovered
+1114,403,General Medicine,2024-01-16,2024-01-23,Recovered
+1115,403,Emergency,2024-02-06,2024-02-12,Recovered
+1116,403,ICU,2024-02-05,2024-02-12,Recovered
+1117,403,Pulmonology,2024-02-18,2024-02-24,Recovered
+1118,404,Cardiology,2024-01-20,2024-01-23,Recovered
+1119,404,Emergency,2024-02-13,2024-02-23,Recovered
+1120,404,Emergency,2024-03-24,2024-03-26,Recovered
+1121,404,Emergency,2024-04-22,2024-04-24,Recovered
+1122,405,Cardiology,2024-03-01,2024-03-09,Recovered
+1123,406,ICU,2024-01-12,2024-01-21,ICU
+1124,406,Pulmonology,2024-01-28,2024-02-07,Recovered
+1125,407,Cardiology,2024-02-29,2024-03-08,Recovered
+1126,407,ICU,2024-03-27,2024-03-31,Recovered
+1127,407,ICU,2024-05-05,2024-05-09,ICU
+1128,407,General Medicine,2024-05-02,2024-05-08,ICU
+1129,407,Emergency,2024-06-20,2024-06-23,Recovered
+1130,408,Neurology,2024-02-20,2024-02-26,Recovered
+1131,408,Pulmonology,2024-03-16,2024-03-19,Recovered
+1132,409,Cardiology,2024-02-08,2024-02-14,Recovered
+1133,409,General Medicine,2024-03-17,2024-03-21,Recovered
+1134,410,Pulmonology,2024-02-22,2024-03-01,Recovered
+1135,410,Cardiology,2024-03-13,2024-03-21,Recovered
+1136,410,Pulmonology,2024-04-02,2024-04-06,ICU
+1137,411,General Medicine,2024-02-22,2024-02-29,Recovered
+1138,411,Neurology,2024-03-09,2024-03-18,Recovered
+1139,412,Emergency,2024-02-23,2024-02-27,Recovered
+1140,412,ICU,2024-04-01,2024-04-04,Recovered
+1141,412,Emergency,2024-04-21,2024-04-25,Recovered
+1142,413,Neurology,2024-01-14,2024-01-24,Recovered
+1143,413,Emergency,2024-02-20,2024-03-01,Recovered
+1144,413,Neurology,2024-03-04,2024-03-09,Recovered
+1145,414,ICU,2024-02-12,2024-02-18,Recovered
+1146,415,Pulmonology,2024-01-31,2024-02-04,Recovered
+1147,415,Pulmonology,2024-03-10,2024-03-16,Recovered
+1148,415,Emergency,2024-04-10,2024-04-18,Recovered
+1149,415,Emergency,2024-03-31,2024-04-07,Recovered
+1150,416,Cardiology,2024-01-29,2024-02-02,Recovered
+1151,416,General Medicine,2024-02-27,2024-03-01,Recovered
+1152,416,Emergency,2024-04-06,2024-04-13,Recovered
+1153,416,Neurology,2024-03-02,2024-03-10,Recovered
+1154,416,General Medicine,2024-05-12,2024-05-22,Recovered
+1155,417,General Medicine,2024-02-20,2024-02-27,Recovered
+1156,417,Emergency,2024-03-04,2024-03-06,Recovered
+1157,418,Emergency,2024-02-17,2024-02-19,Recovered
+1158,418,Pulmonology,2024-03-26,2024-03-30,ICU
+1159,418,Pulmonology,2024-03-12,2024-03-18,Recovered
+1160,418,General Medicine,2024-04-23,2024-05-02,Recovered
+1161,419,Pulmonology,2024-02-10,2024-02-12,ICU
+1162,419,General Medicine,2024-03-17,2024-03-21,Recovered
+1163,419,Emergency,2024-03-25,2024-03-28,Recovered
+1164,419,Neurology,2024-04-13,2024-04-19,Recovered
+1165,419,Pulmonology,2024-06-21,2024-06-25,Recovered
+1166,420,ICU,2024-02-15,2024-02-21,ICU
+1167,420,ICU,2024-03-08,2024-03-15,Readmitted
+1168,420,Emergency,2024-03-12,2024-03-20,Recovered
+1169,421,Cardiology,2024-02-12,2024-02-21,Deceased
+1170,422,Emergency,2024-01-17,2024-01-20,Recovered
+1171,423,Cardiology,2024-02-07,2024-02-09,Deceased
+1172,424,Emergency,2024-01-15,2024-01-20,Recovered
+1173,424,Pulmonology,2024-02-07,2024-02-11,ICU
+1174,425,Cardiology,2024-01-02,2024-01-07,Recovered
+1175,425,Emergency,2024-01-30,2024-02-01,ICU
+1176,425,ICU,2024-03-20,2024-03-27,Recovered
+1177,425,Cardiology,2024-02-22,2024-02-28,Recovered
+1178,425,Emergency,2024-03-30,2024-04-01,Recovered
+1179,426,Pulmonology,2024-01-28,2024-01-31,Recovered
+1180,426,General Medicine,2024-03-03,2024-03-11,Recovered
+1181,426,Neurology,2024-03-08,2024-03-14,Recovered
+1182,426,Cardiology,2024-03-31,2024-04-10,ICU
+1183,427,Emergency,2024-01-28,2024-02-01,Recovered
+1184,427,Emergency,2024-03-08,2024-03-17,Recovered
+1185,428,ICU,2024-01-20,2024-01-25,ICU
+1186,428,Pulmonology,2024-02-07,2024-02-13,ICU
+1187,428,Cardiology,2024-04-09,2024-04-14,Recovered
+1188,428,Emergency,2024-05-19,2024-05-29,Readmitted
+1189,428,General Medicine,2024-05-15,2024-05-24,Recovered
+1190,429,Emergency,2024-02-28,2024-03-09,ICU
+1191,429,Emergency,2024-03-30,2024-04-04,Recovered
+1192,429,ICU,2024-04-30,2024-05-03,Recovered
+1193,430,Emergency,2024-02-03,2024-02-09,Recovered
+1194,430,Cardiology,2024-02-14,2024-02-24,Recovered
+1195,430,Cardiology,2024-04-09,2024-04-19,Recovered
+1196,430,Pulmonology,2024-05-18,2024-05-22,Recovered
+1197,430,General Medicine,2024-04-23,2024-04-26,Recovered
+1198,431,ICU,2024-02-10,2024-02-17,Recovered
+1199,431,General Medicine,2024-03-13,2024-03-17,Recovered
+1200,431,Pulmonology,2024-04-28,2024-05-01,Recovered
+1201,431,General Medicine,2024-06-09,2024-06-15,Recovered
+1202,432,General Medicine,2024-01-13,2024-01-21,ICU
+1203,432,Emergency,2024-02-10,2024-02-17,Recovered
+1204,432,Cardiology,2024-03-17,2024-03-24,Recovered
+1205,432,ICU,2024-02-27,2024-03-05,Recovered
+1206,432,Cardiology,2024-05-12,2024-05-17,Recovered
+1207,433,Emergency,2024-01-04,2024-01-14,Recovered
+1208,433,ICU,2024-02-02,2024-02-05,Recovered
+1209,433,Pulmonology,2024-03-02,2024-03-05,Recovered
+1210,433,Neurology,2024-03-25,2024-04-01,Recovered
+1211,434,ICU,2024-02-15,2024-02-18,Recovered
+1212,434,ICU,2024-03-15,2024-03-18,Recovered
+1213,434,Neurology,2024-04-11,2024-04-21,Readmitted
+1214,435,Emergency,2024-01-21,2024-01-23,Recovered
+1215,435,ICU,2024-02-16,2024-02-21,ICU
+1216,435,Neurology,2024-02-20,2024-02-29,Recovered
+1217,435,Neurology,2024-04-29,2024-05-08,ICU
+1218,435,ICU,2024-04-02,2024-04-08,Recovered
+1219,436,Emergency,2024-02-27,2024-03-01,ICU
+1220,436,Cardiology,2024-04-01,2024-04-04,Recovered
+1221,437,Neurology,2024-02-12,2024-02-16,Recovered
+1222,437,Neurology,2024-03-05,2024-03-15,Recovered
+1223,437,ICU,2024-04-16,2024-04-21,Recovered
+1224,437,Neurology,2024-03-25,2024-04-02,Recovered
+1225,437,Pulmonology,2024-06-11,2024-06-16,Recovered
+1226,438,Pulmonology,2024-02-27,2024-03-07,Recovered
+1227,439,Pulmonology,2024-02-21,2024-02-27,ICU
+1228,439,Emergency,2024-03-15,2024-03-20,Recovered
+1229,439,Emergency,2024-04-17,2024-04-22,ICU
+1230,439,Emergency,2024-04-12,2024-04-21,Recovered
+1231,439,Neurology,2024-04-25,2024-05-01,Recovered
+1232,440,ICU,2024-01-27,2024-02-06,Recovered
+1233,441,ICU,2024-02-11,2024-02-21,Recovered
+1234,442,Emergency,2024-01-30,2024-02-05,Recovered
+1235,442,General Medicine,2024-02-20,2024-02-25,Recovered
+1236,443,Cardiology,2024-02-15,2024-02-19,Recovered
+1237,443,Pulmonology,2024-03-22,2024-03-30,ICU
+1238,443,General Medicine,2024-04-15,2024-04-19,Recovered
+1239,443,ICU,2024-06-02,2024-06-10,Recovered
+1240,444,Neurology,2024-02-24,2024-03-05,Recovered
+1241,444,Emergency,2024-04-04,2024-04-14,Recovered
+1242,445,Emergency,2024-01-11,2024-01-13,Recovered
+1243,445,General Medicine,2024-01-28,2024-01-31,Readmitted
+1244,445,Neurology,2024-03-19,2024-03-24,Recovered
+1245,445,General Medicine,2024-02-19,2024-02-27,Recovered
+1246,446,Pulmonology,2024-01-16,2024-01-20,Recovered
+1247,446,ICU,2024-02-24,2024-03-01,Recovered
+1248,446,ICU,2024-04-03,2024-04-08,Recovered
+1249,446,Neurology,2024-05-12,2024-05-16,ICU
+1250,446,Neurology,2024-05-19,2024-05-29,Recovered
+1251,447,Neurology,2024-03-01,2024-03-05,Recovered
+1252,448,ICU,2024-01-29,2024-02-06,Recovered
+1253,448,Cardiology,2024-03-05,2024-03-10,Recovered
+1254,448,ICU,2024-03-17,2024-03-21,Recovered
+1255,448,Neurology,2024-04-25,2024-04-29,Recovered
+1256,449,General Medicine,2024-01-15,2024-01-24,Recovered
+1257,449,Pulmonology,2024-02-18,2024-02-28,ICU
+1258,449,Pulmonology,2024-02-18,2024-02-22,ICU
+1259,449,Emergency,2024-03-15,2024-03-17,Recovered
+1260,450,Emergency,2024-01-20,2024-01-22,Recovered
+1261,450,Emergency,2024-01-30,2024-02-06,Recovered
+1262,451,ICU,2024-01-04,2024-01-13,Deceased
+1263,452,Pulmonology,2024-01-24,2024-02-02,Recovered
+1264,452,Cardiology,2024-02-25,2024-02-27,ICU
+1265,452,Cardiology,2024-02-23,2024-02-28,Readmitted
+1266,452,General Medicine,2024-05-11,2024-05-13,Recovered
+1267,452,ICU,2024-04-05,2024-04-15,Recovered
+1268,453,Emergency,2024-01-14,2024-01-19,Readmitted
+1269,454,Emergency,2024-01-28,2024-02-05,Recovered
+1270,455,Emergency,2024-02-28,2024-03-01,Recovered
+1271,455,General Medicine,2024-03-19,2024-03-28,Recovered
+1272,456,Cardiology,2024-01-25,2024-02-02,Recovered
+1273,457,Pulmonology,2024-02-19,2024-02-23,ICU
+1274,457,ICU,2024-03-30,2024-04-03,Recovered
+1275,458,Emergency,2024-01-18,2024-01-20,Recovered
+1276,459,Neurology,2024-02-05,2024-02-14,Recovered
+1277,460,Cardiology,2024-01-22,2024-01-24,Recovered
+1278,460,Neurology,2024-02-29,2024-03-07,Recovered
+1279,460,Emergency,2024-02-21,2024-03-02,Readmitted
+1280,461,Neurology,2024-01-21,2024-01-27,Recovered
+1281,461,ICU,2024-02-08,2024-02-17,Recovered
+1282,461,Neurology,2024-04-06,2024-04-10,ICU
+1283,462,Pulmonology,2024-01-09,2024-01-16,Recovered
+1284,462,Cardiology,2024-01-21,2024-01-27,Deceased
+1285,463,ICU,2024-01-19,2024-01-24,Recovered
+1286,463,Pulmonology,2024-02-07,2024-02-09,Recovered
+1287,464,Neurology,2024-02-21,2024-03-01,Recovered
+1288,464,ICU,2024-03-18,2024-03-23,Recovered
+1289,464,General Medicine,2024-03-30,2024-04-05,Recovered
+1290,464,Pulmonology,2024-04-03,2024-04-12,Recovered
+1291,464,Pulmonology,2024-05-03,2024-05-12,Recovered
+1292,465,Cardiology,2024-02-13,2024-02-22,Recovered
+1293,465,Pulmonology,2024-03-10,2024-03-15,Readmitted
+1294,465,Pulmonology,2024-04-03,2024-04-09,ICU
+1295,466,General Medicine,2024-01-15,2024-01-17,Recovered
+1296,466,Pulmonology,2024-02-05,2024-02-10,Recovered
+1297,466,Pulmonology,2024-03-25,2024-03-27,Recovered
+1298,466,ICU,2024-05-08,2024-05-14,Recovered
+1299,467,Cardiology,2024-02-19,2024-02-25,Recovered
+1300,468,Pulmonology,2024-01-28,2024-02-05,Recovered
+1301,468,ICU,2024-02-14,2024-02-20,Recovered
+1302,468,Pulmonology,2024-03-12,2024-03-21,Recovered
+1303,468,General Medicine,2024-03-19,2024-03-22,ICU
+1304,469,Neurology,2024-02-27,2024-02-29,Deceased
+1305,470,ICU,2024-02-20,2024-03-01,Recovered
+1306,470,Cardiology,2024-03-02,2024-03-09,ICU
+1307,470,General Medicine,2024-03-17,2024-03-20,Recovered
+1308,470,ICU,2024-03-21,2024-03-30,Recovered
+1309,471,Pulmonology,2024-02-28,2024-03-07,Recovered
+1310,471,Pulmonology,2024-04-07,2024-04-11,Readmitted
+1311,471,General Medicine,2024-04-12,2024-04-22,Recovered
+1312,471,Cardiology,2024-03-29,2024-04-01,Recovered
+1313,471,Pulmonology,2024-07-21,2024-07-28,Recovered
+1314,472,ICU,2024-02-14,2024-02-23,Recovered
+1315,473,General Medicine,2024-01-18,2024-01-22,Recovered
+1316,473,Emergency,2024-02-09,2024-02-19,Recovered
+1317,473,Neurology,2024-02-15,2024-02-21,Recovered
+1318,473,ICU,2024-03-30,2024-04-06,ICU
+1319,473,Cardiology,2024-04-23,2024-05-02,Recovered
+1320,474,Neurology,2024-02-14,2024-02-16,Recovered
+1321,474,Emergency,2024-02-28,2024-03-03,Recovered
+1322,475,General Medicine,2024-02-08,2024-02-16,Recovered
+1323,475,General Medicine,2024-03-05,2024-03-14,Recovered
+1324,475,Cardiology,2024-03-23,2024-03-25,Recovered
+1325,475,General Medicine,2024-05-23,2024-05-26,Recovered
+1326,475,General Medicine,2024-07-05,2024-07-08,ICU
+1327,476,Cardiology,2024-02-27,2024-03-04,Recovered
+1328,476,General Medicine,2024-04-03,2024-04-13,Recovered
+1329,476,Emergency,2024-04-21,2024-04-29,Recovered
+1330,477,Emergency,2024-01-18,2024-01-23,Recovered
+1331,477,Cardiology,2024-02-24,2024-02-27,Readmitted
+1332,477,Pulmonology,2024-02-29,2024-03-05,Recovered
+1333,477,ICU,2024-03-18,2024-03-25,Recovered
+1334,477,General Medicine,2024-06-14,2024-06-16,Recovered
+1335,478,ICU,2024-02-29,2024-03-10,Readmitted
+1336,478,Neurology,2024-04-02,2024-04-12,ICU
+1337,478,Emergency,2024-04-19,2024-04-22,Recovered
+1338,478,ICU,2024-04-29,2024-05-01,Recovered
+1339,479,Pulmonology,2024-02-13,2024-02-16,Recovered
+1340,479,Emergency,2024-03-12,2024-03-19,Recovered
+1341,479,Neurology,2024-03-24,2024-03-26,Recovered
+1342,479,General Medicine,2024-05-04,2024-05-14,Recovered
+1343,480,Neurology,2024-02-29,2024-03-05,Recovered
+1344,480,ICU,2024-04-07,2024-04-14,Recovered
+1345,480,Pulmonology,2024-05-19,2024-05-29,Recovered
+1346,480,Cardiology,2024-06-04,2024-06-12,ICU
+1347,480,Pulmonology,2024-07-26,2024-08-02,Recovered
+1348,481,Cardiology,2024-02-16,2024-02-19,Readmitted
+1349,481,Neurology,2024-03-13,2024-03-16,Recovered
+1350,481,Emergency,2024-04-26,2024-05-06,Recovered
+1351,481,Cardiology,2024-05-01,2024-05-09,Recovered
+1352,482,Pulmonology,2024-02-24,2024-03-01,ICU
+1353,482,ICU,2024-03-07,2024-03-17,Deceased
+1354,483,Emergency,2024-01-30,2024-02-08,Recovered
+1355,483,ICU,2024-02-26,2024-03-02,Recovered
+1356,484,Pulmonology,2024-01-18,2024-01-26,Recovered
+1357,484,General Medicine,2024-02-07,2024-02-15,Recovered
+1358,484,Pulmonology,2024-02-27,2024-03-05,ICU
+1359,484,General Medicine,2024-03-21,2024-03-24,Recovered
+1360,484,Emergency,2024-05-05,2024-05-14,ICU
+1361,485,ICU,2024-03-01,2024-03-09,Recovered
+1362,485,ICU,2024-03-29,2024-04-06,Recovered
+1363,485,General Medicine,2024-04-06,2024-04-15,Recovered
+1364,485,Emergency,2024-06-05,2024-06-12,Recovered
+1365,485,ICU,2024-04-22,2024-04-30,Recovered
+1366,486,Cardiology,2024-02-22,2024-02-28,Recovered
+1367,486,Pulmonology,2024-03-04,2024-03-12,Recovered
+1368,486,Cardiology,2024-04-08,2024-04-10,Recovered
+1369,486,Cardiology,2024-04-01,2024-04-08,Recovered
+1370,486,General Medicine,2024-06-13,2024-06-22,Recovered
+1371,487,ICU,2024-03-01,2024-03-05,Recovered
+1372,487,Cardiology,2024-03-11,2024-03-16,Recovered
+1373,488,General Medicine,2024-01-06,2024-01-14,Recovered
+1374,489,Neurology,2024-02-29,2024-03-10,Recovered
+1375,490,ICU,2024-02-26,2024-03-01,Recovered
+1376,490,Cardiology,2024-03-07,2024-03-17,Recovered
+1377,490,Cardiology,2024-04-06,2024-04-09,Recovered
+1378,490,Neurology,2024-05-14,2024-05-22,Recovered
+1379,490,Pulmonology,2024-07-15,2024-07-23,Recovered
+1380,491,Emergency,2024-01-07,2024-01-10,Recovered
+1381,491,General Medicine,2024-01-31,2024-02-03,Readmitted
+1382,491,General Medicine,2024-01-31,2024-02-03,Recovered
+1383,492,ICU,2024-02-11,2024-02-14,Recovered
+1384,492,Emergency,2024-03-05,2024-03-09,Recovered
+1385,493,General Medicine,2024-02-06,2024-02-13,Recovered
+1386,494,Cardiology,2024-02-05,2024-02-12,Recovered
+1387,494,General Medicine,2024-03-03,2024-03-08,Recovered
+1388,495,Emergency,2024-01-01,2024-01-10,Recovered
+1389,495,General Medicine,2024-01-27,2024-02-05,Recovered
+1390,496,General Medicine,2024-02-18,2024-02-25,Recovered
+1391,496,Neurology,2024-03-16,2024-03-18,Recovered
+1392,496,General Medicine,2024-04-30,2024-05-10,Recovered
+1393,496,ICU,2024-04-09,2024-04-16,Recovered
+1394,496,ICU,2024-06-21,2024-06-25,Recovered
+1395,497,Cardiology,2024-02-07,2024-02-13,Recovered
+1396,497,General Medicine,2024-02-17,2024-02-25,Recovered
+1397,497,Emergency,2024-04-17,2024-04-25,Recovered
+1398,497,General Medicine,2024-03-08,2024-03-10,Recovered
+1399,498,Emergency,2024-02-16,2024-02-26,Recovered
+1400,499,ICU,2024-02-09,2024-02-14,Recovered
+1401,499,ICU,2024-03-13,2024-03-20,Recovered
+1402,499,Cardiology,2024-04-01,2024-04-05,Recovered
+1403,499,General Medicine,2024-03-25,2024-03-31,Recovered
+1404,499,Cardiology,2024-06-04,2024-06-10,Recovered
+1405,500,Cardiology,2024-02-15,2024-02-18,Recovered
+1406,500,Pulmonology,2024-03-22,2024-03-27,ICU
+1407,500,Cardiology,2024-04-09,2024-04-12,Recovered
+1408,501,Cardiology,2024-01-22,2024-01-31,Readmitted
+1409,501,Cardiology,2024-02-12,2024-02-20,ICU
+1410,501,ICU,2024-04-11,2024-04-21,ICU
+1411,502,ICU,2024-02-14,2024-02-17,Recovered
+1412,502,ICU,2024-03-07,2024-03-16,Deceased
+1413,503,Cardiology,2024-01-05,2024-01-10,Recovered
+1414,503,Neurology,2024-01-30,2024-02-09,ICU
+1415,504,Emergency,2024-01-21,2024-01-27,Recovered
+1416,504,Cardiology,2024-02-13,2024-02-18,Recovered
+1417,504,ICU,2024-03-07,2024-03-11,Recovered
+1418,504,Cardiology,2024-02-26,2024-02-28,ICU
+1419,505,Pulmonology,2024-02-25,2024-02-29,Recovered
+1420,505,Pulmonology,2024-03-24,2024-04-02,ICU
+1421,506,Cardiology,2024-01-21,2024-01-24,ICU
+1422,506,Emergency,2024-02-08,2024-02-10,ICU
+1423,506,ICU,2024-03-09,2024-03-12,Recovered
+1424,507,General Medicine,2024-02-05,2024-02-11,Recovered
+1425,507,ICU,2024-03-02,2024-03-11,Recovered
+1426,507,Neurology,2024-04-17,2024-04-21,Recovered
+1427,507,Cardiology,2024-05-20,2024-05-26,Recovered
+1428,507,Emergency,2024-04-29,2024-05-08,Deceased
+1429,508,Pulmonology,2024-01-26,2024-02-01,Recovered
+1430,509,Emergency,2024-01-26,2024-01-31,Recovered
+1431,510,Emergency,2024-01-21,2024-01-31,Recovered
+1432,510,Emergency,2024-02-15,2024-02-22,Recovered
+1433,510,General Medicine,2024-02-26,2024-03-05,Recovered
+1434,511,Pulmonology,2024-01-08,2024-01-14,Recovered
+1435,511,Neurology,2024-01-28,2024-02-03,Recovered
+1436,511,General Medicine,2024-03-12,2024-03-18,Recovered
+1437,511,ICU,2024-04-07,2024-04-13,ICU
+1438,512,Neurology,2024-02-23,2024-03-03,ICU
+1439,512,Emergency,2024-03-25,2024-03-27,Recovered
+1440,513,Emergency,2024-01-01,2024-01-03,Recovered
+1441,513,General Medicine,2024-01-28,2024-02-02,Recovered
+1442,514,Emergency,2024-02-08,2024-02-17,Recovered
+1443,515,Cardiology,2024-02-21,2024-03-01,Readmitted
+1444,515,Pulmonology,2024-03-08,2024-03-14,Recovered
+1445,516,Neurology,2024-01-23,2024-01-28,Recovered
+1446,516,Neurology,2024-02-05,2024-02-14,Recovered
+1447,517,Emergency,2024-01-27,2024-01-29,Recovered
+1448,518,Pulmonology,2024-01-07,2024-01-17,Recovered
+1449,518,Pulmonology,2024-01-21,2024-01-23,Readmitted
+1450,519,Emergency,2024-01-15,2024-01-20,Recovered
+1451,519,Pulmonology,2024-02-13,2024-02-22,Recovered
+1452,520,General Medicine,2024-01-10,2024-01-18,Recovered
+1453,520,Neurology,2024-02-18,2024-02-23,Recovered
+1454,520,Pulmonology,2024-03-12,2024-03-14,Recovered
+1455,520,Neurology,2024-02-12,2024-02-22,Recovered
+1456,521,General Medicine,2024-01-27,2024-02-05,Recovered
+1457,521,Cardiology,2024-03-06,2024-03-10,Recovered
+1458,522,Neurology,2024-01-17,2024-01-27,ICU
+1459,523,ICU,2024-01-12,2024-01-21,ICU
+1460,523,General Medicine,2024-02-01,2024-02-11,Recovered
+1461,523,Emergency,2024-03-04,2024-03-12,Recovered
+1462,523,ICU,2024-05-11,2024-05-17,ICU
+1463,524,General Medicine,2024-02-25,2024-03-06,ICU
+1464,524,Pulmonology,2024-03-19,2024-03-28,Recovered
+1465,524,Emergency,2024-04-27,2024-05-03,Recovered
+1466,524,Emergency,2024-05-22,2024-05-31,Recovered
+1467,525,Pulmonology,2024-01-02,2024-01-11,Recovered
+1468,525,Pulmonology,2024-02-03,2024-02-08,ICU
+1469,525,Pulmonology,2024-02-15,2024-02-21,Recovered
+1470,525,Neurology,2024-04-28,2024-05-04,Recovered
+1471,525,Pulmonology,2024-02-11,2024-02-13,Recovered
+1472,526,General Medicine,2024-02-11,2024-02-17,Recovered
+1473,526,Neurology,2024-02-28,2024-03-08,Recovered
+1474,526,General Medicine,2024-04-13,2024-04-16,Recovered
+1475,526,ICU,2024-05-26,2024-06-03,Recovered
+1476,526,ICU,2024-04-03,2024-04-11,Recovered
+1477,527,Neurology,2024-02-12,2024-02-22,Recovered
+1478,528,Neurology,2024-01-16,2024-01-20,ICU
+1479,528,ICU,2024-02-13,2024-02-18,Recovered
+1480,528,Emergency,2024-03-14,2024-03-16,Recovered
+1481,529,Neurology,2024-02-17,2024-02-26,Recovered
+1482,529,ICU,2024-03-11,2024-03-17,Recovered
+1483,530,Pulmonology,2024-01-12,2024-01-18,Recovered
+1484,530,Neurology,2024-01-27,2024-01-30,Recovered
+1485,531,Cardiology,2024-01-06,2024-01-11,Recovered
+1486,531,ICU,2024-02-14,2024-02-23,Recovered
+1487,532,Emergency,2024-01-05,2024-01-15,Recovered
+1488,532,General Medicine,2024-02-02,2024-02-09,Recovered
+1489,533,Pulmonology,2024-02-04,2024-02-10,Recovered
+1490,533,Emergency,2024-03-08,2024-03-11,Recovered
+1491,533,Pulmonology,2024-03-25,2024-04-03,Recovered
+1492,533,Cardiology,2024-04-13,2024-04-20,Recovered
+1493,533,Pulmonology,2024-07-01,2024-07-10,Recovered
+1494,534,General Medicine,2024-01-14,2024-01-22,Recovered
+1495,534,Cardiology,2024-02-05,2024-02-08,Recovered
+1496,534,Cardiology,2024-02-03,2024-02-11,Recovered
+1497,535,General Medicine,2024-01-27,2024-02-04,Recovered
+1498,535,General Medicine,2024-02-20,2024-02-25,Recovered
+1499,536,Emergency,2024-01-30,2024-02-02,Recovered
+1500,536,ICU,2024-03-02,2024-03-04,ICU
+1501,536,Cardiology,2024-03-14,2024-03-16,Recovered
+1502,536,ICU,2024-04-02,2024-04-06,Recovered
+1503,536,Neurology,2024-05-09,2024-05-17,Recovered
+1504,537,Emergency,2024-01-13,2024-01-15,Recovered
+1505,537,General Medicine,2024-02-10,2024-02-13,ICU
+1506,538,Emergency,2024-01-12,2024-01-21,Recovered
+1507,538,Pulmonology,2024-02-13,2024-02-21,Recovered
+1508,539,ICU,2024-02-10,2024-02-19,Recovered
+1509,539,Cardiology,2024-03-21,2024-03-26,Recovered
+1510,540,Pulmonology,2024-02-25,2024-02-29,Recovered
+1511,540,Emergency,2024-03-29,2024-04-05,Recovered
+1512,540,Pulmonology,2024-04-05,2024-04-08,Recovered
+1513,540,Cardiology,2024-06-06,2024-06-16,Recovered
+1514,541,General Medicine,2024-01-22,2024-01-28,Recovered
+1515,541,ICU,2024-02-01,2024-02-03,Recovered
+1516,542,Neurology,2024-02-11,2024-02-16,Readmitted
+1517,542,Pulmonology,2024-03-05,2024-03-11,Readmitted
+1518,542,Emergency,2024-03-18,2024-03-21,Recovered
+1519,542,General Medicine,2024-05-29,2024-06-05,ICU
+1520,542,Pulmonology,2024-06-10,2024-06-17,Recovered
+1521,543,Neurology,2024-02-14,2024-02-23,Recovered
+1522,543,Emergency,2024-03-05,2024-03-14,Deceased
+1523,544,Cardiology,2024-01-14,2024-01-22,Recovered
+1524,544,Emergency,2024-01-31,2024-02-10,Recovered
+1525,544,ICU,2024-03-16,2024-03-18,Recovered
+1526,545,Pulmonology,2024-02-24,2024-03-03,Recovered
+1527,545,Pulmonology,2024-03-13,2024-03-19,Recovered
+1528,545,General Medicine,2024-04-24,2024-05-02,Recovered
+1529,545,Emergency,2024-04-03,2024-04-12,Recovered
+1530,546,Cardiology,2024-01-13,2024-01-15,Recovered
+1531,547,Emergency,2024-01-07,2024-01-16,Recovered
+1532,547,Cardiology,2024-02-14,2024-02-17,Recovered
+1533,547,Cardiology,2024-03-09,2024-03-15,Recovered
+1534,547,General Medicine,2024-04-21,2024-04-23,Recovered
+1535,547,Neurology,2024-06-11,2024-06-19,Recovered
+1536,548,General Medicine,2024-01-31,2024-02-08,ICU
+1537,548,General Medicine,2024-02-16,2024-02-26,Recovered
+1538,548,Emergency,2024-04-10,2024-04-16,Recovered
+1539,548,Emergency,2024-05-30,2024-06-02,ICU
+1540,549,Neurology,2024-02-01,2024-02-07,Recovered
+1541,549,Emergency,2024-02-22,2024-02-27,Recovered
+1542,550,General Medicine,2024-02-02,2024-02-09,Recovered
+1543,550,Cardiology,2024-02-13,2024-02-20,Readmitted
+1544,550,Emergency,2024-03-19,2024-03-25,Recovered
+1545,551,General Medicine,2024-01-11,2024-01-20,ICU
+1546,552,Neurology,2024-01-29,2024-02-05,Recovered
+1547,553,General Medicine,2024-02-11,2024-02-19,Recovered
+1548,553,ICU,2024-03-04,2024-03-12,Recovered
+1549,553,ICU,2024-03-24,2024-04-03,Readmitted
+1550,553,Emergency,2024-06-10,2024-06-19,ICU
+1551,553,Emergency,2024-05-17,2024-05-24,Recovered
+1552,554,Cardiology,2024-02-24,2024-02-29,Recovered
+1553,554,General Medicine,2024-03-10,2024-03-20,Recovered
+1554,554,Neurology,2024-03-29,2024-03-31,Recovered
+1555,554,Pulmonology,2024-06-02,2024-06-10,Recovered
+1556,554,Neurology,2024-06-15,2024-06-22,Recovered
+1557,555,ICU,2024-02-28,2024-03-05,ICU
+1558,555,ICU,2024-03-09,2024-03-19,Readmitted
+1559,555,Cardiology,2024-04-14,2024-04-18,Recovered
+1560,556,ICU,2024-01-18,2024-01-24,Recovered
+1561,556,Cardiology,2024-02-04,2024-02-08,Recovered
+1562,556,ICU,2024-02-29,2024-03-09,Recovered
+1563,556,Emergency,2024-04-14,2024-04-20,Recovered
+1564,557,Emergency,2024-02-10,2024-02-12,ICU
+1565,557,General Medicine,2024-02-25,2024-02-29,Recovered
+1566,557,General Medicine,2024-04-16,2024-04-23,Readmitted
+1567,557,Neurology,2024-05-16,2024-05-24,Recovered
+1568,558,Pulmonology,2024-02-01,2024-02-10,Recovered
+1569,558,General Medicine,2024-03-04,2024-03-13,Recovered
+1570,558,Pulmonology,2024-03-06,2024-03-15,Recovered
+1571,559,Neurology,2024-01-01,2024-01-07,ICU
+1572,559,General Medicine,2024-01-17,2024-01-26,ICU
+1573,559,General Medicine,2024-03-03,2024-03-07,Recovered
+1574,560,ICU,2024-02-19,2024-02-28,Recovered
+1575,560,Pulmonology,2024-02-29,2024-03-06,Recovered
+1576,560,Cardiology,2024-03-30,2024-04-07,Readmitted
+1577,560,General Medicine,2024-03-20,2024-03-27,Recovered
+1578,561,Pulmonology,2024-02-14,2024-02-24,Recovered
+1579,561,Neurology,2024-03-07,2024-03-11,Recovered
+1580,561,Emergency,2024-05-04,2024-05-12,Deceased
+1581,562,Cardiology,2024-01-15,2024-01-19,Recovered
+1582,563,Emergency,2024-01-08,2024-01-10,Recovered
+1583,563,Pulmonology,2024-02-06,2024-02-09,Recovered
+1584,563,ICU,2024-03-24,2024-04-01,Recovered
+1585,564,Pulmonology,2024-02-02,2024-02-09,ICU
+1586,565,Neurology,2024-01-05,2024-01-11,Recovered
+1587,565,Pulmonology,2024-02-07,2024-02-10,Recovered
+1588,565,General Medicine,2024-03-09,2024-03-17,Readmitted
+1589,566,Cardiology,2024-01-06,2024-01-12,Recovered
+1590,566,Neurology,2024-02-07,2024-02-09,Recovered
+1591,566,Emergency,2024-01-26,2024-01-31,ICU
+1592,566,General Medicine,2024-03-27,2024-03-31,Recovered
+1593,567,Cardiology,2024-01-23,2024-02-01,ICU
+1594,567,ICU,2024-02-23,2024-02-26,Recovered
+1595,567,Cardiology,2024-02-14,2024-02-18,ICU
+1596,568,Emergency,2024-01-26,2024-02-04,Recovered
+1597,569,General Medicine,2024-01-29,2024-02-08,Recovered
+1598,569,Neurology,2024-02-11,2024-02-15,Recovered
+1599,569,Pulmonology,2024-03-05,2024-03-09,Recovered
+1600,569,Emergency,2024-03-20,2024-03-22,ICU
+1601,570,Pulmonology,2024-01-22,2024-01-25,Readmitted
+1602,570,General Medicine,2024-02-22,2024-02-24,Readmitted
+1603,570,ICU,2024-03-22,2024-03-28,Recovered
+1604,571,Pulmonology,2024-01-24,2024-01-30,Recovered
+1605,571,Emergency,2024-02-04,2024-02-07,ICU
+1606,571,Emergency,2024-04-09,2024-04-19,ICU
+1607,571,Emergency,2024-03-27,2024-04-01,Recovered
+1608,571,Neurology,2024-06-16,2024-06-22,Recovered
+1609,572,General Medicine,2024-01-15,2024-01-25,Recovered
+1610,573,General Medicine,2024-02-16,2024-02-18,Recovered
+1611,573,General Medicine,2024-02-29,2024-03-04,Recovered
+1612,573,Emergency,2024-03-11,2024-03-21,Recovered
+1613,574,General Medicine,2024-02-06,2024-02-16,Readmitted
+1614,574,Pulmonology,2024-03-07,2024-03-10,Recovered
+1615,574,Pulmonology,2024-04-22,2024-04-25,Recovered
+1616,574,Neurology,2024-05-15,2024-05-24,Recovered
+1617,575,ICU,2024-01-07,2024-01-14,ICU
+1618,575,Neurology,2024-02-15,2024-02-17,Recovered
+1619,575,Cardiology,2024-02-26,2024-03-04,Recovered
+1620,575,Cardiology,2024-02-27,2024-03-06,Recovered
+1621,575,Cardiology,2024-06-07,2024-06-14,Recovered
+1622,576,Neurology,2024-01-30,2024-02-02,Recovered
+1623,576,Neurology,2024-03-09,2024-03-16,Recovered
+1624,577,Cardiology,2024-01-16,2024-01-26,ICU
+1625,577,General Medicine,2024-02-01,2024-02-05,Recovered
+1626,577,General Medicine,2024-02-17,2024-02-20,Readmitted
+1627,577,Pulmonology,2024-04-06,2024-04-16,ICU
+1628,578,Cardiology,2024-02-27,2024-03-02,Recovered
+1629,578,Cardiology,2024-03-14,2024-03-19,ICU
+1630,578,General Medicine,2024-05-11,2024-05-18,Recovered
+1631,578,Pulmonology,2024-06-14,2024-06-19,Recovered
+1632,579,General Medicine,2024-02-20,2024-02-29,Recovered
+1633,579,Pulmonology,2024-03-17,2024-03-26,Recovered
+1634,579,Pulmonology,2024-04-02,2024-04-07,Recovered
+1635,579,Cardiology,2024-06-01,2024-06-03,ICU
+1636,580,Cardiology,2024-02-10,2024-02-14,Recovered
+1637,580,Neurology,2024-03-08,2024-03-13,ICU
+1638,580,Emergency,2024-04-14,2024-04-23,Deceased
+1639,581,General Medicine,2024-01-12,2024-01-16,Recovered
+1640,581,General Medicine,2024-01-31,2024-02-08,Recovered
+1641,582,Cardiology,2024-01-20,2024-01-30,Recovered
+1642,582,Emergency,2024-02-22,2024-03-01,ICU
+1643,582,General Medicine,2024-03-24,2024-04-02,Recovered
+1644,582,Neurology,2024-05-13,2024-05-20,Recovered
+1645,583,Emergency,2024-02-02,2024-02-12,ICU
+1646,583,Emergency,2024-03-13,2024-03-20,Recovered
+1647,583,General Medicine,2024-04-22,2024-04-29,Recovered
+1648,583,General Medicine,2024-05-29,2024-06-07,Recovered
+1649,583,ICU,2024-06-25,2024-06-28,Recovered
+1650,584,Neurology,2024-01-22,2024-01-29,Recovered
+1651,584,Neurology,2024-02-20,2024-02-29,Recovered
+1652,584,Emergency,2024-03-20,2024-03-26,Recovered
+1653,585,Neurology,2024-01-04,2024-01-11,Readmitted
+1654,585,Cardiology,2024-02-01,2024-02-06,Recovered
+1655,585,Pulmonology,2024-02-11,2024-02-14,Recovered
+1656,585,Cardiology,2024-03-19,2024-03-23,Recovered
+1657,586,ICU,2024-02-24,2024-03-03,Recovered
+1658,586,Emergency,2024-03-12,2024-03-17,Readmitted
+1659,586,ICU,2024-04-06,2024-04-14,Deceased
+1660,587,Pulmonology,2024-02-11,2024-02-17,Recovered
+1661,587,Pulmonology,2024-02-27,2024-03-06,Recovered
+1662,587,Cardiology,2024-04-17,2024-04-24,Recovered
+1663,587,ICU,2024-06-07,2024-06-17,Recovered
+1664,587,ICU,2024-06-10,2024-06-14,Recovered
+1665,588,Emergency,2024-02-07,2024-02-14,Recovered
+1666,588,Emergency,2024-03-13,2024-03-23,ICU
+1667,588,Cardiology,2024-03-16,2024-03-18,Recovered
+1668,588,Neurology,2024-05-28,2024-06-06,ICU
+1669,589,Cardiology,2024-02-03,2024-02-06,Recovered
+1670,589,Pulmonology,2024-02-25,2024-03-03,Recovered
+1671,589,General Medicine,2024-02-23,2024-02-29,Recovered
+1672,589,Emergency,2024-03-13,2024-03-20,Recovered
+1673,590,Cardiology,2024-01-23,2024-01-31,Recovered
+1674,591,ICU,2024-02-23,2024-03-02,Recovered
+1675,591,Pulmonology,2024-03-31,2024-04-05,Recovered
+1676,591,General Medicine,2024-03-16,2024-03-26,Recovered
+1677,591,Emergency,2024-04-20,2024-04-30,Recovered
+1678,592,Cardiology,2024-02-07,2024-02-17,Recovered
+1679,592,Pulmonology,2024-03-05,2024-03-07,Recovered
+1680,592,General Medicine,2024-03-26,2024-03-28,Recovered
+1681,592,Cardiology,2024-04-28,2024-05-01,Readmitted
+1682,592,Neurology,2024-06-10,2024-06-19,Deceased
+1683,593,Pulmonology,2024-01-21,2024-01-31,Recovered
+1684,594,Pulmonology,2024-01-14,2024-01-16,Recovered
+1685,594,Pulmonology,2024-02-21,2024-02-23,Recovered
+1686,594,Pulmonology,2024-02-29,2024-03-10,ICU
+1687,594,Cardiology,2024-03-14,2024-03-16,Recovered
+1688,595,Neurology,2024-01-09,2024-01-19,Recovered
+1689,595,Pulmonology,2024-02-02,2024-02-09,Recovered
+1690,595,Neurology,2024-03-23,2024-04-02,Recovered
+1691,596,Pulmonology,2024-02-09,2024-02-15,Recovered
+1692,597,Cardiology,2024-02-18,2024-02-25,Recovered
+1693,597,Cardiology,2024-03-22,2024-03-29,Recovered
+1694,597,Emergency,2024-04-02,2024-04-07,Readmitted
+1695,598,Cardiology,2024-01-12,2024-01-21,Recovered
+1696,599,Pulmonology,2024-02-28,2024-03-03,Recovered
+1697,599,General Medicine,2024-03-20,2024-03-30,Recovered
+1698,599,Cardiology,2024-04-30,2024-05-07,Recovered
+1699,600,General Medicine,2024-02-29,2024-03-04,Recovered
+1700,600,ICU,2024-03-25,2024-03-29,Recovered
+1701,600,ICU,2024-04-09,2024-04-16,Recovered
+1702,600,Cardiology,2024-04-08,2024-04-15,Recovered
+1703,600,General Medicine,2024-05-07,2024-05-16,Readmitted
+1704,601,Cardiology,2024-01-30,2024-02-03,ICU
+1705,601,General Medicine,2024-02-15,2024-02-23,Readmitted
+1706,601,Emergency,2024-03-10,2024-03-13,Recovered
+1707,602,ICU,2024-02-12,2024-02-17,Recovered
+1708,602,Cardiology,2024-02-22,2024-03-02,Recovered
+1709,603,Pulmonology,2024-02-24,2024-02-28,Recovered
+1710,604,General Medicine,2024-02-12,2024-02-22,Recovered
+1711,604,General Medicine,2024-03-20,2024-03-29,Readmitted
+1712,604,Emergency,2024-03-03,2024-03-06,ICU
+1713,604,General Medicine,2024-03-13,2024-03-17,Recovered
+1714,604,General Medicine,2024-06-03,2024-06-07,Readmitted
+1715,605,Neurology,2024-02-14,2024-02-21,Recovered
+1716,605,General Medicine,2024-02-27,2024-03-07,Recovered
+1717,605,ICU,2024-03-11,2024-03-21,Recovered
+1718,606,Pulmonology,2024-02-24,2024-02-29,Recovered
+1719,606,Pulmonology,2024-04-02,2024-04-09,Readmitted
+1720,606,Neurology,2024-03-25,2024-04-02,Recovered
+1721,606,Cardiology,2024-05-15,2024-05-19,Readmitted
+1722,607,Pulmonology,2024-02-12,2024-02-18,Readmitted
+1723,607,Pulmonology,2024-03-12,2024-03-17,Readmitted
+1724,608,Neurology,2024-02-20,2024-02-25,Recovered
+1725,608,Cardiology,2024-03-19,2024-03-22,ICU
+1726,608,General Medicine,2024-05-10,2024-05-18,Recovered
+1727,608,Neurology,2024-03-24,2024-03-27,Recovered
+1728,608,ICU,2024-07-25,2024-07-30,Recovered
+1729,609,Neurology,2024-02-20,2024-02-23,Deceased
+1730,610,General Medicine,2024-01-07,2024-01-17,Recovered
+1731,610,Neurology,2024-02-11,2024-02-21,Recovered
+1732,610,Emergency,2024-03-17,2024-03-26,Recovered
+1733,610,General Medicine,2024-02-12,2024-02-21,Recovered
+1734,610,Pulmonology,2024-05-10,2024-05-20,Recovered
+1735,611,ICU,2024-01-04,2024-01-11,ICU
+1736,611,Neurology,2024-02-08,2024-02-11,ICU
+1737,612,Emergency,2024-01-03,2024-01-07,Recovered
+1738,612,Emergency,2024-02-03,2024-02-06,ICU
+1739,613,Cardiology,2024-02-18,2024-02-20,ICU
+1740,613,Pulmonology,2024-03-08,2024-03-18,Recovered
+1741,613,Neurology,2024-03-13,2024-03-18,Recovered
+1742,613,Pulmonology,2024-04-09,2024-04-18,Recovered
+1743,614,General Medicine,2024-01-13,2024-01-15,Recovered
+1744,614,Pulmonology,2024-02-14,2024-02-16,Recovered
+1745,615,Cardiology,2024-01-22,2024-01-30,Recovered
+1746,615,Neurology,2024-02-17,2024-02-25,Recovered
+1747,616,Pulmonology,2024-02-20,2024-02-25,Recovered
+1748,616,Neurology,2024-03-16,2024-03-22,ICU
+1749,616,Neurology,2024-03-29,2024-04-03,Recovered
+1750,617,Pulmonology,2024-02-05,2024-02-09,Recovered
+1751,618,Pulmonology,2024-02-01,2024-02-09,Recovered
+1752,618,Cardiology,2024-02-25,2024-03-05,Recovered
+1753,618,General Medicine,2024-03-04,2024-03-07,Recovered
+1754,618,General Medicine,2024-05-07,2024-05-17,Recovered
+1755,618,Neurology,2024-06-20,2024-06-28,Recovered
+1756,619,Pulmonology,2024-01-04,2024-01-07,Recovered
+1757,619,Cardiology,2024-01-23,2024-02-02,Recovered
+1758,619,ICU,2024-02-13,2024-02-20,Recovered
+1759,619,Cardiology,2024-04-12,2024-04-19,Recovered
+1760,620,Cardiology,2024-01-26,2024-02-03,Recovered
+1761,620,Cardiology,2024-03-01,2024-03-06,ICU
+1762,620,Neurology,2024-03-20,2024-03-30,Recovered
+1763,620,Cardiology,2024-03-05,2024-03-14,Recovered
+1764,621,General Medicine,2024-01-16,2024-01-25,Recovered
+1765,621,Emergency,2024-02-08,2024-02-12,ICU
+1766,621,Cardiology,2024-02-21,2024-03-01,Recovered
+1767,622,Cardiology,2024-01-04,2024-01-10,Recovered
+1768,622,Emergency,2024-02-01,2024-02-03,Recovered
+1769,623,Emergency,2024-01-14,2024-01-24,ICU
+1770,624,Emergency,2024-01-21,2024-01-26,Recovered
+1771,624,Pulmonology,2024-02-07,2024-02-11,Recovered
+1772,625,Pulmonology,2024-02-28,2024-03-06,Recovered
+1773,626,ICU,2024-01-03,2024-01-07,Recovered
+1774,627,Pulmonology,2024-01-04,2024-01-14,ICU
+1775,627,General Medicine,2024-01-16,2024-01-20,ICU
+1776,627,Pulmonology,2024-02-17,2024-02-21,Recovered
+1777,627,Neurology,2024-02-06,2024-02-13,Recovered
+1778,628,General Medicine,2024-02-20,2024-03-01,ICU
+1779,628,Cardiology,2024-03-07,2024-03-10,Recovered
+1780,628,General Medicine,2024-03-27,2024-04-05,Recovered
+1781,628,ICU,2024-05-11,2024-05-13,Recovered
+1782,628,ICU,2024-04-04,2024-04-09,ICU
+1783,629,Neurology,2024-01-31,2024-02-02,Recovered
+1784,629,Emergency,2024-02-26,2024-03-01,Recovered
+1785,629,ICU,2024-04-14,2024-04-24,Recovered
+1786,629,ICU,2024-05-18,2024-05-24,Recovered
+1787,630,Pulmonology,2024-01-22,2024-01-29,Recovered
+1788,630,Cardiology,2024-02-28,2024-03-09,Recovered
+1789,630,Cardiology,2024-02-25,2024-03-02,Recovered
+1790,631,Neurology,2024-01-12,2024-01-22,Recovered
+1791,631,ICU,2024-01-23,2024-01-31,Recovered
+1792,631,ICU,2024-03-14,2024-03-18,Recovered
+1793,631,Pulmonology,2024-04-17,2024-04-22,Recovered
+1794,632,General Medicine,2024-02-20,2024-02-28,Recovered
+1795,632,Emergency,2024-03-25,2024-04-01,Recovered
+1796,632,Cardiology,2024-04-20,2024-04-25,Readmitted
+1797,632,Pulmonology,2024-06-04,2024-06-14,ICU
+1798,633,Pulmonology,2024-01-20,2024-01-24,Recovered
+1799,633,Pulmonology,2024-02-25,2024-02-28,ICU
+1800,633,General Medicine,2024-03-14,2024-03-16,Recovered
+1801,634,Neurology,2024-02-28,2024-03-09,Deceased
+1802,635,Emergency,2024-02-13,2024-02-23,Recovered
+1803,636,Cardiology,2024-01-21,2024-01-26,Deceased
+1804,637,Neurology,2024-01-31,2024-02-02,Recovered
+1805,638,Pulmonology,2024-01-20,2024-01-27,Recovered
+1806,638,Pulmonology,2024-02-18,2024-02-25,Recovered
+1807,639,Emergency,2024-01-16,2024-01-25,Recovered
+1808,640,ICU,2024-02-10,2024-02-16,Recovered
+1809,640,Pulmonology,2024-03-08,2024-03-16,Recovered
+1810,640,Neurology,2024-04-18,2024-04-26,ICU
+1811,640,Emergency,2024-04-04,2024-04-13,Recovered
+1812,640,Emergency,2024-05-20,2024-05-29,Readmitted
+1813,641,ICU,2024-01-03,2024-01-13,Recovered
+1814,642,Cardiology,2024-01-06,2024-01-08,Recovered
+1815,642,Neurology,2024-01-23,2024-02-01,Recovered
+1816,643,General Medicine,2024-01-29,2024-01-31,ICU
+1817,643,Pulmonology,2024-03-01,2024-03-09,Recovered
+1818,644,Pulmonology,2024-02-13,2024-02-19,Recovered
+1819,644,ICU,2024-03-03,2024-03-12,ICU
+1820,644,Neurology,2024-03-28,2024-04-04,ICU
+1821,645,Pulmonology,2024-02-17,2024-02-26,Recovered
+1822,645,General Medicine,2024-03-14,2024-03-20,Recovered
+1823,646,Neurology,2024-02-08,2024-02-16,Recovered
+1824,647,ICU,2024-01-12,2024-01-21,ICU
+1825,647,Cardiology,2024-02-06,2024-02-12,Recovered
+1826,647,ICU,2024-02-05,2024-02-11,Recovered
+1827,647,Neurology,2024-03-24,2024-03-28,Recovered
+1828,647,Emergency,2024-03-24,2024-04-01,Recovered
+1829,648,General Medicine,2024-02-25,2024-02-29,Recovered
+1830,649,Emergency,2024-02-20,2024-02-25,Recovered
+1831,650,Neurology,2024-01-19,2024-01-27,Readmitted
+1832,650,Neurology,2024-02-11,2024-02-13,Recovered
+1833,651,Cardiology,2024-02-20,2024-02-26,Recovered
+1834,651,Emergency,2024-03-11,2024-03-20,Recovered
+1835,651,Emergency,2024-04-04,2024-04-11,ICU
+1836,651,Pulmonology,2024-06-04,2024-06-14,Recovered
+1837,651,Pulmonology,2024-06-27,2024-07-04,Recovered
+1838,652,Emergency,2024-01-13,2024-01-18,ICU
+1839,652,Cardiology,2024-02-15,2024-02-22,Recovered
+1840,652,Pulmonology,2024-02-26,2024-02-28,Recovered
+1841,652,ICU,2024-04-24,2024-04-29,Recovered
+1842,653,Pulmonology,2024-01-04,2024-01-06,Recovered
+1843,654,Neurology,2024-02-05,2024-02-09,Recovered
+1844,654,Neurology,2024-02-15,2024-02-22,ICU
+1845,655,Emergency,2024-01-18,2024-01-26,ICU
+1846,655,Neurology,2024-02-27,2024-03-01,Readmitted
+1847,655,ICU,2024-04-05,2024-04-13,Readmitted
+1848,655,ICU,2024-04-11,2024-04-15,Recovered
+1849,656,Emergency,2024-01-27,2024-01-29,Recovered
+1850,656,General Medicine,2024-02-07,2024-02-17,Deceased
+1851,657,Pulmonology,2024-02-07,2024-02-12,Recovered
+1852,658,General Medicine,2024-02-02,2024-02-11,Recovered
+1853,658,Pulmonology,2024-02-25,2024-02-29,Recovered
+1854,658,Cardiology,2024-04-16,2024-04-24,Recovered
+1855,658,Pulmonology,2024-04-14,2024-04-18,Recovered
+1856,659,General Medicine,2024-01-27,2024-01-29,Recovered
+1857,660,General Medicine,2024-01-20,2024-01-22,Recovered
+1858,661,General Medicine,2024-02-22,2024-02-27,Recovered
+1859,662,Cardiology,2024-02-09,2024-02-12,Recovered
+1860,663,Neurology,2024-01-16,2024-01-24,Recovered
+1861,663,Pulmonology,2024-01-26,2024-01-30,Recovered
+1862,663,General Medicine,2024-04-03,2024-04-12,Recovered
+1863,664,General Medicine,2024-01-23,2024-01-30,Recovered
+1864,664,Neurology,2024-02-16,2024-02-22,Recovered
+1865,664,Pulmonology,2024-03-23,2024-03-27,Readmitted
+1866,664,ICU,2024-03-17,2024-03-20,Recovered
+1867,665,General Medicine,2024-01-28,2024-02-02,ICU
+1868,666,ICU,2024-02-23,2024-02-28,Readmitted
+1869,666,Pulmonology,2024-03-05,2024-03-13,Readmitted
+1870,666,Pulmonology,2024-05-01,2024-05-08,Recovered
+1871,666,General Medicine,2024-05-20,2024-05-22,ICU
+1872,667,ICU,2024-01-29,2024-02-05,Recovered
+1873,667,Pulmonology,2024-02-12,2024-02-16,Recovered
+1874,667,General Medicine,2024-03-15,2024-03-18,Recovered
+1875,667,ICU,2024-04-19,2024-04-24,Recovered
+1876,668,Emergency,2024-01-08,2024-01-12,Recovered
+1877,668,Cardiology,2024-02-01,2024-02-03,Recovered
+1878,668,ICU,2024-03-20,2024-03-26,Recovered
+1879,668,Pulmonology,2024-02-16,2024-02-25,Recovered
+1880,668,Neurology,2024-03-08,2024-03-10,Recovered
+1881,669,General Medicine,2024-01-08,2024-01-16,ICU
+1882,670,Neurology,2024-02-08,2024-02-13,Recovered
+1883,670,General Medicine,2024-03-08,2024-03-18,Recovered
+1884,670,Neurology,2024-03-09,2024-03-19,ICU
+1885,670,Pulmonology,2024-05-20,2024-05-22,Recovered
+1886,670,ICU,2024-03-31,2024-04-09,Recovered
+1887,671,Emergency,2024-02-26,2024-03-02,Deceased
+1888,672,Pulmonology,2024-01-16,2024-01-21,Readmitted
+1889,672,Cardiology,2024-02-20,2024-03-01,Recovered
+1890,672,Cardiology,2024-03-24,2024-04-02,Recovered
+1891,672,General Medicine,2024-03-22,2024-03-30,Recovered
+1892,672,Neurology,2024-06-24,2024-06-29,ICU
+1893,673,ICU,2024-02-01,2024-02-04,Recovered
+1894,673,Pulmonology,2024-02-26,2024-03-05,Recovered
+1895,673,Emergency,2024-04-05,2024-04-09,Recovered
+1896,673,ICU,2024-03-17,2024-03-20,Recovered
+1897,673,Cardiology,2024-06-24,2024-06-28,Recovered
+1898,674,ICU,2024-02-27,2024-03-07,Recovered
+1899,675,Neurology,2024-02-08,2024-02-15,Recovered
+1900,675,Pulmonology,2024-02-22,2024-02-27,Recovered
+1901,675,Cardiology,2024-03-31,2024-04-04,ICU
+1902,675,Cardiology,2024-04-26,2024-04-28,Readmitted
+1903,675,General Medicine,2024-04-20,2024-04-30,ICU
+1904,676,Cardiology,2024-02-14,2024-02-20,Recovered
+1905,677,Pulmonology,2024-01-24,2024-01-28,Recovered
+1906,677,Emergency,2024-02-11,2024-02-14,Readmitted
+1907,678,Cardiology,2024-02-27,2024-03-04,Recovered
+1908,678,Cardiology,2024-03-28,2024-04-06,Recovered
+1909,678,General Medicine,2024-05-03,2024-05-10,Recovered
+1910,679,Emergency,2024-01-01,2024-01-09,Recovered
+1911,680,ICU,2024-02-10,2024-02-13,Recovered
+1912,680,General Medicine,2024-03-17,2024-03-26,Recovered
+1913,680,Pulmonology,2024-04-12,2024-04-14,Recovered
+1914,681,Pulmonology,2024-01-08,2024-01-17,Recovered
+1915,681,General Medicine,2024-01-19,2024-01-24,Recovered
+1916,681,General Medicine,2024-02-19,2024-02-29,Recovered
+1917,681,Neurology,2024-05-01,2024-05-07,Recovered
+1918,682,Neurology,2024-01-19,2024-01-23,Recovered
+1919,682,General Medicine,2024-02-10,2024-02-18,Recovered
+1920,682,General Medicine,2024-03-25,2024-03-29,Recovered
+1921,682,ICU,2024-05-06,2024-05-16,Recovered
+1922,683,ICU,2024-01-31,2024-02-02,ICU
+1923,683,ICU,2024-02-19,2024-02-25,Recovered
+1924,683,Neurology,2024-03-25,2024-03-28,Recovered
+1925,683,General Medicine,2024-04-18,2024-04-25,Recovered
+1926,683,Neurology,2024-07-01,2024-07-08,Recovered
+1927,684,Cardiology,2024-01-23,2024-01-28,Recovered
+1928,684,Neurology,2024-02-02,2024-02-04,Recovered
+1929,684,Neurology,2024-03-23,2024-04-01,Recovered
+1930,684,General Medicine,2024-04-22,2024-04-30,Recovered
+1931,685,General Medicine,2024-01-20,2024-01-26,Deceased
+1932,686,Neurology,2024-01-12,2024-01-18,Recovered
+1933,686,Neurology,2024-02-18,2024-02-21,Recovered
+1934,687,Cardiology,2024-01-03,2024-01-09,Recovered
+1935,687,Neurology,2024-02-10,2024-02-12,Recovered
+1936,687,ICU,2024-03-21,2024-03-23,Recovered
+1937,687,General Medicine,2024-02-02,2024-02-07,Recovered
+1938,688,Neurology,2024-01-30,2024-02-02,ICU
+1939,688,Cardiology,2024-03-03,2024-03-05,Readmitted
+1940,688,Cardiology,2024-03-04,2024-03-10,Recovered
+1941,688,Cardiology,2024-03-03,2024-03-06,Recovered
+1942,688,Emergency,2024-06-22,2024-06-26,Recovered
+1943,689,Pulmonology,2024-01-01,2024-01-03,Recovered
+1944,689,Emergency,2024-02-08,2024-02-16,Recovered
+1945,689,Emergency,2024-02-02,2024-02-07,Recovered
+1946,689,General Medicine,2024-03-04,2024-03-12,Recovered
+1947,690,Neurology,2024-02-16,2024-02-18,Recovered
+1948,690,Cardiology,2024-03-07,2024-03-15,Recovered
+1949,691,Neurology,2024-02-16,2024-02-22,Recovered
+1950,691,ICU,2024-03-16,2024-03-22,Recovered
+1951,691,ICU,2024-03-11,2024-03-20,Recovered
+1952,692,Neurology,2024-01-09,2024-01-13,Deceased
+1953,693,General Medicine,2024-01-15,2024-01-20,Readmitted
+1954,693,Emergency,2024-02-03,2024-02-13,Recovered
+1955,693,Neurology,2024-02-20,2024-03-01,Recovered
+1956,694,Cardiology,2024-01-02,2024-01-10,Recovered
+1957,694,General Medicine,2024-01-13,2024-01-23,Recovered
+1958,694,Pulmonology,2024-03-08,2024-03-15,Recovered
+1959,694,Emergency,2024-02-07,2024-02-09,ICU
+1960,695,Neurology,2024-01-04,2024-01-13,ICU
+1961,695,Emergency,2024-02-06,2024-02-08,Recovered
+1962,695,Pulmonology,2024-02-29,2024-03-10,Recovered
+1963,695,Neurology,2024-03-22,2024-03-29,Recovered
+1964,695,Cardiology,2024-05-27,2024-05-31,Readmitted
+1965,696,General Medicine,2024-01-04,2024-01-06,Recovered
+1966,696,Pulmonology,2024-02-13,2024-02-16,ICU
+1967,697,Neurology,2024-02-15,2024-02-25,Recovered
+1968,697,Cardiology,2024-03-07,2024-03-09,Deceased
+1969,698,Emergency,2024-02-18,2024-02-21,Recovered
+1970,698,Emergency,2024-03-27,2024-04-02,Recovered
+1971,698,Pulmonology,2024-04-12,2024-04-17,Recovered
+1972,699,Pulmonology,2024-01-24,2024-02-01,Recovered
+1973,699,Pulmonology,2024-02-06,2024-02-09,Readmitted
+1974,699,Cardiology,2024-03-06,2024-03-09,Recovered
+1975,700,Pulmonology,2024-01-17,2024-01-25,Recovered
+1976,701,Emergency,2024-01-07,2024-01-13,Recovered
+1977,701,Cardiology,2024-01-26,2024-02-02,Readmitted
+1978,701,Pulmonology,2024-01-27,2024-01-30,Recovered
+1979,701,Pulmonology,2024-04-24,2024-05-03,Recovered
+1980,701,Neurology,2024-03-15,2024-03-25,Recovered
+1981,702,Emergency,2024-01-22,2024-01-24,ICU
+1982,703,General Medicine,2024-01-09,2024-01-11,Recovered
+1983,703,Pulmonology,2024-01-25,2024-01-28,ICU
+1984,703,Neurology,2024-03-15,2024-03-18,Recovered
+1985,703,ICU,2024-03-18,2024-03-24,Recovered
+1986,703,General Medicine,2024-05-12,2024-05-16,Recovered
+1987,704,Emergency,2024-01-31,2024-02-08,Recovered
+1988,705,Emergency,2024-01-20,2024-01-27,ICU
+1989,705,Emergency,2024-02-18,2024-02-23,Recovered
+1990,706,Emergency,2024-01-18,2024-01-21,Recovered
+1991,707,General Medicine,2024-01-12,2024-01-20,Recovered
+1992,707,ICU,2024-01-29,2024-01-31,ICU
+1993,707,ICU,2024-02-25,2024-03-05,Recovered
+1994,707,General Medicine,2024-02-20,2024-02-22,Recovered
+1995,707,Emergency,2024-06-12,2024-06-20,Recovered
+1996,708,General Medicine,2024-02-19,2024-02-29,Recovered
+1997,709,Emergency,2024-02-01,2024-02-06,Recovered
+1998,709,Pulmonology,2024-02-16,2024-02-18,Recovered
+1999,709,ICU,2024-03-04,2024-03-06,Recovered
+2000,709,Emergency,2024-03-23,2024-03-31,Readmitted
+2001,710,Neurology,2024-01-06,2024-01-13,Recovered
+2002,711,Emergency,2024-02-11,2024-02-15,Recovered
+2003,711,ICU,2024-03-05,2024-03-13,Recovered
+2004,711,ICU,2024-03-22,2024-03-26,Recovered
+2005,711,General Medicine,2024-05-02,2024-05-08,Deceased
+2006,712,Pulmonology,2024-01-17,2024-01-21,Recovered
+2007,712,Pulmonology,2024-01-31,2024-02-08,Recovered
+2008,713,Cardiology,2024-02-06,2024-02-10,ICU
+2009,713,Neurology,2024-02-18,2024-02-24,Recovered
+2010,713,Pulmonology,2024-04-04,2024-04-07,Recovered
+2011,714,Neurology,2024-02-21,2024-02-24,Recovered
+2012,714,Neurology,2024-03-09,2024-03-17,Recovered
+2013,714,Pulmonology,2024-04-19,2024-04-25,Recovered
+2014,714,Emergency,2024-05-15,2024-05-18,ICU
+2015,715,ICU,2024-02-27,2024-03-01,Recovered
+2016,715,ICU,2024-03-08,2024-03-10,Recovered
+2017,715,Neurology,2024-05-01,2024-05-10,ICU
+2018,715,Cardiology,2024-06-08,2024-06-16,Recovered
+2019,716,ICU,2024-02-13,2024-02-16,Recovered
+2020,716,ICU,2024-03-01,2024-03-04,Recovered
+2021,716,Cardiology,2024-03-12,2024-03-15,Recovered
+2022,716,General Medicine,2024-03-23,2024-03-25,ICU
+2023,716,Neurology,2024-06-12,2024-06-22,ICU
+2024,717,Neurology,2024-01-25,2024-01-28,Recovered
+2025,717,Emergency,2024-02-22,2024-02-29,ICU
+2026,717,General Medicine,2024-03-27,2024-04-01,ICU
+2027,718,ICU,2024-01-21,2024-01-30,Recovered
+2028,718,General Medicine,2024-02-03,2024-02-09,Recovered
+2029,718,General Medicine,2024-03-27,2024-04-03,ICU
+2030,719,ICU,2024-01-19,2024-01-28,Recovered
+2031,719,Neurology,2024-02-21,2024-02-23,Recovered
+2032,719,Cardiology,2024-03-05,2024-03-14,Recovered
+2033,719,Neurology,2024-03-01,2024-03-07,Recovered
+2034,720,Cardiology,2024-01-07,2024-01-09,Recovered
+2035,720,Cardiology,2024-02-15,2024-02-21,ICU
+2036,720,Cardiology,2024-03-27,2024-04-03,Recovered
+2037,720,Neurology,2024-03-04,2024-03-06,Recovered
+2038,720,Cardiology,2024-04-04,2024-04-06,Recovered
+2039,721,General Medicine,2024-01-30,2024-02-01,Recovered
+2040,721,Neurology,2024-02-18,2024-02-28,Recovered
+2041,722,Pulmonology,2024-01-17,2024-01-25,Recovered
+2042,722,Neurology,2024-02-16,2024-02-26,ICU
+2043,722,Emergency,2024-03-23,2024-03-26,Recovered
+2044,723,Pulmonology,2024-01-10,2024-01-20,ICU
+2045,724,Emergency,2024-01-24,2024-01-30,Readmitted
+2046,724,Emergency,2024-02-03,2024-02-06,Recovered
+2047,724,Neurology,2024-02-27,2024-03-05,Recovered
+2048,724,Emergency,2024-03-24,2024-03-27,ICU
+2049,724,Neurology,2024-05-27,2024-06-04,Recovered
+2050,725,Emergency,2024-01-29,2024-02-03,Recovered
+2051,725,Cardiology,2024-02-22,2024-02-24,Recovered
+2052,725,Pulmonology,2024-02-24,2024-03-05,Recovered
+2053,725,Pulmonology,2024-05-22,2024-06-01,Recovered
+2054,726,Neurology,2024-02-12,2024-02-20,Readmitted
+2055,726,Emergency,2024-03-12,2024-03-16,Recovered
+2056,726,Pulmonology,2024-03-31,2024-04-04,Recovered
+2057,727,Neurology,2024-01-29,2024-02-02,ICU
+2058,727,Cardiology,2024-02-10,2024-02-17,Recovered
+2059,727,Pulmonology,2024-03-23,2024-04-02,Recovered
+2060,728,Neurology,2024-02-26,2024-03-03,ICU
+2061,729,Pulmonology,2024-03-01,2024-03-03,Recovered
+2062,729,Emergency,2024-04-08,2024-04-16,Recovered
+2063,729,Cardiology,2024-05-16,2024-05-22,ICU
+2064,730,General Medicine,2024-01-26,2024-01-31,Recovered
+2065,730,General Medicine,2024-03-06,2024-03-16,Recovered
+2066,730,Pulmonology,2024-02-15,2024-02-22,Recovered
+2067,730,Cardiology,2024-04-01,2024-04-11,Recovered
+2068,731,Neurology,2024-02-15,2024-02-22,Recovered
+2069,731,Cardiology,2024-03-15,2024-03-19,Recovered
+2070,731,General Medicine,2024-04-13,2024-04-15,Recovered
+2071,731,Pulmonology,2024-04-03,2024-04-08,ICU
+2072,731,ICU,2024-06-18,2024-06-27,Recovered
+2073,732,ICU,2024-01-11,2024-01-16,Recovered
+2074,732,Emergency,2024-01-22,2024-01-27,Recovered
+2075,732,ICU,2024-02-16,2024-02-19,Recovered
+2076,733,ICU,2024-01-14,2024-01-16,Recovered
+2077,733,Pulmonology,2024-02-02,2024-02-10,Recovered
+2078,734,Cardiology,2024-02-02,2024-02-12,Recovered
+2079,735,General Medicine,2024-02-23,2024-03-01,Deceased
+2080,736,General Medicine,2024-01-08,2024-01-17,Recovered
+2081,737,Neurology,2024-01-29,2024-02-07,Recovered
+2082,737,Pulmonology,2024-02-19,2024-02-24,Recovered
+2083,737,General Medicine,2024-04-06,2024-04-10,Recovered
+2084,737,Emergency,2024-04-28,2024-05-03,Recovered
+2085,738,General Medicine,2024-02-15,2024-02-17,Recovered
+2086,738,ICU,2024-03-02,2024-03-08,Recovered
+2087,738,Emergency,2024-03-22,2024-03-29,Recovered
+2088,739,ICU,2024-02-16,2024-02-20,ICU
+2089,739,ICU,2024-03-11,2024-03-21,Recovered
+2090,739,Cardiology,2024-03-27,2024-04-03,Recovered
+2091,739,Pulmonology,2024-04-28,2024-05-06,Recovered
+2092,739,General Medicine,2024-07-25,2024-08-04,Recovered
+2093,740,Emergency,2024-01-25,2024-02-03,ICU
+2094,740,Neurology,2024-02-16,2024-02-18,Deceased
+2095,741,Pulmonology,2024-01-21,2024-01-30,Recovered
+2096,741,Cardiology,2024-02-23,2024-02-29,Recovered
+2097,741,ICU,2024-03-11,2024-03-18,Recovered
+2098,742,ICU,2024-01-13,2024-01-23,Recovered
+2099,742,Emergency,2024-02-22,2024-02-26,Recovered
+2100,742,Emergency,2024-03-23,2024-03-25,Deceased
+2101,743,General Medicine,2024-02-26,2024-03-01,Recovered
+2102,743,ICU,2024-03-07,2024-03-09,Recovered
+2103,743,Pulmonology,2024-04-02,2024-04-11,Readmitted
+2104,743,Neurology,2024-04-26,2024-05-05,Recovered
+2105,743,ICU,2024-04-18,2024-04-26,Recovered
+2106,744,General Medicine,2024-02-18,2024-02-26,Recovered
+2107,744,Pulmonology,2024-03-22,2024-03-31,Recovered
+2108,744,ICU,2024-04-26,2024-05-01,Recovered
+2109,745,General Medicine,2024-01-26,2024-02-02,Recovered
+2110,745,Cardiology,2024-02-29,2024-03-09,ICU
+2111,746,Emergency,2024-01-26,2024-02-01,Recovered
+2112,746,Pulmonology,2024-02-26,2024-02-29,Readmitted
+2113,747,General Medicine,2024-02-01,2024-02-06,Recovered
+2114,747,General Medicine,2024-02-17,2024-02-26,Recovered
+2115,747,Emergency,2024-03-28,2024-03-31,Recovered
+2116,747,ICU,2024-05-13,2024-05-15,Recovered
+2117,748,Neurology,2024-01-20,2024-01-29,Deceased
+2118,749,Pulmonology,2024-01-12,2024-01-15,ICU
+2119,749,ICU,2024-01-27,2024-02-05,Recovered
+2120,749,Emergency,2024-02-03,2024-02-10,Readmitted
+2121,749,ICU,2024-04-29,2024-05-05,ICU
+2122,749,Cardiology,2024-06-16,2024-06-26,ICU
+2123,750,ICU,2024-02-07,2024-02-17,Recovered
+2124,750,Neurology,2024-02-27,2024-03-03,Recovered
+2125,750,ICU,2024-04-19,2024-04-27,ICU
+2126,750,ICU,2024-03-08,2024-03-13,Recovered
+2127,751,General Medicine,2024-02-03,2024-02-10,Readmitted
+2128,751,Pulmonology,2024-03-02,2024-03-04,Recovered
+2129,751,Emergency,2024-04-13,2024-04-22,Recovered
+2130,752,Emergency,2024-01-30,2024-02-04,ICU
+2131,752,Cardiology,2024-02-21,2024-02-24,Recovered
+2132,752,Pulmonology,2024-02-25,2024-02-27,Recovered
+2133,752,General Medicine,2024-05-08,2024-05-14,Recovered
+2134,753,General Medicine,2024-01-19,2024-01-27,ICU
+2135,753,General Medicine,2024-02-22,2024-02-24,Recovered
+2136,753,Pulmonology,2024-02-08,2024-02-11,Recovered
+2137,753,Emergency,2024-02-24,2024-03-03,Recovered
+2138,754,Cardiology,2024-01-13,2024-01-23,Recovered
+2139,754,Pulmonology,2024-02-04,2024-02-07,Recovered
+2140,754,General Medicine,2024-02-02,2024-02-10,Recovered
+2141,754,Cardiology,2024-04-06,2024-04-14,Deceased
+2142,755,Neurology,2024-01-13,2024-01-18,Readmitted
+2143,755,ICU,2024-02-06,2024-02-15,Recovered
+2144,755,Cardiology,2024-03-27,2024-03-31,Recovered
+2145,755,ICU,2024-02-15,2024-02-25,Recovered
+2146,755,Neurology,2024-05-04,2024-05-07,Readmitted
+2147,756,ICU,2024-01-05,2024-01-09,Recovered
+2148,756,Cardiology,2024-02-06,2024-02-09,Recovered
+2149,756,Cardiology,2024-02-14,2024-02-19,Recovered
+2150,756,General Medicine,2024-02-04,2024-02-08,Recovered
+2151,756,Pulmonology,2024-06-01,2024-06-10,Recovered
+2152,757,Cardiology,2024-01-30,2024-02-05,Recovered
+2153,757,Emergency,2024-02-12,2024-02-22,Recovered
+2154,757,ICU,2024-04-19,2024-04-21,Recovered
+2155,757,General Medicine,2024-02-29,2024-03-04,Recovered
+2156,758,Cardiology,2024-01-01,2024-01-04,Recovered
+2157,758,Emergency,2024-01-30,2024-02-03,Recovered
+2158,758,General Medicine,2024-02-10,2024-02-19,Recovered
+2159,759,ICU,2024-01-24,2024-01-29,ICU
+2160,759,Pulmonology,2024-02-25,2024-02-27,ICU
+2161,759,ICU,2024-03-06,2024-03-15,Recovered
+2162,759,Pulmonology,2024-05-20,2024-05-29,Recovered
+2163,759,General Medicine,2024-05-23,2024-06-02,ICU
+2164,760,Pulmonology,2024-02-25,2024-02-29,Recovered
+2165,761,General Medicine,2024-01-10,2024-01-20,Recovered
+2166,761,ICU,2024-01-25,2024-01-31,Readmitted
+2167,761,ICU,2024-02-29,2024-03-07,Deceased
+2168,762,Cardiology,2024-01-01,2024-01-08,ICU
+2169,762,Pulmonology,2024-01-24,2024-02-02,Recovered
+2170,762,Neurology,2024-03-09,2024-03-17,Recovered
+2171,762,Neurology,2024-04-12,2024-04-19,Recovered
+2172,763,ICU,2024-02-18,2024-02-22,Recovered
+2173,763,Emergency,2024-03-12,2024-03-14,Recovered
+2174,763,ICU,2024-04-22,2024-04-26,Recovered
+2175,763,Cardiology,2024-04-12,2024-04-17,Recovered
+2176,764,Emergency,2024-02-14,2024-02-17,Recovered
+2177,765,General Medicine,2024-02-12,2024-02-18,Readmitted
+2178,765,General Medicine,2024-02-27,2024-03-07,Recovered
+2179,765,General Medicine,2024-03-05,2024-03-10,Recovered
+2180,765,Neurology,2024-06-11,2024-06-17,Recovered
+2181,765,Neurology,2024-03-31,2024-04-06,Recovered
+2182,766,ICU,2024-02-25,2024-03-05,Recovered
+2183,766,General Medicine,2024-03-11,2024-03-19,Recovered
+2184,766,Pulmonology,2024-04-09,2024-04-15,ICU
+2185,766,Emergency,2024-05-07,2024-05-17,Recovered
+2186,767,Emergency,2024-02-09,2024-02-15,ICU
+2187,767,Emergency,2024-03-04,2024-03-12,Recovered
+2188,767,Emergency,2024-04-23,2024-04-26,Recovered
+2189,767,General Medicine,2024-06-05,2024-06-14,Recovered
+2190,768,Emergency,2024-01-08,2024-01-13,Recovered
+2191,768,Pulmonology,2024-01-24,2024-01-30,ICU
+2192,768,Cardiology,2024-02-21,2024-02-24,ICU
+2193,769,Emergency,2024-01-21,2024-01-30,ICU
+2194,770,Pulmonology,2024-02-12,2024-02-20,Recovered
+2195,770,Neurology,2024-03-23,2024-04-02,Recovered
+2196,770,Cardiology,2024-03-07,2024-03-16,Recovered
+2197,771,Cardiology,2024-01-11,2024-01-21,Recovered
+2198,771,ICU,2024-02-18,2024-02-26,Recovered
+2199,771,Neurology,2024-03-17,2024-03-21,Recovered
+2200,771,Cardiology,2024-02-25,2024-03-06,Recovered
+2201,771,Pulmonology,2024-03-31,2024-04-06,ICU
+2202,772,Neurology,2024-02-27,2024-03-02,Recovered
+2203,772,Emergency,2024-04-04,2024-04-07,ICU
+2204,773,Pulmonology,2024-02-28,2024-03-02,Recovered
+2205,773,ICU,2024-03-17,2024-03-24,Recovered
+2206,773,General Medicine,2024-03-23,2024-03-27,Recovered
+2207,773,Neurology,2024-05-28,2024-06-05,Recovered
+2208,773,Neurology,2024-06-27,2024-07-01,Recovered
+2209,774,Cardiology,2024-01-06,2024-01-14,Recovered
+2210,774,Emergency,2024-02-12,2024-02-15,ICU
+2211,775,Emergency,2024-01-13,2024-01-16,Recovered
+2212,776,Cardiology,2024-01-21,2024-01-24,Recovered
+2213,776,Cardiology,2024-02-03,2024-02-06,ICU
+2214,776,General Medicine,2024-02-24,2024-02-26,ICU
+2215,777,Cardiology,2024-02-17,2024-02-20,Recovered
+2216,778,Pulmonology,2024-01-31,2024-02-05,Recovered
+2217,778,ICU,2024-03-06,2024-03-09,Recovered
+2218,778,Pulmonology,2024-03-31,2024-04-10,Recovered
+2219,779,Cardiology,2024-01-04,2024-01-06,Recovered
+2220,779,Pulmonology,2024-02-02,2024-02-04,Recovered
+2221,779,ICU,2024-03-16,2024-03-24,Recovered
+2222,780,Pulmonology,2024-02-28,2024-03-05,Recovered
+2223,780,ICU,2024-03-16,2024-03-20,Recovered
+2224,781,Pulmonology,2024-02-01,2024-02-03,Readmitted
+2225,781,Emergency,2024-03-09,2024-03-14,Recovered
+2226,781,General Medicine,2024-03-26,2024-03-31,Recovered
+2227,781,Pulmonology,2024-04-04,2024-04-07,Recovered
+2228,781,ICU,2024-05-23,2024-05-28,Recovered
+2229,782,Neurology,2024-01-04,2024-01-06,ICU
+2230,782,Emergency,2024-02-02,2024-02-05,ICU
+2231,783,Pulmonology,2024-02-13,2024-02-20,Readmitted
+2232,783,Emergency,2024-02-24,2024-03-04,Recovered
+2233,783,Pulmonology,2024-03-12,2024-03-20,ICU
+2234,783,Cardiology,2024-03-20,2024-03-30,Recovered
+2235,784,Cardiology,2024-01-14,2024-01-20,Recovered
+2236,784,Cardiology,2024-01-30,2024-02-02,Recovered
+2237,784,General Medicine,2024-03-04,2024-03-07,Recovered
+2238,784,Emergency,2024-04-13,2024-04-18,ICU
+2239,785,Cardiology,2024-01-07,2024-01-14,Recovered
+2240,785,Neurology,2024-02-08,2024-02-16,Recovered
+2241,785,General Medicine,2024-02-08,2024-02-12,Readmitted
+2242,785,Emergency,2024-04-30,2024-05-03,Recovered
+2243,786,Cardiology,2024-01-06,2024-01-09,Recovered
+2244,786,Neurology,2024-01-26,2024-02-02,Recovered
+2245,786,Emergency,2024-02-09,2024-02-17,Recovered
+2246,786,General Medicine,2024-03-12,2024-03-17,Recovered
+2247,786,Cardiology,2024-05-17,2024-05-19,Deceased
+2248,787,Cardiology,2024-02-20,2024-02-29,ICU
+2249,787,Pulmonology,2024-03-07,2024-03-12,Recovered
+2250,788,Cardiology,2024-02-28,2024-03-07,ICU
+2251,789,Neurology,2024-02-08,2024-02-14,Recovered
+2252,789,Neurology,2024-02-27,2024-03-01,ICU
+2253,790,Pulmonology,2024-02-07,2024-02-16,ICU
+2254,790,Neurology,2024-02-18,2024-02-28,Recovered
+2255,790,ICU,2024-04-05,2024-04-12,Recovered
+2256,791,Emergency,2024-02-14,2024-02-21,Deceased
+2257,792,Cardiology,2024-02-19,2024-02-25,Deceased
+2258,793,Emergency,2024-02-12,2024-02-15,Recovered
+2259,793,Cardiology,2024-03-06,2024-03-09,Recovered
+2260,794,Neurology,2024-02-20,2024-02-24,ICU
+2261,794,ICU,2024-03-24,2024-03-30,Recovered
+2262,794,ICU,2024-05-06,2024-05-13,Recovered
+2263,794,Emergency,2024-03-24,2024-03-29,Recovered
+2264,795,ICU,2024-02-14,2024-02-24,Recovered
+2265,795,ICU,2024-03-10,2024-03-14,Recovered
+2266,796,Neurology,2024-01-31,2024-02-09,Recovered
+2267,797,ICU,2024-01-26,2024-02-04,Recovered
+2268,797,Cardiology,2024-02-09,2024-02-16,Recovered
+2269,797,Pulmonology,2024-03-08,2024-03-16,ICU
+2270,797,Pulmonology,2024-05-25,2024-06-01,Recovered
+2271,797,General Medicine,2024-03-30,2024-04-08,Recovered
+2272,798,General Medicine,2024-01-01,2024-01-10,Recovered
+2273,798,Neurology,2024-01-16,2024-01-23,Recovered
+2274,799,Neurology,2024-02-28,2024-03-04,Readmitted
+2275,799,Emergency,2024-04-07,2024-04-13,Recovered
+2276,799,General Medicine,2024-05-04,2024-05-13,Recovered
+2277,799,Neurology,2024-04-25,2024-04-29,ICU
+2278,800,ICU,2024-02-06,2024-02-09,Recovered
+2279,800,Emergency,2024-03-17,2024-03-27,ICU
+2280,800,Pulmonology,2024-03-09,2024-03-13,Recovered
+2281,801,ICU,2024-01-05,2024-01-09,Recovered
+2282,801,Neurology,2024-02-14,2024-02-20,Recovered
+2283,801,Neurology,2024-03-25,2024-04-03,Recovered
+2284,802,Neurology,2024-01-09,2024-01-15,Recovered
+2285,802,Neurology,2024-02-14,2024-02-17,Recovered
+2286,802,ICU,2024-02-24,2024-03-02,Recovered
+2287,802,Pulmonology,2024-03-09,2024-03-18,Recovered
+2288,802,Pulmonology,2024-05-04,2024-05-11,ICU
+2289,803,General Medicine,2024-02-19,2024-02-23,Recovered
+2290,803,Cardiology,2024-02-29,2024-03-08,Recovered
+2291,803,Cardiology,2024-03-18,2024-03-26,ICU
+2292,803,Neurology,2024-04-04,2024-04-11,Recovered
+2293,803,ICU,2024-06-22,2024-06-29,Recovered
+2294,804,Emergency,2024-02-29,2024-03-05,Recovered
+2295,804,Cardiology,2024-03-21,2024-03-25,Recovered
+2296,804,ICU,2024-04-13,2024-04-18,Recovered
+2297,804,Cardiology,2024-06-19,2024-06-24,ICU
+2298,804,Emergency,2024-07-14,2024-07-22,Recovered
+2299,805,Emergency,2024-01-09,2024-01-17,Recovered
+2300,805,Pulmonology,2024-02-10,2024-02-12,Recovered
+2301,806,Emergency,2024-02-24,2024-02-29,Recovered
+2302,806,Neurology,2024-03-05,2024-03-15,Recovered
+2303,807,Emergency,2024-02-21,2024-02-27,Recovered
+2304,807,Pulmonology,2024-03-20,2024-03-29,Readmitted
+2305,808,General Medicine,2024-02-12,2024-02-16,Recovered
+2306,808,Cardiology,2024-02-29,2024-03-07,Recovered
+2307,808,ICU,2024-03-27,2024-04-04,Recovered
+2308,809,Cardiology,2024-01-23,2024-01-27,Recovered
+2309,809,ICU,2024-02-02,2024-02-07,Recovered
+2310,809,Neurology,2024-03-03,2024-03-05,Recovered
+2311,809,Cardiology,2024-03-14,2024-03-16,Recovered
+2312,809,Cardiology,2024-03-03,2024-03-08,Recovered
+2313,810,General Medicine,2024-03-01,2024-03-07,Readmitted
+2314,811,Emergency,2024-01-03,2024-01-06,Recovered
+2315,811,Cardiology,2024-01-24,2024-01-31,Readmitted
+2316,812,Pulmonology,2024-02-03,2024-02-13,Recovered
+2317,813,ICU,2024-01-22,2024-01-31,ICU
+2318,813,Cardiology,2024-02-04,2024-02-13,Recovered
+2319,813,ICU,2024-03-14,2024-03-20,Recovered
+2320,814,Cardiology,2024-02-14,2024-02-23,Recovered
+2321,815,Cardiology,2024-02-12,2024-02-21,Recovered
+2322,815,Pulmonology,2024-03-02,2024-03-10,Recovered
+2323,815,Pulmonology,2024-03-27,2024-04-05,Recovered
+2324,815,Cardiology,2024-05-24,2024-05-27,Recovered
+2325,816,ICU,2024-02-26,2024-03-06,Recovered
+2326,816,ICU,2024-03-28,2024-03-31,Recovered
+2327,816,General Medicine,2024-04-20,2024-04-30,Recovered
+2328,817,General Medicine,2024-01-21,2024-01-23,ICU
+2329,817,General Medicine,2024-02-21,2024-02-27,Recovered
+2330,817,Pulmonology,2024-03-31,2024-04-08,Recovered
+2331,817,ICU,2024-05-17,2024-05-27,Recovered
+2332,817,Emergency,2024-05-24,2024-05-28,Readmitted
+2333,818,Pulmonology,2024-02-02,2024-02-07,Recovered
+2334,819,Cardiology,2024-01-12,2024-01-16,ICU
+2335,819,ICU,2024-02-12,2024-02-15,ICU
+2336,820,Pulmonology,2024-01-25,2024-02-02,Recovered
+2337,821,Pulmonology,2024-01-19,2024-01-24,Recovered
+2338,821,Neurology,2024-02-05,2024-02-10,Recovered
+2339,821,ICU,2024-03-11,2024-03-21,ICU
+2340,822,Emergency,2024-01-20,2024-01-30,Recovered
+2341,822,Pulmonology,2024-02-12,2024-02-15,Recovered
+2342,822,Cardiology,2024-03-22,2024-03-31,Recovered
+2343,822,Cardiology,2024-03-05,2024-03-13,Recovered
+2344,823,Emergency,2024-01-27,2024-02-03,Recovered
+2345,823,Neurology,2024-02-08,2024-02-16,Recovered
+2346,823,Neurology,2024-03-25,2024-04-04,Recovered
+2347,824,Neurology,2024-01-17,2024-01-21,ICU
+2348,824,Pulmonology,2024-02-08,2024-02-14,Recovered
+2349,824,Emergency,2024-03-27,2024-04-02,Recovered
+2350,824,Cardiology,2024-04-10,2024-04-15,Recovered
+2351,825,Cardiology,2024-01-09,2024-01-14,Recovered
+2352,826,Emergency,2024-01-02,2024-01-12,Recovered
+2353,827,ICU,2024-01-28,2024-02-07,Recovered
+2354,827,Pulmonology,2024-02-21,2024-03-01,Recovered
+2355,827,General Medicine,2024-03-12,2024-03-20,Recovered
+2356,827,Emergency,2024-03-31,2024-04-07,Recovered
+2357,828,General Medicine,2024-02-08,2024-02-16,Recovered
+2358,828,ICU,2024-03-06,2024-03-16,ICU
+2359,828,ICU,2024-04-22,2024-04-25,Recovered
+2360,828,Neurology,2024-03-30,2024-04-06,ICU
+2361,828,Pulmonology,2024-06-15,2024-06-17,Recovered
+2362,829,Pulmonology,2024-01-20,2024-01-27,Recovered
+2363,829,ICU,2024-02-29,2024-03-06,Recovered
+2364,829,Neurology,2024-03-18,2024-03-27,ICU
+2365,829,ICU,2024-02-28,2024-03-04,Recovered
+2366,829,Neurology,2024-06-24,2024-07-02,Recovered
+2367,830,Pulmonology,2024-01-25,2024-02-01,Recovered
+2368,830,ICU,2024-02-06,2024-02-12,Recovered
+2369,830,ICU,2024-03-13,2024-03-23,Recovered
+2370,831,Neurology,2024-01-11,2024-01-13,Recovered
+2371,831,Neurology,2024-02-03,2024-02-07,Recovered
+2372,831,Cardiology,2024-02-20,2024-02-26,Recovered
+2373,831,Emergency,2024-02-13,2024-02-15,Recovered
+2374,831,General Medicine,2024-05-06,2024-05-10,Recovered
+2375,832,ICU,2024-01-26,2024-02-03,ICU
+2376,833,General Medicine,2024-01-10,2024-01-17,Recovered
+2377,833,Emergency,2024-01-23,2024-01-26,Recovered
+2378,833,General Medicine,2024-03-12,2024-03-18,ICU
+2379,833,ICU,2024-03-10,2024-03-14,Recovered
+2380,834,Cardiology,2024-02-11,2024-02-17,Readmitted
+2381,834,Emergency,2024-03-16,2024-03-23,Deceased
+2382,835,Emergency,2024-01-20,2024-01-27,Readmitted
+2383,835,General Medicine,2024-02-29,2024-03-04,Recovered
+2384,836,General Medicine,2024-02-07,2024-02-13,Recovered
+2385,836,Emergency,2024-03-02,2024-03-11,ICU
+2386,836,General Medicine,2024-04-25,2024-05-05,Recovered
+2387,836,General Medicine,2024-05-25,2024-05-28,Recovered
+2388,837,Pulmonology,2024-01-22,2024-01-25,ICU
+2389,838,ICU,2024-02-03,2024-02-05,Recovered
+2390,838,General Medicine,2024-03-05,2024-03-15,ICU
+2391,838,Pulmonology,2024-03-20,2024-03-22,ICU
+2392,838,ICU,2024-05-06,2024-05-09,Recovered
+2393,839,Pulmonology,2024-02-29,2024-03-05,Recovered
+2394,840,Cardiology,2024-01-30,2024-02-03,Recovered
+2395,840,Cardiology,2024-02-22,2024-02-26,Recovered
+2396,840,ICU,2024-03-08,2024-03-14,Recovered
+2397,841,ICU,2024-02-24,2024-03-03,ICU
+2398,841,General Medicine,2024-04-01,2024-04-10,Recovered
+2399,841,Neurology,2024-04-24,2024-04-30,ICU
+2400,841,Cardiology,2024-06-11,2024-06-13,Recovered
+2401,841,Emergency,2024-04-12,2024-04-21,Readmitted
+2402,842,ICU,2024-01-22,2024-01-30,Recovered
+2403,843,Pulmonology,2024-02-07,2024-02-14,Recovered
+2404,843,Emergency,2024-03-13,2024-03-15,Readmitted
+2405,844,Emergency,2024-02-17,2024-02-22,ICU
+2406,844,Cardiology,2024-03-14,2024-03-16,Readmitted
+2407,844,ICU,2024-03-26,2024-04-02,Recovered
+2408,844,Pulmonology,2024-03-24,2024-03-31,Recovered
+2409,844,Emergency,2024-07-14,2024-07-17,Recovered
+2410,845,Emergency,2024-02-24,2024-03-04,ICU
+2411,845,Emergency,2024-04-01,2024-04-04,Recovered
+2412,845,Pulmonology,2024-04-12,2024-04-17,Recovered
+2413,845,ICU,2024-06-02,2024-06-09,Recovered
+2414,846,Cardiology,2024-01-09,2024-01-16,Readmitted
+2415,846,Cardiology,2024-02-04,2024-02-09,Recovered
+2416,846,Neurology,2024-03-07,2024-03-14,Recovered
+2417,847,Cardiology,2024-01-20,2024-01-29,Recovered
+2418,847,Cardiology,2024-02-17,2024-02-26,Recovered
+2419,848,General Medicine,2024-02-04,2024-02-13,Recovered
+2420,848,ICU,2024-03-14,2024-03-22,Recovered
+2421,849,Pulmonology,2024-01-26,2024-01-31,Recovered
+2422,849,General Medicine,2024-02-06,2024-02-14,Readmitted
+2423,849,Cardiology,2024-03-14,2024-03-21,Recovered
+2424,850,General Medicine,2024-01-26,2024-02-01,ICU
+2425,851,Emergency,2024-01-14,2024-01-24,Recovered
+2426,851,Cardiology,2024-01-30,2024-02-08,Recovered
+2427,851,Cardiology,2024-02-09,2024-02-17,Recovered
+2428,852,Neurology,2024-01-03,2024-01-11,Recovered
+2429,852,Cardiology,2024-02-03,2024-02-11,Readmitted
+2430,852,General Medicine,2024-02-06,2024-02-14,Recovered
+2431,852,Pulmonology,2024-03-24,2024-03-27,Readmitted
+2432,853,Cardiology,2024-01-03,2024-01-08,Recovered
+2433,853,Cardiology,2024-02-07,2024-02-17,Recovered
+2434,853,General Medicine,2024-02-14,2024-02-24,Recovered
+2435,854,Cardiology,2024-02-18,2024-02-21,Recovered
+2436,854,General Medicine,2024-03-10,2024-03-18,Recovered
+2437,854,Emergency,2024-04-08,2024-04-17,Recovered
+2438,854,Cardiology,2024-05-09,2024-05-14,Recovered
+2439,854,Cardiology,2024-04-18,2024-04-27,ICU
+2440,855,Pulmonology,2024-02-07,2024-02-10,Recovered
+2441,855,Cardiology,2024-02-23,2024-02-25,Recovered
+2442,855,Emergency,2024-04-07,2024-04-14,Recovered
+2443,855,Emergency,2024-05-31,2024-06-04,ICU
+2444,856,Neurology,2024-01-21,2024-01-29,Recovered
+2445,856,ICU,2024-02-29,2024-03-07,Recovered
+2446,856,Neurology,2024-02-12,2024-02-14,Recovered
+2447,857,ICU,2024-01-07,2024-01-16,Deceased
+2448,858,Neurology,2024-02-18,2024-02-20,Readmitted
+2449,859,Neurology,2024-02-14,2024-02-24,Readmitted
+2450,860,General Medicine,2024-02-10,2024-02-20,Recovered
+2451,860,Pulmonology,2024-02-29,2024-03-10,Recovered
+2452,860,General Medicine,2024-03-31,2024-04-09,Recovered
+2453,860,Emergency,2024-06-09,2024-06-15,ICU
+2454,861,Emergency,2024-02-27,2024-03-07,Recovered
+2455,861,Pulmonology,2024-03-14,2024-03-23,Recovered
+2456,861,General Medicine,2024-04-13,2024-04-20,Recovered
+2457,862,Pulmonology,2024-01-05,2024-01-13,Recovered
+2458,863,Cardiology,2024-02-27,2024-03-07,Recovered
+2459,863,ICU,2024-03-25,2024-03-31,Recovered
+2460,864,Cardiology,2024-01-08,2024-01-13,Recovered
+2461,864,Cardiology,2024-01-20,2024-01-26,Readmitted
+2462,864,Neurology,2024-03-16,2024-03-23,Recovered
+2463,865,ICU,2024-02-13,2024-02-15,Readmitted
+2464,866,Emergency,2024-02-08,2024-02-14,Recovered
+2465,866,Emergency,2024-02-24,2024-02-28,Recovered
+2466,866,General Medicine,2024-04-14,2024-04-17,Recovered
+2467,866,ICU,2024-03-21,2024-03-31,Readmitted
+2468,866,ICU,2024-04-20,2024-04-25,Recovered
+2469,867,ICU,2024-01-24,2024-02-01,Recovered
+2470,867,Cardiology,2024-02-12,2024-02-22,ICU
+2471,867,Neurology,2024-02-17,2024-02-20,ICU
+2472,868,Pulmonology,2024-01-03,2024-01-09,Recovered
+2473,868,ICU,2024-01-13,2024-01-20,Recovered
+2474,868,Emergency,2024-01-23,2024-01-27,Recovered
+2475,869,Pulmonology,2024-01-20,2024-01-22,Recovered
+2476,870,ICU,2024-03-01,2024-03-04,Recovered
+2477,870,Neurology,2024-04-09,2024-04-13,Recovered
+2478,870,Pulmonology,2024-05-06,2024-05-09,Recovered
+2479,871,General Medicine,2024-01-16,2024-01-18,Recovered
+2480,871,Cardiology,2024-02-15,2024-02-17,Readmitted
+2481,871,Cardiology,2024-03-24,2024-04-03,Recovered
+2482,871,Emergency,2024-03-04,2024-03-13,Recovered
+2483,872,Pulmonology,2024-02-06,2024-02-11,Recovered
+2484,872,Cardiology,2024-02-22,2024-02-28,ICU
+2485,872,Neurology,2024-03-11,2024-03-21,Deceased
+2486,873,Neurology,2024-03-01,2024-03-10,Recovered
+2487,874,ICU,2024-01-15,2024-01-23,Recovered
+2488,874,Neurology,2024-02-14,2024-02-21,Recovered
+2489,874,Cardiology,2024-04-02,2024-04-11,Recovered
+2490,874,Neurology,2024-04-05,2024-04-12,Recovered
+2491,875,Cardiology,2024-01-21,2024-01-26,Recovered
+2492,875,General Medicine,2024-02-16,2024-02-18,ICU
+2493,875,Pulmonology,2024-03-07,2024-03-14,Recovered
+2494,875,ICU,2024-05-14,2024-05-16,ICU
+2495,875,ICU,2024-06-21,2024-06-23,Recovered
+2496,876,Pulmonology,2024-01-06,2024-01-15,Recovered
+2497,876,Cardiology,2024-01-30,2024-02-05,Recovered
+2498,876,Pulmonology,2024-02-07,2024-02-15,ICU
+2499,876,Neurology,2024-03-03,2024-03-11,Recovered
+2500,876,Cardiology,2024-05-01,2024-05-05,Recovered
+2501,877,Cardiology,2024-01-04,2024-01-08,Recovered
+2502,877,Emergency,2024-02-11,2024-02-17,Recovered
+2503,877,Emergency,2024-02-01,2024-02-04,Recovered
+2504,878,Neurology,2024-01-10,2024-01-17,Recovered
+2505,878,Emergency,2024-01-22,2024-01-31,Readmitted
+2506,878,Pulmonology,2024-03-28,2024-03-30,Recovered
+2507,878,Neurology,2024-03-25,2024-03-30,Recovered
+2508,878,Emergency,2024-04-23,2024-04-30,Recovered
+2509,879,Emergency,2024-01-15,2024-01-20,Recovered
+2510,879,General Medicine,2024-02-19,2024-02-29,Readmitted
+2511,879,Pulmonology,2024-03-27,2024-03-30,ICU
+2512,880,ICU,2024-02-07,2024-02-14,Recovered
+2513,880,Pulmonology,2024-03-11,2024-03-13,Recovered
+2514,880,Cardiology,2024-04-15,2024-04-20,Recovered
+2515,881,ICU,2024-01-09,2024-01-15,Recovered
+2516,882,Emergency,2024-02-14,2024-02-18,Recovered
+2517,882,Cardiology,2024-03-05,2024-03-15,Recovered
+2518,882,Neurology,2024-04-08,2024-04-11,Recovered
+2519,882,Emergency,2024-06-13,2024-06-22,Readmitted
+2520,882,General Medicine,2024-04-18,2024-04-23,Readmitted
+2521,883,Emergency,2024-02-26,2024-02-29,Recovered
+2522,884,ICU,2024-01-17,2024-01-24,Recovered
+2523,884,General Medicine,2024-01-29,2024-01-31,Recovered
+2524,885,Emergency,2024-02-15,2024-02-18,Recovered
+2525,885,Emergency,2024-02-29,2024-03-08,Recovered
+2526,885,Neurology,2024-03-06,2024-03-10,Recovered
+2527,885,Neurology,2024-06-14,2024-06-24,Recovered
+2528,885,ICU,2024-06-02,2024-06-04,Recovered
+2529,886,Emergency,2024-01-08,2024-01-12,Recovered
+2530,887,Cardiology,2024-01-24,2024-02-01,Readmitted
+2531,887,ICU,2024-02-07,2024-02-17,ICU
+2532,888,Pulmonology,2024-02-28,2024-03-09,Readmitted
+2533,888,Cardiology,2024-03-31,2024-04-09,Recovered
+2534,889,General Medicine,2024-02-10,2024-02-17,Recovered
+2535,889,Emergency,2024-02-26,2024-03-04,Recovered
+2536,889,Neurology,2024-03-05,2024-03-13,Recovered
+2537,890,Pulmonology,2024-02-18,2024-02-20,ICU
+2538,891,Neurology,2024-03-01,2024-03-10,ICU
+2539,891,General Medicine,2024-04-10,2024-04-12,ICU
+2540,891,General Medicine,2024-04-18,2024-04-27,Recovered
+2541,891,Neurology,2024-05-15,2024-05-17,ICU
+2542,892,ICU,2024-01-23,2024-01-30,Readmitted
+2543,892,ICU,2024-02-26,2024-03-07,Recovered
+2544,892,Neurology,2024-03-05,2024-03-13,Readmitted
+2545,892,Emergency,2024-04-01,2024-04-10,Recovered
+2546,893,Neurology,2024-02-15,2024-02-19,Recovered
+2547,893,Neurology,2024-03-15,2024-03-24,Recovered
+2548,893,Emergency,2024-04-19,2024-04-26,Deceased
+2549,894,Cardiology,2024-02-02,2024-02-11,Recovered
+2550,894,ICU,2024-02-25,2024-03-02,Recovered
+2551,894,ICU,2024-04-04,2024-04-06,ICU
+2552,895,ICU,2024-02-03,2024-02-10,Recovered
+2553,896,General Medicine,2024-02-26,2024-03-05,Recovered
+2554,896,Emergency,2024-03-10,2024-03-14,Recovered
+2555,896,Neurology,2024-04-18,2024-04-28,Recovered
+2556,897,Neurology,2024-02-08,2024-02-13,Recovered
+2557,897,Neurology,2024-02-20,2024-02-23,ICU
+2558,898,Emergency,2024-01-03,2024-01-07,Recovered
+2559,898,Emergency,2024-02-07,2024-02-11,Recovered
+2560,898,Pulmonology,2024-02-10,2024-02-16,ICU
+2561,898,ICU,2024-02-29,2024-03-08,Deceased
+2562,899,ICU,2024-01-23,2024-01-25,Recovered
+2563,899,Emergency,2024-02-26,2024-03-02,Recovered
+2564,899,Cardiology,2024-04-08,2024-04-13,ICU
+2565,899,General Medicine,2024-04-19,2024-04-21,Readmitted
+2566,900,Pulmonology,2024-02-26,2024-03-03,Recovered
+2567,900,Emergency,2024-03-21,2024-03-29,ICU
+2568,900,Emergency,2024-05-08,2024-05-12,Deceased
+2569,901,ICU,2024-01-22,2024-01-30,Recovered
+2570,901,Emergency,2024-02-21,2024-02-24,Recovered
+2571,901,General Medicine,2024-04-09,2024-04-16,Recovered
+2572,901,Neurology,2024-05-15,2024-05-23,Recovered
+2573,902,Neurology,2024-01-30,2024-02-05,ICU
+2574,902,Emergency,2024-02-12,2024-02-19,Recovered
+2575,902,General Medicine,2024-04-07,2024-04-12,Recovered
+2576,902,Emergency,2024-04-02,2024-04-08,Recovered
+2577,902,Cardiology,2024-07-04,2024-07-09,Recovered
+2578,903,Pulmonology,2024-01-28,2024-02-06,Recovered
+2579,904,General Medicine,2024-01-26,2024-01-31,Recovered
+2580,904,Neurology,2024-02-27,2024-03-03,Recovered
+2581,904,Cardiology,2024-04-09,2024-04-18,Readmitted
+2582,904,Emergency,2024-02-28,2024-03-05,Recovered
+2583,905,Neurology,2024-01-03,2024-01-09,Recovered
+2584,905,General Medicine,2024-02-06,2024-02-10,Recovered
+2585,906,Neurology,2024-02-16,2024-02-22,Recovered
+2586,906,Emergency,2024-03-17,2024-03-26,Recovered
+2587,906,ICU,2024-04-18,2024-04-21,Recovered
+2588,906,Neurology,2024-06-09,2024-06-11,Recovered
+2589,907,Neurology,2024-02-01,2024-02-04,ICU
+2590,908,Neurology,2024-02-09,2024-02-12,Recovered
+2591,908,Emergency,2024-02-20,2024-02-26,ICU
+2592,908,Neurology,2024-04-11,2024-04-15,Recovered
+2593,908,Pulmonology,2024-05-03,2024-05-07,ICU
+2594,908,Pulmonology,2024-07-18,2024-07-24,Recovered
+2595,909,Cardiology,2024-01-17,2024-01-19,Recovered
+2596,909,Neurology,2024-02-08,2024-02-11,Recovered
+2597,909,Pulmonology,2024-02-20,2024-02-28,Recovered
+2598,909,ICU,2024-02-25,2024-02-28,Recovered
+2599,909,Pulmonology,2024-02-26,2024-03-07,ICU
+2600,910,Emergency,2024-01-13,2024-01-22,Recovered
+2601,911,Emergency,2024-01-29,2024-02-06,Recovered
+2602,911,Neurology,2024-03-01,2024-03-08,Recovered
+2603,911,Neurology,2024-04-04,2024-04-09,Recovered
+2604,912,Neurology,2024-01-24,2024-01-31,Recovered
+2605,913,Emergency,2024-02-21,2024-02-26,Recovered
+2606,913,Pulmonology,2024-03-08,2024-03-11,Deceased
+2607,914,General Medicine,2024-02-22,2024-02-25,Recovered
+2608,914,Cardiology,2024-03-24,2024-04-02,Recovered
+2609,915,Neurology,2024-01-22,2024-02-01,Recovered
+2610,916,General Medicine,2024-02-05,2024-02-07,ICU
+2611,916,Pulmonology,2024-03-11,2024-03-17,Recovered
+2612,917,Cardiology,2024-01-17,2024-01-25,Recovered
+2613,917,Pulmonology,2024-02-14,2024-02-19,Recovered
+2614,918,Neurology,2024-02-11,2024-02-21,Readmitted
+2615,918,Pulmonology,2024-03-09,2024-03-16,Recovered
+2616,918,ICU,2024-03-28,2024-04-03,Recovered
+2617,918,Cardiology,2024-03-27,2024-03-31,Recovered
+2618,918,Emergency,2024-05-13,2024-05-18,Recovered
+2619,919,Neurology,2024-01-19,2024-01-27,Recovered
+2620,919,Cardiology,2024-02-05,2024-02-11,ICU
+2621,919,Pulmonology,2024-02-14,2024-02-22,ICU
+2622,919,Emergency,2024-03-10,2024-03-15,ICU
+2623,920,ICU,2024-01-23,2024-01-30,Readmitted
+2624,920,ICU,2024-02-13,2024-02-23,Readmitted
+2625,920,General Medicine,2024-02-26,2024-03-01,Recovered
+2626,920,Pulmonology,2024-04-10,2024-04-19,Recovered
+2627,920,Pulmonology,2024-05-22,2024-06-01,Recovered
+2628,921,ICU,2024-01-08,2024-01-14,Recovered
+2629,921,ICU,2024-02-09,2024-02-17,Recovered
+2630,921,Cardiology,2024-02-27,2024-03-02,Recovered
+2631,921,Neurology,2024-02-19,2024-02-27,Recovered
+2632,922,ICU,2024-02-27,2024-03-02,Readmitted
+2633,922,ICU,2024-04-02,2024-04-08,Recovered
+2634,923,Cardiology,2024-01-23,2024-01-28,Recovered
+2635,924,Neurology,2024-02-25,2024-03-01,Recovered
+2636,924,ICU,2024-03-31,2024-04-06,Deceased
+2637,925,Neurology,2024-01-28,2024-02-03,ICU
+2638,925,Cardiology,2024-02-13,2024-02-21,Recovered
+2639,925,Pulmonology,2024-03-20,2024-03-26,Recovered
+2640,926,Emergency,2024-01-01,2024-01-03,Recovered
+2641,926,Neurology,2024-01-28,2024-02-05,Recovered
+2642,926,Emergency,2024-03-01,2024-03-03,Recovered
+2643,926,ICU,2024-03-10,2024-03-15,Readmitted
+2644,927,Cardiology,2024-01-01,2024-01-03,Recovered
+2645,928,Emergency,2024-01-25,2024-01-29,Recovered
+2646,929,General Medicine,2024-01-07,2024-01-13,Recovered
+2647,929,Cardiology,2024-01-30,2024-02-07,Deceased
+2648,930,General Medicine,2024-01-30,2024-02-05,Readmitted
+2649,930,Pulmonology,2024-02-18,2024-02-21,Recovered
+2650,930,Pulmonology,2024-03-26,2024-03-29,Readmitted
+2651,931,Emergency,2024-01-13,2024-01-18,ICU
+2652,932,Neurology,2024-01-11,2024-01-14,Recovered
+2653,932,ICU,2024-01-26,2024-02-02,ICU
+2654,932,Emergency,2024-03-13,2024-03-17,Recovered
+2655,932,Neurology,2024-04-13,2024-04-22,Recovered
+2656,932,Neurology,2024-04-04,2024-04-08,Recovered
+2657,933,ICU,2024-01-28,2024-02-04,Recovered
+2658,933,General Medicine,2024-02-23,2024-02-25,Recovered
+2659,934,Emergency,2024-01-12,2024-01-16,Recovered
+2660,934,ICU,2024-01-31,2024-02-07,ICU
+2661,934,Cardiology,2024-03-20,2024-03-28,ICU
+2662,935,Emergency,2024-01-09,2024-01-14,Recovered
+2663,935,Pulmonology,2024-01-30,2024-02-01,Recovered
+2664,935,General Medicine,2024-03-23,2024-03-28,Recovered
+2665,935,ICU,2024-02-11,2024-02-14,Recovered
+2666,936,General Medicine,2024-01-24,2024-02-01,Recovered
+2667,936,Pulmonology,2024-02-14,2024-02-23,Recovered
+2668,936,General Medicine,2024-02-13,2024-02-15,Readmitted
+2669,936,Pulmonology,2024-03-15,2024-03-22,Recovered
+2670,937,Emergency,2024-02-21,2024-03-01,Deceased
+2671,938,General Medicine,2024-02-18,2024-02-20,Recovered
+2672,938,Neurology,2024-03-25,2024-03-28,Recovered
+2673,938,Cardiology,2024-05-04,2024-05-11,Recovered
+2674,938,Neurology,2024-05-24,2024-05-26,Recovered
+2675,939,Emergency,2024-01-13,2024-01-21,Recovered
+2676,939,Cardiology,2024-02-05,2024-02-13,Recovered
+2677,939,Cardiology,2024-03-23,2024-03-28,Recovered
+2678,939,Pulmonology,2024-03-19,2024-03-25,Recovered
+2679,940,Emergency,2024-02-05,2024-02-15,Recovered
+2680,941,Emergency,2024-01-23,2024-01-25,Recovered
+2681,941,ICU,2024-02-07,2024-02-14,ICU
+2682,941,Neurology,2024-03-27,2024-04-04,Recovered
+2683,941,ICU,2024-04-16,2024-04-20,Recovered
+2684,941,Pulmonology,2024-05-22,2024-05-25,Recovered
+2685,942,Neurology,2024-02-19,2024-02-26,Recovered
+2686,942,General Medicine,2024-03-30,2024-04-08,Recovered
+2687,942,ICU,2024-03-26,2024-04-02,Recovered
+2688,942,Neurology,2024-06-18,2024-06-21,Recovered
+2689,942,Pulmonology,2024-05-21,2024-05-23,Recovered
+2690,943,Neurology,2024-01-31,2024-02-10,Recovered
+2691,943,Neurology,2024-02-13,2024-02-18,Recovered
+2692,943,Emergency,2024-04-14,2024-04-24,ICU
+2693,944,Neurology,2024-01-04,2024-01-08,ICU
+2694,944,Emergency,2024-01-29,2024-02-02,Recovered
+2695,944,ICU,2024-02-09,2024-02-16,Recovered
+2696,944,ICU,2024-03-10,2024-03-15,Recovered
+2697,945,ICU,2024-01-20,2024-01-30,Recovered
+2698,945,Neurology,2024-02-12,2024-02-21,Recovered
+2699,945,Cardiology,2024-03-12,2024-03-22,Recovered
+2700,945,Neurology,2024-03-17,2024-03-20,Recovered
+2701,945,General Medicine,2024-03-16,2024-03-18,Recovered
+2702,946,General Medicine,2024-01-25,2024-01-31,Recovered
+2703,946,Neurology,2024-02-11,2024-02-14,Recovered
+2704,946,Emergency,2024-02-24,2024-03-05,Recovered
+2705,946,Cardiology,2024-03-10,2024-03-15,Recovered
+2706,947,General Medicine,2024-01-17,2024-01-21,Recovered
+2707,947,General Medicine,2024-02-02,2024-02-09,ICU
+2708,947,Neurology,2024-03-29,2024-03-31,Recovered
+2709,948,Emergency,2024-01-04,2024-01-11,Recovered
+2710,948,Cardiology,2024-02-10,2024-02-13,Readmitted
+2711,948,Pulmonology,2024-03-22,2024-03-28,Readmitted
+2712,949,Pulmonology,2024-02-13,2024-02-15,Recovered
+2713,949,Cardiology,2024-03-13,2024-03-21,Recovered
+2714,949,ICU,2024-03-18,2024-03-26,ICU
+2715,949,Emergency,2024-04-16,2024-04-19,Recovered
+2716,949,ICU,2024-05-03,2024-05-05,Recovered
+2717,950,Pulmonology,2024-02-23,2024-03-04,Recovered
+2718,950,ICU,2024-04-01,2024-04-11,Recovered
+2719,950,Neurology,2024-04-13,2024-04-18,Recovered
+2720,950,Cardiology,2024-06-13,2024-06-21,Recovered
+2721,951,General Medicine,2024-02-03,2024-02-05,Readmitted
+2722,952,Neurology,2024-02-17,2024-02-23,Recovered
+2723,952,ICU,2024-03-23,2024-03-27,Recovered
+2724,952,Pulmonology,2024-03-16,2024-03-18,Deceased
+2725,953,General Medicine,2024-02-22,2024-02-26,Recovered
+2726,954,ICU,2024-02-17,2024-02-26,Recovered
+2727,955,General Medicine,2024-01-01,2024-01-06,Readmitted
+2728,955,General Medicine,2024-01-19,2024-01-23,Recovered
+2729,955,Emergency,2024-02-14,2024-02-19,Recovered
+2730,955,Pulmonology,2024-02-12,2024-02-21,Recovered
+2731,956,Emergency,2024-03-01,2024-03-05,Recovered
+2732,956,Pulmonology,2024-03-24,2024-03-29,Recovered
+2733,956,Pulmonology,2024-05-20,2024-05-29,Recovered
+2734,956,Emergency,2024-04-15,2024-04-20,Recovered
+2735,956,Neurology,2024-07-27,2024-08-05,Recovered
+2736,957,General Medicine,2024-02-22,2024-02-29,Recovered
+2737,958,General Medicine,2024-02-24,2024-03-04,Recovered
+2738,959,Cardiology,2024-02-20,2024-02-27,Recovered
+2739,960,Neurology,2024-01-18,2024-01-20,Recovered
+2740,961,Pulmonology,2024-02-21,2024-02-23,Recovered
+2741,961,ICU,2024-03-19,2024-03-24,Recovered
+2742,962,ICU,2024-01-30,2024-02-09,Recovered
+2743,963,Pulmonology,2024-01-31,2024-02-06,Recovered
+2744,963,ICU,2024-03-04,2024-03-10,Recovered
+2745,963,Pulmonology,2024-04-02,2024-04-05,ICU
+2746,964,Emergency,2024-02-06,2024-02-13,Recovered
+2747,964,ICU,2024-03-09,2024-03-19,Recovered
+2748,964,Neurology,2024-04-06,2024-04-10,Recovered
+2749,965,General Medicine,2024-02-05,2024-02-09,Readmitted
+2750,966,General Medicine,2024-02-25,2024-03-01,Recovered
+2751,966,Pulmonology,2024-03-17,2024-03-23,Recovered
+2752,966,Pulmonology,2024-04-25,2024-05-02,Recovered
+2753,966,ICU,2024-06-21,2024-06-30,Recovered
+2754,967,Cardiology,2024-01-21,2024-01-29,Recovered
+2755,967,Neurology,2024-02-05,2024-02-08,ICU
+2756,967,ICU,2024-03-19,2024-03-24,Readmitted
+2757,967,Neurology,2024-04-29,2024-05-05,Recovered
+2758,967,General Medicine,2024-06-01,2024-06-06,ICU
+2759,968,ICU,2024-02-14,2024-02-17,Recovered
+2760,968,Cardiology,2024-03-16,2024-03-22,Recovered
+2761,968,Neurology,2024-05-04,2024-05-14,ICU
+2762,969,Neurology,2024-02-02,2024-02-11,ICU
+2763,970,Emergency,2024-01-28,2024-02-04,Recovered
+2764,970,Cardiology,2024-03-02,2024-03-05,Recovered
+2765,970,ICU,2024-04-07,2024-04-17,Recovered
+2766,970,Emergency,2024-04-09,2024-04-14,Recovered
+2767,971,ICU,2024-02-25,2024-03-06,Recovered
+2768,971,Neurology,2024-04-04,2024-04-07,Recovered
+2769,971,Cardiology,2024-05-11,2024-05-17,Recovered
+2770,971,Pulmonology,2024-06-21,2024-06-26,Readmitted
+2771,971,Emergency,2024-04-17,2024-04-23,ICU
+2772,972,General Medicine,2024-02-01,2024-02-03,Recovered
+2773,972,Cardiology,2024-02-18,2024-02-21,ICU
+2774,972,Neurology,2024-03-26,2024-03-29,Recovered
+2775,972,Emergency,2024-03-05,2024-03-08,Readmitted
+2776,972,Emergency,2024-06-16,2024-06-24,Recovered
+2777,973,Pulmonology,2024-01-22,2024-01-27,ICU
+2778,973,ICU,2024-02-12,2024-02-17,Recovered
+2779,973,Neurology,2024-03-30,2024-04-08,ICU
+2780,974,General Medicine,2024-01-11,2024-01-19,Recovered
+2781,975,Pulmonology,2024-01-14,2024-01-22,Recovered
+2782,975,ICU,2024-01-28,2024-02-06,Recovered
+2783,975,ICU,2024-03-08,2024-03-10,Recovered
+2784,975,Cardiology,2024-03-29,2024-04-08,ICU
+2785,975,General Medicine,2024-05-21,2024-05-25,ICU
+2786,976,Cardiology,2024-02-27,2024-03-08,Recovered
+2787,976,ICU,2024-04-02,2024-04-08,Recovered
+2788,977,Cardiology,2024-02-06,2024-02-08,Recovered
+2789,978,Neurology,2024-02-02,2024-02-06,ICU
+2790,979,Neurology,2024-01-25,2024-02-03,Recovered
+2791,980,Emergency,2024-02-29,2024-03-06,Recovered
+2792,980,Emergency,2024-03-15,2024-03-23,Recovered
+2793,981,Neurology,2024-01-19,2024-01-21,Recovered
+2794,981,Pulmonology,2024-02-03,2024-02-13,Readmitted
+2795,981,Pulmonology,2024-03-19,2024-03-25,Recovered
+2796,981,General Medicine,2024-03-13,2024-03-16,Recovered
+2797,982,Cardiology,2024-01-09,2024-01-13,Recovered
+2798,982,General Medicine,2024-02-11,2024-02-15,Recovered
+2799,982,General Medicine,2024-02-18,2024-02-24,Readmitted
+2800,982,Cardiology,2024-04-08,2024-04-10,Recovered
+2801,982,Neurology,2024-03-25,2024-04-04,ICU
+2802,983,Cardiology,2024-01-11,2024-01-16,Recovered
+2803,983,General Medicine,2024-02-17,2024-02-26,ICU
+2804,984,Emergency,2024-01-28,2024-02-05,Recovered
+2805,984,Pulmonology,2024-03-05,2024-03-07,Recovered
+2806,984,ICU,2024-04-01,2024-04-08,Recovered
+2807,985,General Medicine,2024-01-08,2024-01-17,Deceased
+2808,986,General Medicine,2024-01-05,2024-01-13,Recovered
+2809,986,Emergency,2024-02-11,2024-02-14,ICU
+2810,987,ICU,2024-01-24,2024-01-27,Recovered
+2811,988,Emergency,2024-01-17,2024-01-20,ICU
+2812,988,Pulmonology,2024-02-14,2024-02-17,Recovered
+2813,988,ICU,2024-02-14,2024-02-24,Recovered
+2814,988,Emergency,2024-04-19,2024-04-28,Recovered
+2815,989,Cardiology,2024-02-05,2024-02-07,Readmitted
+2816,989,Neurology,2024-03-11,2024-03-21,Recovered
+2817,989,Pulmonology,2024-03-10,2024-03-17,Recovered
+2818,989,Emergency,2024-03-21,2024-03-23,Recovered
+2819,989,Neurology,2024-04-09,2024-04-15,Recovered
+2820,990,Pulmonology,2024-02-06,2024-02-09,Recovered
+2821,990,Cardiology,2024-02-20,2024-02-29,Recovered
+2822,990,Neurology,2024-04-18,2024-04-20,Recovered
+2823,990,Cardiology,2024-03-10,2024-03-20,Recovered
+2824,991,Cardiology,2024-02-24,2024-03-01,Recovered
+2825,991,Neurology,2024-03-24,2024-03-26,Recovered
+2826,991,Emergency,2024-03-15,2024-03-21,ICU
+2827,992,Emergency,2024-02-06,2024-02-14,Recovered
+2828,993,Cardiology,2024-01-30,2024-02-06,Recovered
+2829,994,Cardiology,2024-02-11,2024-02-18,Recovered
+2830,994,Pulmonology,2024-03-14,2024-03-21,Recovered
+2831,995,Cardiology,2024-01-18,2024-01-20,ICU
+2832,995,Cardiology,2024-02-02,2024-02-06,ICU
+2833,995,Neurology,2024-03-10,2024-03-18,Recovered
+2834,995,Neurology,2024-03-06,2024-03-12,Recovered
+2835,996,General Medicine,2024-02-01,2024-02-03,Recovered
+2836,996,Cardiology,2024-03-01,2024-03-11,ICU
+2837,996,General Medicine,2024-03-20,2024-03-22,ICU
+2838,996,Pulmonology,2024-03-23,2024-03-26,Recovered
+2839,997,Pulmonology,2024-02-12,2024-02-22,Recovered
+2840,997,Pulmonology,2024-03-07,2024-03-16,ICU
+2841,997,ICU,2024-03-05,2024-03-11,ICU
+2842,998,General Medicine,2024-02-19,2024-02-28,Recovered
+2843,998,Pulmonology,2024-03-01,2024-03-08,Recovered
+2844,999,Cardiology,2024-02-11,2024-02-15,Recovered
+2845,999,ICU,2024-02-26,2024-03-07,Recovered
+2846,999,Neurology,2024-03-08,2024-03-18,Recovered
+2847,999,Cardiology,2024-03-27,2024-04-03,Recovered
+2848,1000,Emergency,2024-01-12,2024-01-14,Recovered
+2849,1000,Pulmonology,2024-01-25,2024-01-28,Recovered
