@@ -224,19 +224,15 @@ The analysis revealed a 6.63% readmission rate, with Emergency and Pulmonology r
      the implementation in the code.
 -->
 
-### Analytical Approach
-
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
-
 ### Key Metrics Defined
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `Total Visits` | Count of total visits | Tracks overall hospital visit volume |
+| `Total Visits` | Number of total visits | Tracks overall hospital visit volume |
 | `Patient Readmission Rate` | Number of readmitted patients divided by total admissions  | Measures care quality and identifies areas that may require better follow-up or treatment |
 | `30-Day readmissions` | Number of patients readmitted within 30 days  | Tracks the hospital’s 30-day readmission performance |
 | `Average Dr Response Time` | Average time taken to respond to each patient | Measures how quickly doctors respond to patients |
-| `ER admissions` | Count of admissions where the department is Emergency | Tracks the total number of emergency admissions |
+| `ER admissions` | Number of admissions where the department is "Emergency" | Tracks the total number of emergency admissions |
 
 
 ### Methods Used
