@@ -1,4 +1,4 @@
-# DAX Queries
+# DAX
 
 ## Total Visits
 
